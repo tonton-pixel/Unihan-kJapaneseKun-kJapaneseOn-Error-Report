@@ -1,5 +1,9 @@
 # Unihan kJapaneseKun Error Report \[Draft\]
 
+- **Subject: Unihan kJapaneseKun Error Report**
+- **Date: 2019-08-11**
+- **Author: Michel MARIANI**
+
 This error report intends to correct issues found in the `kJapaneseKun` fields of the `Unihan_Readings.txt` data file.
 
 The file [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) lists all the suggested changes in the same format than the original data file, but containing only the modified lines.
