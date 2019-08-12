@@ -10,7 +10,7 @@ In addition to fixing a few typos, it represents an attempt at using a constant 
 
 Also, it tries to apply proper romanization to pronunciations using modern, instead of historical, Japanese orthography, for instance by replacing は with わ, ひ with い, ふ with う, へ with え, ほ with お, etc. where appropriate, and making explicit use of small っ, ゃ, ゅ, ょ when necessary.
 
-Finally, in order to allow for lossless, round-trip conversion between rōmaji and kana, the Hepburn system could be adapted for the syllables `JI` and `ZU` which can represent either じ or ぢ, and ず or づ. For instance, non-standard `DJI` and `DZU` could be used for ぢ and づ, respectively. Doing so,【衄】はなぢ would be `HANADJI` instead of `HANAJI`, and【纚】かみづつみ would be `KAMIDZUTSUMI` instead of `KAMIZUTSUMI`... or one could even "borrow" Kunrei-style `DI` and `DU` for that purpose...
+Finally, in order to allow for lossless, round-trip conversion between rōmaji and kana, the Hepburn system could be adapted for the syllables `JI` and `ZU` which can represent either じ or ぢ, and ず or づ. For instance, non-standard `DJI` and `DZU` could be used for ぢ and づ, respectively. Doing so,【衄】はなぢ would be `HANADJI` instead of `HANAJI`, and【纚】かみづつみ would be `KAMIDZUTSUMI` instead of `KAMIZUTSUMI`... Alternatively, one could even "borrow" Kunrei-style `DI` and `DU` for that purpose...
 
 Incidentally, it should be noted that some `kJapaneseOn` fields are incorrectly tagged, and should be `kJapaneseKun` fields instead. For instance:
 
