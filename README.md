@@ -6,7 +6,7 @@
 
 This error report intends to correct issues found in the `kJapaneseKun` fields of the `Unihan_Readings.txt` data file.
 
-In addition to fixing a few typos, it represents an attempt at using a constant romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式); for instance, ふ should always be transliterated as `FU` not `HU`.
+In addition to fixing a few typos, it represents an attempt at using a constant romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式); for instance, ふ should always be transliterated as `FU`, not `HU`.
 
 Also, it tries to apply proper romanization to pronunciations using modern, instead of historical, Japanese orthography, for instance by replacing は with わ, ひ with い, ふ with う, へ with え, ほ with お, etc. where appropriate, and making explicit use of small っ, ゃ, ゅ, ょ when necessary.
 
