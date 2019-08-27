@@ -63,7 +63,7 @@ The file [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseK
 <tr><td>U+564A</td><td>噊</td><td>AYAHUI</td><td>AYAUI</td><td>あやふい -> あやうい (modern Japanese orthography)</td></tr>
 <tr><td>U+56EB</td><td>囫</td><td>MATSUTASHI HATSUKIRISHINAI</td><td>MATTASHI HAKKIRISHINAI</td><td><a href="https://tangorin.com/kanji?search=%E5%9B%AB">囫 - Kanji - Japanese Dictionary Tangorin</a>:<br>まったし・はっきりしない</td></tr>
 <tr><td>U+5780</td><td>垀</td><td>KAMAHE WAZURAHAI</td><td>KAMAE WAZURAWAI</td><td>かまへ -> かまえ<br>わずらはい -> わずらわい<br>(modern Japanese orthography)</td></tr>
-<tr><td>U+57CF</td><td>埏</td><td>HAKAMICHI NOBORU YAHARAGERUKONERU</td><td>HAKAMICHI NOBORU YAWARAGERU KONERU</td><td>やはらげる -> やわらげる (modern Japanese orthography)</td></tr>
+<tr><td>U+57CF</td><td>埏</td><td>HAKAMICHI NOBORU YAHARAGERUKONERU</td><td>HAKAMICHI NOBORU YAWARAGERU KONERU</td><td>やはらげる -> やわらげる (modern Japanese orthography)<br>+ split</td></tr>
 <tr><td>U+57F6</td><td>埶</td><td>UERU WAZA IKIHOHI</td><td>UERU WAZA IKIOI</td><td>いきほひ -> いきおい (modern Japanese orthography)</td></tr>
 <tr><td>U+57F8</td><td>埸</td><td>SAKAHI AZE</td><td>SAKAI AZE</td><td>さかひ -> さかい (modern Japanese orthography)</td></tr>
 <tr><td>U+5825</td><td>堥</td><td>KAHARAKE</td><td>KAWARAKE</td><td>かはらけ -> かわらけ (modern Japanese orthography)</td></tr>
