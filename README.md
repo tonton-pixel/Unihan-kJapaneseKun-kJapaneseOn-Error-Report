@@ -1,7 +1,7 @@
 # Unihan kJapaneseKun Error Report \[Draft\]
 
 - **Subject: Unihan kJapaneseKun Error Report**
-- **Date: 2019-08-27**
+- **Date: 2019-08-28**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` fields of the `Unihan_Readings.txt` data file.
@@ -89,6 +89,7 @@ The file [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseK
 <tr><td>U+5EB2</td><td>庲</td><td>IHE</td><td>IE</td><td>いへ -> いえ (modern Japanese orthography)</td></tr>
 <tr><td>U+5ECE</td><td>廎</td><td>IHENOKATAHARA</td><td>IENOKATAWARA</td><td>いへのかたはら -> いえのかたわら (modern Japanese orthography)</td></tr>
 <tr><td>U+5ED5</td><td>廕</td><td>OHOHU KABAHU KAGE</td><td>OOU KABAU KAGE</td><td>おほふ -> おおう<br>かばふ -> かばう<br>(modern Japanese orthography)</td></tr>
+<tr><td>U+5EDA</td><td>廚</td><td>KURYA</td><td>KURIYA</td><td>Consistent with:<br>• U+53A8 厨 KURIYA<br>• U+2228D 𢊍 KURIYA</td></tr>
 <tr><td>U+5F0E</td><td>弎</td><td>MI MIITSU MIITTSU</td><td>MI MITSU MITTSU</td><td>Consistent with:<br>• U+4E09 三 MITSU</td></tr>
 <tr><td>U+5F19</td><td>弙</td><td>OHATSUTENERAFU MOTSU</td><td>YUMIWOHATTENERAU MOTSU</td><td><a href="https://tangorin.com/kanji?search=%E5%BC%99">弙 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆみをはってねらう・もつ</td></tr>
 <tr><td>U+5FC4</td><td>忄</td><td>RITSUSHINBEN</td><td>RISSHINBEN</td><td>【立心偏】りっしんべん</td></tr>
