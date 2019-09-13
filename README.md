@@ -151,7 +151,9 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+66F7</td><td>曷</td><td>NANI NANZO IZUKUNSO</td><td>NANI NANZO IZUKUNZO</td><td><a href="https://tangorin.com/kanji?search=%E6%9B%B7">曷 - Kanji - Japanese Dictionary Tangorin</a>:<br>なんぞ・いつ・いずくんぞ・なに</td></tr>
 <tr><td>U+670F</td><td>朏</td><td>MIKAZUKI KURAI OROKA</td><td>MIKADZUKI KURAI OROKA</td><td><a href="https://en.wiktionary.org/wiki/%E6%9C%8F">朏 - Wiktionary</a>:<br>Kun: みかづき (mikazuki, 朏)</td></tr>
 <tr><td>U+6718</td><td>朘</td><td>CHIJIMARU CHIJIMU HERU</td><td>CHIDJIMARU CHIDJIMU HERU</td><td>Consistent with:<br>• U+7E2E 縮 CHIDJIMU CHIDJIMARU など</td></tr>
+<tr><td>U+6719</td><td>朙</td><td>AAKARI AKAARUI AKAARUMU</td><td>AKARI AKARUI AKARUMU</td><td><a href="https://tangorin.com/kanji?search=%E6%9C%99">朙 - Kanji - Japanese Dictionary Tangorin</a>:<br>あかり・あかるい・あかるむ・あからむ・あきらか・あける・あくる・あかす</td></tr>
 <tr><td>U+6722</td><td>朢</td><td>MOCHIZUKI</td><td>MOCHIDZUKI</td><td><a href="https://en.wiktionary.org/wiki/%E6%9C%A2">朢 - Wiktionary</a>:<br>Kun: もちづき (mochizuki)</td></tr>
+<tr><td>U+6784</td><td>构</td><td>KAMAAERU KAMAAU</td><td>KAMAERU KAMAU</td><td><a href="https://en.wiktionary.org/wiki/%E6%9E%84">构 - Wiktionary</a>:<br>Kun: かまえる (kamaeru), かまう (kamau)</td></tr>
 <tr><td>U+6793</td><td>枓</td><td>HISHIYAKU</td><td>HISHAKU</td><td><a href="https://tangorin.com/kanji?search=%E6%9E%93">枓 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひしゃく</td></tr>
 <tr><td>U+6888</td><td>梈</td><td>KIDETSUKUTSUTAOOYUMI</td><td>KIDETSUKUTTAOOYUMI</td><td>【木で作った大弓】きでつくったおおゆみ</td></tr>
 <tr><td>U+696C</td><td>楬</td><td>TATEHUDA</td><td>TATEFUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -171,8 +173,12 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+6F54</td><td>潔</td><td>ISAGYOI</td><td>ISAGIYOI</td><td><a href="https://tangorin.com/kanji?search=%E6%BD%94">潔 - Kanji - Japanese Dictionary Tangorin</a>:<br>いさぎよい</td></tr>
 <tr><td>U+7011</td><td>瀑</td><td>NIWAKAUME TAKI</td><td>NIWAKAAME TAKI</td><td><a href="https://en.wiktionary.org/wiki/%E7%80%91">瀑 - Wiktionary</a>:<br>Kun: にわかあめ (niwakaame, 瀑); たき (taki, 瀑)</td></tr>
 <tr><td>U+706C</td><td>灬</td><td>RETSUKA</td><td>REKKA</td><td>【列火】れっか</td></tr>
+<tr><td>U+706E</td><td>灮</td><td>HIKAARU HIKARI</td><td>HIKARU HIKARI</td><td><a href="https://tangorin.com/kanji?search=%E7%81%AE">灮 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひかる・ひかり</td></tr>
 <tr><td>U+7076</td><td>灶</td><td>KAMA KAMADO HETSUTSUI</td><td>KAMA KAMADO HETTSUI</td><td><a href="https://tangorin.com/kanji?search=%E7%81%B6">灶 - Kanji - Japanese Dictionary Tangorin</a>:<br>かまど・かま・へっつい</td></tr>
+<tr><td>U+707E</td><td>灾</td><td>WAZAWAAI</td><td>WAZAWAI</td><td><a href="https://en.wiktionary.org/wiki/%E7%81%BE">灾 - Wiktionary</a>:<br>Kun: わざわい (wazawai)</td></tr>
+<tr><td>U+7097</td><td>炗</td><td>HIKAARU HIKARI</td><td>HIKARU HIKARI</td><td><a href="https://tangorin.com/kanji?search=%E7%82%97">炗 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひかる・ひかり</td></tr>
 <tr><td>U+70CF</td><td>烏</td><td>KARASU IZUKUNSO</td><td>KARASU IZUKUNZO</td><td><a href="https://tangorin.com/kanji?search=%E7%83%8F">烏 - Kanji - Japanese Dictionary Tangorin</a>:<br>からす・いずくんぞ・なんぞ</td></tr>
+<tr><td>U+70D6</td><td>烖</td><td>WAZAWAAI</td><td>WAZAWAI</td><td><a href="https://en.wiktionary.org/wiki/%E7%83%96">烖 - Wiktionary</a>:<br>Kun: わざわい (wazawai)</td></tr>
 <tr><td>U+7109</td><td>焉</td><td>IZUKUNSO SUNAWACHI KORE</td><td>IZUKUNZO SUNAWACHI KORE</td><td><a href="https://tangorin.com/kanji?search=%E7%84%89">焉 - Kanji - Japanese Dictionary Tangorin</a>:<br>いずくんぞ・ここに・これ</td></tr>
 <tr><td>U+7195</td><td>熕</td><td>OOZUTSU</td><td>OODZUTSU</td><td><a href="https://tangorin.com/kanji?search=%E7%86%95">熕 - Kanji - Japanese Dictionary Tangorin</a>:<br>おおづつ</td></tr>
 <tr><td>U+722F</td><td>爯</td><td>TONAHE AGERU</td><td>TONAE AGERU</td><td>となへ -> となえ (modern Japanese orthography)</td></tr>
