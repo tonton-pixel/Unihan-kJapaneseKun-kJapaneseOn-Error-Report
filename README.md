@@ -215,8 +215,10 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+7CCE</td><td>糎</td><td>SENCHIMEETO</td><td>SENCHIMEETORU</td><td>Consistent with:<br>• U+54AA 咪 MEETORU<br>• U+7C73 米 MEETORU<br>• U+7C75 籵 DEKAMEETORU<br>• U+7C81 粁 KIROMEETORU<br>• U+7C89 粉 DESHIMEETORU<br>• U+7C8D 粍 MIRIMEETORU<br>• U+7CA8 粨 HEKUTOMEETORU</td></tr>
 <tr><td>U+7D04</td><td>約</td><td>TSUZUMERU TSUZUMAYAKA</td><td>TSUDZUMERU TSUDZUMAYAKA</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%84">約 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづまる・つづめる・つづまやか</td></tr>
 <tr><td>U+7D12</td><td>紒</td><td>YUU MUSUHU</td><td>YUU MUSUBU</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%92">紒 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆう・むすぶ</td></tr>
+<tr><td>U+7D18</td><td>紘</td><td>OOZUNA HIMO</td><td>OODZUNA HIMO</td><td><a href="https://en.wiktionary.org/wiki/%E7%B4%98">紘 - Wiktionary</a>:<br>Kun: おおづな (oozuna), ひも (himo)</td></tr>
 <tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td>SHU</td><td>しゆ -> しゅ (modern Japanese orthography)<br>Same as kJapaneseOn?</td></tr>
 <tr><td>U+7D7B</td><td>絻</td><td>MOHUKU</td><td>MOFUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+7D8B</td><td>綋</td><td>TSUNA TSUNAGU OOZUNA</td><td>TSUNA TSUNAGU OODZUNA</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%8B">綋 - Kanji - Japanese Dictionary Tangorin</a>:<br>おおづな・つな・つなぐ</td></tr>
 <tr><td>U+7D9A</td><td>続</td><td>TSUZUKU TSUGU</td><td>TSUDZUKU TSUGU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%9A">続 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづく・つづける・つぐない</td></tr>
 <tr><td>U+7DB4</td><td>綴</td><td>TSUZURU TOJIRU TSUZURI</td><td>TSUDZURU TOJIRU TSUDZURI</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%B4">綴 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・つづり・すみやか</td></tr>
 <tr><td>U+7DCA</td><td>緊</td><td>CHIJIMU KIBISHII</td><td>CHIDJIMU KIBISHII</td><td><a href="https://en.wiktionary.org/wiki/%E7%B7%8A">緊 - Wiktionary</a>:<br>Kun: ちぢむ (chijimu, 緊む); きびしい (kibishii, 緊しい)</td></tr>
@@ -229,8 +231,10 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+7E8C</td><td>續</td><td>TSUZUKU TSUGU</td><td>TSUDZUKU TSUGU</td><td>Consistent with:<br>• U+7D9A 続 TSUDZUKU</td></tr>
 <tr><td>U+7E8D</td><td>纍</td><td>TSUZURU</td><td>TSUDZURU</td><td><a href="https://tangorin.com/kanji?search=%E7%BA%8D">纍 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづる</td></tr>
 <tr><td>U+7E9A</td><td>纚</td><td>KAMIZUTSUMI TSUZUKU</td><td>KAMIDZUTSUMI TSUDZUKU</td><td><a href="https://tangorin.com/kanji?search=%E7%BA%9A">纚 - Kanji - Japanese Dictionary Tangorin</a>:<br>かみづつみ・つづく</td></tr>
+<tr><td>U+7E9C</td><td>纜</td><td>TOMOZUNA</td><td>TOMODZUNA</td><td><a href="https://tangorin.com/kanji?search=%E7%BA%9C">纜 - Kanji - Japanese Dictionary Tangorin</a>:<br>ともづな</td></tr>
 <tr><td>U+7E9D</td><td>纝</td><td>MATOFU KARAMERU KURONAWA</td><td>MATOU KARAMERU KURONAWA</td><td>まとふ -> まとう (modern Japanese orthography)</td></tr>
 <tr><td>U+7E9E</td><td>纞</td><td>TSUZUKU</td><td>TSUDZUKU</td><td><a href="https://tangorin.com/kanji?search=%E7%BA%9E">纞 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづく</td></tr>
+<tr><td>U+7EAE</td><td>纮</td><td>OOZUNA HIMO</td><td></td><td>Simplified Chinese, not Japanese</td></tr>
 <tr><td>U+7F3C</td><td>缼</td><td>KAAKERU KAAKU</td><td>KAKERU KAKU</td><td><a href="https://en.wiktionary.org/wiki/%E7%BC%BC">缼 - Wiktionary</a>:<br>Kun: かける (kakeru), かく (kaku)</td></tr>
 <tr><td>U+7F87</td><td>羇</td><td>OMOGAI TAZUNA TSUNAGU</td><td>OMOGAI TADZUNA TSUNAGU</td><td><a href="https://tangorin.com/kanji?search=%E7%BE%87">羇 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
 <tr><td>U+7F88</td><td>羈</td><td>OMOGAI TAZUNA TABI</td><td>OMOGAI TADZUNA TABI</td><td><a href="https://tangorin.com/kanji?search=%E7%BE%88">羈 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
@@ -345,6 +349,7 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+9757</td><td>靗</td><td>UKAGAFU</td><td>UKAGAU</td><td>うかがふ -> うかがう (modern Japanese orthography)</td></tr>
 <tr><td>U+976E</td><td>靮</td><td>TAZUNA</td><td>TADZUNA</td><td><a href="https://tangorin.com/kanji?search=%E9%9D%AE">靮 - Kanji - Japanese Dictionary Tangorin</a>:<br>たづな</td></tr>
 <tr><td>U+9776</td><td>靶</td><td>TAZUNA</td><td>TADZUNA</td><td><a href="https://tangorin.com/kanji?search=%E9%9D%B6">靶 - Kanji - Japanese Dictionary Tangorin</a>:<br>たづな</td></tr>
+<tr><td>U+9777</td><td>靷</td><td>HIKIZUNA</td><td>HIKIDZUNA</td><td><a href="https://en.wiktionary.org/wiki/%E9%9D%B7">靷 - Wiktionary</a>:<br>Kun: ひきづな (hikizuna)</td></tr>
 <tr><td>U+9780</td><td>鞀</td><td>HURITSUZUMI</td><td>FURITSUDZUMI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br><a href="https://tangorin.com/kanji?search=%E9%9E%80">鞀 - Kanji - Japanese Dictionary Tangorin</a>:<br>ふりつづみ</td></tr>
 <tr><td>U+9781</td><td>鞁</td><td>HIKIZUNA TAZUNA HARAOBI</td><td>HIKIDZUNA TADZUNA HARAOBI</td><td><a href="https://en.wiktionary.org/wiki/%E9%9E%81">鞁 - Wiktionary</a>:<br>Kun: ひきづな (hikizuna), たづな (tazuna), はらおび (haraobi)</td></tr>
 <tr><td>U+9789</td><td>鞉</td><td>HURITSUZUMI</td><td>FURITSUDZUMI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br><a href="https://tangorin.com/kanji?search=%E9%9E%89">鞉 - Kanji - Japanese Dictionary Tangorin</a>:<br>ふりつづみ</td></tr>
