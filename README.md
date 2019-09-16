@@ -14,6 +14,7 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 - Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): `ふ` -> always `FU`, not `HU`.
 - Apply proper romanization to pronunciations using modern (instead of ancient/historical) Japanese orthography:
     - replace は with わ, ひ with い, ふ with う, へ with え, ほ with お, etc. where appropriate,
+    - replace お with を when it is a particle,
     - make explicit use of small っ and small ゃ, ゅ, ょ when necessary.
     - add voiced ゛ or semi-voiced ゜ sound mark, if need be.
 - Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables `ぢ` -> `DJI` and `づ` -> `DZU`. This style of transliteration is actually used on the [ICU Transform Demonstration](http://demo.icu-project.org/icu-bin/translit) page.
@@ -52,6 +53,7 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+508B</td><td>傋</td><td>HETSURAHANU OROKA</td><td>HETSURAWANU OROKA</td><td>へつらはぬ -> へつらわぬ (modern Japanese orthography)</td></tr>
 <tr><td>U+508E</td><td>傎</td><td>SAKASAMA KURUHU</td><td>SAKASAMA KURUU</td><td>くるふ -> くるう (modern Japanese orthography)</td></tr>
 <tr><td>U+5092</td><td>傒</td><td>AYAHUI TSUNAGU</td><td>AYAUI TSUNAGU</td><td>あやふい -> あやうい (modern Japanese orthography)</td></tr>
+<tr><td>U+509C</td><td>傜</td><td>HUZOROI EDACHI TSUKAI</td><td>FUZOROI EDACHI TSUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+50C6</td><td>僆</td><td>HUTAGO OYOBU OHITSUKU</td><td>FUTAGO OYOBU OITSUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>おひつく -> おいつく (modern Japanese orthography)</td></tr>
 <tr><td>U+50D3</td><td>僓</td><td>NARAU MIYABIYAKA SHITAGAHU</td><td>NARAU MIYABIYAKA SHITAGAU</td><td>したがふ -> したがう (modern Japanese orthography)</td></tr>
 <tr><td>U+5107</td><td>儇</td><td>KASHIKOI AGIMUKU TOI MATOHU</td><td>KASHIKOI AGIMUKU TOI MATOU</td><td>まとふ -> まとう (modern Japanese orthography)</td></tr>
@@ -66,24 +68,35 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+527D</td><td>剽</td><td>OBYAKASU</td><td>OBIYAKASU</td><td><a href="https://tangorin.com/kanji?search=%E5%89%BD">剽 - Kanji - Japanese Dictionary Tangorin</a>:<br>おびやかす・さす</td></tr>
 <tr><td>U+528C</td><td>劌</td><td>SOKONAU SAKU HARI TOGE AHU</td><td>SOKONAU SAKU HARI TOGE AU</td><td>あふ -> あう (modern Japanese orthography)</td></tr>
 <tr><td>U+52BD</td><td>劽</td><td>GAARU</td><td>GARU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%BD">劽 - Kanji - Japanese Dictionary Tangorin</a>:<br>かる</td></tr>
+<tr><td>U+533D</td><td>匽</td><td>KAKUSU HUSU NABIKU HAKO DOBU</td><td>KAKUSU FUSU NABIKU HAKO DOBU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5393</td><td>厓</td><td>GAKE KISHI KATAHE HATE</td><td>GAKE KISHI KATAE HATE</td><td>かたへ -> かたえ (modern Japanese orthography)</td></tr>
 <tr><td>U+53D5</td><td>叕</td><td>TSUZURU SUMIYAKA</td><td>TSUDZURU SUMIYAKA</td><td><a href="https://tangorin.com/kanji?search=%E5%8F%95">叕 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・すみやか</td></tr>
 <tr><td>U+540D</td><td>名</td><td>NA NANORU NAZUKERU</td><td>NA NANORU NADZUKERU</td><td><a href="https://en.wiktionary.org/wiki/%E5%90%8D">名 - Wiktionary</a>:<br>Kun: な (na, 名, Jōyō); なのる (nanoru, 名); なづける (nazukeru, 名ける)</td></tr>
+<tr><td>U+5481</td><td>咁</td><td>HUKUMU</td><td>FUKUMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5485</td><td>咅</td><td>TSUBAOHAITEINAMU</td><td>TSUBAWOHAITEINAMU</td><td><a href="https://tangorin.com/kanji?search=%E5%92%85">咅 - Kanji - Japanese Dictionary Tangorin</a>:<br>つばをはいていなむ</td></tr>
 <tr><td>U+548D</td><td>咍</td><td>WARAHU YOROKOBU</td><td>WARAU YOROKOBU</td><td>わらふ -> わらう (modern Japanese orthography)</td></tr>
 <tr><td>U+5500</td><td>唀</td><td>SASOOU</td><td>SASOU</td><td>Consistent with:<br>• U+8A98 誘 SASOU</td></tr>
+<tr><td>U+5505</td><td>唅</td><td>HUKUMU HUKUMASEMONO</td><td>FUKUMU FUKUMASEMONO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5509</td><td>唉</td><td>AA AAOO IYAIYAKOTAERU</td><td>AA AO IYAIYAKOTAERU</td><td><a href="https://tangorin.com/kanji?search=%E5%94%89">唉 - Kanji - Japanese Dictionary Tangorin</a>:<br>ああ・あお・いやいやこたえる</td></tr>
 <tr><td>U+552B</td><td>唫</td><td>DOMORU OTOJIRU UUTAU</td><td>DOMORU KUCHIWOTOJIRU UTAUTAU</td><td><a href="https://tangorin.com/kanji?search=%E5%94%AB">唫 - Kanji - Japanese Dictionary Tangorin</a>:<br>どもる・くちをとじる・うたうたう</td></tr>
 <tr><td>U+5530</td><td>唰</td><td>HANETSUKUROHU</td><td>HANETSUKUROU</td><td>はねつくろふ -> はねつくろう (modern Japanese orthography)</td></tr>
+<tr><td>U+5535</td><td>唵</td><td>HUKUMU</td><td>FUKUMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+553C</td><td>唼</td><td>KURAHU SUSURU TSUIBAMU HUMU</td><td>KURAU SUSURU TSUIBAMU FUMU</td><td>くらふ -> くらう (modern Japanese orthography)<br>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+554E</td><td>啎</td><td>SAKARAU AU HURERU</td><td>SAKARAU AU FURERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+55A2</td><td>喢</td><td>OSHIYABERI</td><td>OSHABERI</td><td>Consistent with:<br>• U+5555 啕 OSHABERI<br>• U+55A6 喦 OSHABERI</td></tr>
 <tr><td>U+55CD</td><td>嗍</td><td>SUHU</td><td>SUU</td><td>すふ -> すう (modern Japanese orthography)</td></tr>
 <tr><td>U+55D1</td><td>嗑</td><td>OSHIYABERI AHU NOMU KATARU</td><td>OSHABERI AU NOMU KATARU</td><td>Consistent with:<br>• U+5555 啕 OSHABERI<br>• U+55A6 喦 OSHABERI<br>あふ -> あう (modern Japanese orthography)</td></tr>
+<tr><td>U+55DB</td><td>嗛</td><td>HUKUMU URAMU HERIKUDARU</td><td>FUKUMU URAMU HERIKUDARU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+55DE</td><td>嗞</td><td>NAGEKU WARAHU</td><td>NAGEKU WARAU</td><td>わらふ -> わらう (modern Japanese orthography)</td></tr>
 <tr><td>U+560D</td><td>嘍</td><td>URUSAISAAMA MIDARERU</td><td>URUSAISAMA MIDARERU</td><td><a href="https://tangorin.com/kanji?search=%E5%98%8D">嘍 - Kanji - Japanese Dictionary Tangorin</a>:<br>うるさい・みだれる</td></tr>
 <tr><td>U+563B</td><td>嘻</td><td>IMASHIME YAHARAGU AA WARAHU</td><td>IMASHIME YAWARAGU AA WARAU</td><td>やはらぐ -> やわらぐ<br>わらふ -> わらう<br>(modern Japanese orthography)</td></tr>
+<tr><td>U+563E</td><td>嘾</td><td>HUKUMU MUSABORU</td><td>FUKUMU MUSABORU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+5646</td><td>噆</td><td>HUKUMU KAMU</td><td>FUKUMU KAMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+564A</td><td>噊</td><td>AYAHUI</td><td>AYAUI</td><td>あやふい -> あやうい (modern Japanese orthography)</td></tr>
+<tr><td>U+5659</td><td>噙</td><td>HUKUMU</td><td>FUKUMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+56E6</td><td>囦</td><td>HUCHI</td><td>FUCHI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+56EB</td><td>囫</td><td>MATSUTASHI HATSUKIRISHINAI</td><td>MATTASHI HAKKIRISHINAI</td><td><a href="https://tangorin.com/kanji?search=%E5%9B%AB">囫 - Kanji - Japanese Dictionary Tangorin</a>:<br>まったし・はっきりしない</td></tr>
+<tr><td>U+5705</td><td>圅</td><td>AGO HUKUMU</td><td>AGO FUKUMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5715</td><td>圕</td><td></td><td>TOSHOKAN</td><td>kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E5%9C%95">圕 - Wiktionary</a>:<br>Kun: としょかん (toshokan, 圕)</td></tr>
 <tr><td>U+5717</td><td>圗</td><td>HAKARU EGAAKU E</td><td>HAKARU EGAKU E</td><td>Typo: EGAAKU -> EGAKU</td></tr>
 <tr><td>U+5749</td><td>坉</td><td>HUSAGU KIZUKU UNE HUSAGARU</td><td>FUSAGU KIZUKU UNE FUSAGARU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
