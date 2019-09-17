@@ -1,10 +1,10 @@
-# Unihan kJapaneseKun Error Report \[Draft\]
+# Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
 
-- **Subject: Unihan kJapaneseKun Error Report**
-- **Date: 2019-09-14**
+- **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
+- **Date: 2019-09-16**
 - **Author: Michel MARIANI**
 
-This error report intends to correct issues found in the `kJapaneseKun` fields of the `Unihan_Readings.txt` data file.
+This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the `Unihan_Readings.txt` data file.
 
 ## Aims and Objectives
 
@@ -24,6 +24,8 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
     # Unihan_Readings.txt
     # Date: 2018-11-09 21:36:19 GMT [JHJ]
     # Unicode version: 12.0.0
+
+### • kJapaneseKun
 
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
@@ -452,4 +454,13 @@ This error report intends to correct issues found in the `kJapaneseKun` fields o
 <tr><td>U+9F46</td><td>齆</td><td>HANAZUMARI</td><td>HANADZUMARI</td><td><a href="https://en.wiktionary.org/wiki/%E9%BD%86">齆 - Wiktionary</a>:<br>Kun: はなづまり (hanazumari)</td></tr>
 <tr><td>U+9F8F</td><td>龏</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOHOHI</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOOI</td><td>ともしびおほひ -> ともしびおおい (modern Japanese orthography)</td></tr>
 <tr><td>U+275D7</td><td>𧗗</td><td>HANAJI</td><td>HANADJI</td><td>Consistent with 【鼻血】はなぢ</td></tr>
+</table>
+
+### • kJapaneseOn
+
+<table>
+<tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
+<tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+9228</td><td>鈨</td><td>HABAKI</td><td></td><td>kJapaneseKun, not kJapaneseOn<br>Consistent with U+93BA 鎺</td></tr>
+<tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>kJapaneseKun, not kJapaneseOn</td></tr>
 </table>

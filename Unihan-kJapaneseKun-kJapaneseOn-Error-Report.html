@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Unihan kJapaneseKun & kJapaneseOn Error Report</title>
+  <style type="text/css">
+  body
+  {
+      font-family: sans-serif;
+      font-size: 13px;
+      line-height: 1.333em;
+  }
+  code, pre
+  {
+      font-size: 1.1em;
+      padding: 0.1em;
+      background-color: #F7F7F7;
+  }
+  table
+  {
+      border-collapse: collapse;
+      border: 1px solid gray;
+      font-size: 13px;
+  }
+  tr
+  {
+      border: 1px solid gray;
+  }
+  th
+  {
+      text-align: left;
+  }
+  th, td
+  {
+      border: 1px solid gray;
+      padding: 0.2em 0.5em;
+  }
+  </style>
+</head>
+<body>
+<h3>
+Subject: Unihan kJapaneseKun & kJapaneseOn Error Report
+<br>
+Date: 2019-09-16
+<br>
+Author: Michel MARIANI
+</h3>
+<p>
+This error report intends to correct issues found in the <code>kJapaneseKun</code> and <code>kJapaneseOn</code> fields of the <code>Unihan_Readings.txt</code> data file.
+</p>
+<h3>Aims and Objectives</h3>
+<ul>
+    <li>Fix typos, omissions and duplicates.</li>
+    <li>Use current spellings for names of chemical elements.</li>
+    <li>Detect and correct misclassified readings, i.e., when a <code>kJapaneseKun</code> reading should be <code>kJapaneseOn</code> instead, or vice versa.</li>
+    <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): <code>ふ</code> -> always <code>FU</code>, not <code>HU</code>.</li>
+    <li>Apply proper romanization to pronunciations using modern (instead of ancient/historical) Japanese orthography:
+        <ul>
+            <li>replace は with わ, ひ with い, ふ with う, へ with え, ほ with お, etc. where appropriate,</li>
+            <li>replace お with を when it is a particle,</li>
+            <li>make explicit use of small っ and small ゃ, ゅ, ょ when necessary.</li>
+            <li>add voiced ゛ or semi-voiced ゜ sound mark, if need be.</li>
+        </ul>
+    </li>
+    <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables <code>ぢ</code> -> <code>DJI</code> and <code>づ</code> -> <code>DZU</code>. This style of transliteration is actually used on the <a href="http://demo.icu-project.org/icu-bin/translit">ICU Transform Demonstration</a> page.</li>
+</ul>
+<h3>Assets</h3>
+<p>
+The attached files <code>Unihan_Readings_kJapaneseKun-Corrections.tsv</code> and <code>Unihan_Readings_kJapaneseOn-Corrections.tsv</code> list all the suggested changes in tab-separated format. Please refer to the <a href="https://github.com/tonton-pixel/Unihan-kJapaneseKun-kJapaneseOn-Error-Report">github repository</a> associated with this error report to obtain more information about each modification: rationale and/or references.
+</p>
+<p>
+The attached files <code>Unihan_Readings_kJapaneseKun-Corrected.txt</code> and <code>Unihan_Readings_kJapaneseOn-Corrected.txt</code> list all the suggested changes in
+the same format than the original data file <code>Unihan_Readings.txt</code>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
+</p>
+</body>
+</html>
