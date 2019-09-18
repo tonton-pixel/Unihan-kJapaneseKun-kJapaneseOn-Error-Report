@@ -72,6 +72,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+528C</td><td>劌</td><td>SOKONAU SAKU HARI TOGE AHU</td><td>SOKONAU SAKU HARI TOGE AU</td><td>あふ -> あう (modern Japanese orthography)</td></tr>
 <tr><td>U+52BD</td><td>劽</td><td>GAARU</td><td>GARU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%BD">劽 - Kanji - Japanese Dictionary Tangorin</a>:<br>かる</td></tr>
 <tr><td>U+533D</td><td>匽</td><td>KAKUSU HUSU NABIKU HAKO DOBU</td><td>KAKUSU FUSU NABIKU HAKO DOBU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+5341</td><td>十</td><td>TOU TOTABI</td><td>TO TOO TOTABI</td><td><a href="https://en.wiktionary.org/wiki/%E5%8D%81">十 - Wiktionary</a>:<br>Kun: と (to, 十, Jōyō); とお (tō, 十, Jōyō)←とを (towo, historical)</td></tr>
 <tr><td>U+5393</td><td>厓</td><td>GAKE KISHI KATAHE HATE</td><td>GAKE KISHI KATAE HATE</td><td>かたへ -> かたえ (modern Japanese orthography)</td></tr>
 <tr><td>U+53D5</td><td>叕</td><td>TSUZURU SUMIYAKA</td><td>TSUDZURU SUMIYAKA</td><td><a href="https://tangorin.com/kanji?search=%E5%8F%95">叕 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・すみやか</td></tr>
 <tr><td>U+540D</td><td>名</td><td>NA NANORU NAZUKERU</td><td>NA NANORU NADZUKERU</td><td><a href="https://en.wiktionary.org/wiki/%E5%90%8D">名 - Wiktionary</a>:<br>Kun: な (na, 名, Jōyō); なのる (nanoru, 名); なづける (nazukeru, 名ける)</td></tr>
@@ -225,6 +226,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+6799</td><td>枙</td><td>HUSHI</td><td>FUSHI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6888</td><td>梈</td><td>KIDETSUKUTSUTAOOYUMI</td><td>KIDETSUKUTTAOOYUMI</td><td>【木で作った大弓】きでつくったおおゆみ</td></tr>
 <tr><td>U+68D3</td><td>棓</td><td>TSUE HUMIITA</td><td>TSUE FUMIITA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+6909</td><td>椉</td><td>NOORU NOOSERU</td><td>NORU NOSERU</td><td>Consistent with:<br>• U+4E57 乗 NORU NOSERU<br>• U+4E58 乘 NORU</td></tr>
 <tr><td>U+6911</td><td>椑</td><td>TARU HUDA</td><td>TARU FUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+696C</td><td>楬</td><td>TATEHUDA</td><td>TATEFUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+69BA</td><td>榺</td><td>HATANOKEISHIWOMOTSUGU</td><td>HATAKENOISHIWOKATSUGU</td><td><a href="https://tangorin.com/kanji?search=%E6%A6%BA">榺 - Kanji - Japanese Dictionary Tangorin</a>:<br>はたけのいしをかつぐ</td></tr>
