@@ -136,7 +136,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5992</td><td>妒</td><td>NETAMU SONEMU TSUMORU HUSAGU</td><td>NETAMU SONEMU TSUMORU FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+59AE</td><td>妮</td><td>HASHITAME YAHARAKAKUMATSUHARU</td><td>HASHITAME YAWARAKAKUMATSUWARU</td><td>やはらかくまつはる -> やわらかくまつわる (modern Japanese orthography)</td></tr>
 <tr><td>U+59C5</td><td>姅</td><td>MIMOSAGAKIZUTSUKU</td><td>MIMOCHIGAKIZUTSUKU</td><td><a href="https://en.wiktionary.org/wiki/%E5%A7%85">姅 - Wiktionary</a>:<br>Kun: みもちがきずつく (mimochigakizutsuku)</td></tr>
-<tr><td>U+5A19</td><td>娙</td><td>SURARITOSHITEMIMEYOI HASHITAAME</td><td>SURARITOSHITEMIMEYOI HASHITAME</td><td>Typo?<br>Possibly related to:<br>• U+59AE 妮 HASHITAME<br>• U+5A2D 娭 HASHITAME<br>• U+5A62 婢 HASHITAME</td></tr>
+<tr><td>U+5A19</td><td>娙</td><td>SURARITOSHITEMIMEYOI HASHITAAME</td><td>SURARITOSHITEMIMEYOI HASHITAME</td><td>Typo<br>Possibly related to:<br>• U+59AE 妮 HASHITAME<br>• U+5A2D 娭 HASHITAME<br>• U+5A62 婢 HASHITAME</td></tr>
 <tr><td>U+5A2D</td><td>娭</td><td>TAHOMURERU HASHITAME</td><td>TAWAMURERU HASHITAME</td><td><a href="https://tangorin.com/kanji?search=%E5%A8%AD">娭 - Kanji - Japanese Dictionary Tangorin</a>:<br>たわむれる・はしため</td></tr>
 <tr><td>U+5A5E</td><td>婞</td><td>MOTORU MATSUSUGU</td><td>MOTORU MASSUGU</td><td><a href="https://tangorin.com/kanji?search=%E5%A9%9E">婞 - Kanji - Japanese Dictionary Tangorin</a>:<br>もとる・まっすぐ</td></tr>
 <tr><td>U+5AB1</td><td>媱</td><td>MIMEYOI TAHAMURERU</td><td>MIMEYOI TAWAMURERU</td><td>たはむれる -> たわむれる (modern Japanese orthography)</td></tr>
@@ -520,7 +520,16 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
+<tr><td>U+501C</td><td>倜</td><td>TEKI CHAKU CHUU CHYU</td><td>TEKI CHAKU CHUU CHU</td><td>Invalid romanization: CHYU -> CHU</td></tr>
+<tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+5794</td><td>垔</td><td>SHYOU JU TOU ZU</td><td>SHOU JU TOU ZU</td><td>Invalid romanization: SHYOU -> SHOU</td></tr>
+<tr><td>U+57F1</td><td>埱</td><td>SHYUU TOU TSU</td><td>SHUU TOU TSU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
+<tr><td>U+61E4</td><td>懤</td><td>CHYUU JIU TAU TOU</td><td>CHUU JIU TAU TOU</td><td>Invalid romanization: CHYUU -> CHUU</td></tr>
+<tr><td>U+8B76</td><td>譶</td><td>TOU DOU CHYUU JU</td><td>TOU DOU CHUU JU</td><td>Invalid romanization: CHYUU -> CHUU</td></tr>
+<tr><td>U+9194</td><td>醔</td><td>SHYUU JU</td><td>SHUU JU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+9228</td><td>鈨</td><td>HABAKI</td><td></td><td>kJapaneseKun, not kJapaneseOn<br>Consistent with U+93BA 鎺</td></tr>
+<tr><td>U+93C5</td><td>鏅</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
+<tr><td>U+93C9</td><td>鏉</td><td>SHYUU SHU SOU SOKU</td><td>SHUU SHU SOU SOKU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>kJapaneseKun, not kJapaneseOn</td></tr>
 </table>
