@@ -208,7 +208,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+64D5</td><td>擕</td><td>TAZUSAAERU TAZUSAAWARU</td><td>TAZUSAERU TAZUSAWARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%93%95">擕 - Wiktionary</a>:<br>Kun: たずさえる (tazusaeru), たずさわる (tazusawaru)</td></tr>
 <tr><td>U+64ED</td><td>擭</td><td>AAGERU AAGARU</td><td>AGERU AGARU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%AD">擭 - Kanji - Japanese Dictionary Tangorin</a>:<br>あげる・あがる</td></tr>
 <tr><td>U+657A</td><td>敺</td><td>KAAKERU KAARU</td><td>KAKERU KARU</td><td><a href="https://tangorin.com/kanji?search=%E6%95%BA">敺 - Kanji - Japanese Dictionary Tangorin</a>:<br>かける・かる</td></tr>
-<tr><td>U+65C9</td><td>旉</td><td>HU</td><td>SHIKU</td><td>Duplicate with kJapaneseOn<br><a href="https://tangorin.com/kanji?search=%E6%97%89">旉 - Kanji - Japanese Dictionary Tangorin</a>:<br>しく</td></tr>
+<tr><td>U+65C9</td><td>旉</td><td>HU</td><td></td><td>Variant of U+6577 敷<br>kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+6635</td><td>昵</td><td>CHIKAZUKU</td><td>CHIKADZUKU</td><td><a href="https://tangorin.com/kanji?search=%E6%98%B5">昵 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちかづく</td></tr>
 <tr><td>U+6680</td><td>暀</td><td>KAGAYAKIUTSUKUSHII</td><td>KAGAYAKI UTSUKUSHII</td><td><a href="https://tangorin.com/kanji?search=%E6%9A%80">暀 - Kanji - Japanese Dictionary Tangorin</a>:<br>かがやき・うつくしい・さかん</td></tr>
 <tr><td>U+668F</td><td>暏</td><td>ATSUI ATSUA</td><td>ATSUI ATSUSA</td><td>Consistent with:<br>• U+6691 暑 ATSUSA</td></tr>
