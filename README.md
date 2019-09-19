@@ -47,7 +47,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5053</td><td>偓</td><td>KAKAHARUSAMA</td><td>KAKAWARUSAMA</td><td>かかはるさま -> かかわるさま (modern Japanese orthography)</td></tr>
 <tr><td>U+5057</td><td>偗</td><td>MATSUSUGUNASAMA</td><td>MASSUGUNASAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%81%97">偗 - Kanji - Japanese Dictionary Tangorin</a>:<br>まっすぐ</td></tr>
 <tr><td>U+505E</td><td>偞</td><td>KARUI MIMEYOISAMA IYASHII OSU OSAHETSUKERU UTSUKUSHII</td><td>KARUI MIMEYOISAMA IYASHII OSU OSAETSUKERU UTSUKUSHII</td><td>おさへつける -> おさえつける (modern Japanese orthography)</td></tr>
-<tr><td>U+505F</td><td>偟</td><td>TATAZUMU SAMAYOHU TACHIMOTOHORU ITOMA</td><td>TATAZUMU SAMAYOU TACHIMOTOHORU ITOMA</td><td>さまよふ -> さまよう<br>(modern Japanese orthography)</td></tr>
+<tr><td>U+505F</td><td>偟</td><td>TATAZUMU SAMAYOHU TACHIMOTOHORU ITOMA</td><td>TATAZUMU SAMAYOU TACHIMOTOORU ITOMA</td><td>さまよふ -> さまよう<br>たちもとほる -> たちもとおる<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5061</td><td>偡</td><td>SOROTSUTESUSUMU TOTONOTSUTASAMA</td><td>SOROTTESUSUMU TOTONOTTASAMA</td><td><a href="https://en.wiktionary.org/wiki/%E5%81%A1">偡 - Wiktionary</a>:<br>Kun: そろってすすむ (sorottesusumu), ととのったさま (totonottasama)</td></tr>
 <tr><td>U+5062</td><td>偢</td><td>ITSUKUSHIMANAI UREHERUSAMA</td><td>ITSUKUSHIMANAI UREERUSAMA</td><td>うれへるさま -> うれえるさま (modern Japanese orthography)</td></tr>
 <tr><td>U+5073</td><td>偳</td><td>CHIHISAI SUKOSHI</td><td>CHIISAI SUKOSHI</td><td>ちひさい -> ちいさい (modern Japanese orthography)</td></tr>
@@ -71,6 +71,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+527D</td><td>剽</td><td>OBYAKASU</td><td>OBIYAKASU</td><td><a href="https://tangorin.com/kanji?search=%E5%89%BD">剽 - Kanji - Japanese Dictionary Tangorin</a>:<br>おびやかす・さす</td></tr>
 <tr><td>U+528C</td><td>劌</td><td>SOKONAU SAKU HARI TOGE AHU</td><td>SOKONAU SAKU HARI TOGE AU</td><td>あふ -> あう (modern Japanese orthography)</td></tr>
 <tr><td>U+52BD</td><td>劽</td><td>GAARU</td><td>GARU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%BD">劽 - Kanji - Japanese Dictionary Tangorin</a>:<br>かる</td></tr>
+<tr><td>U+52C6</td><td>勆</td><td>TSUTOI</td><td>TSUYOI</td><td><a href="https://tangorin.com/kanji?search=%E5%8B%86">勆 - Kanji - Japanese Dictionary Tangorin</a>:<br>つよい</td></tr>
+<tr><td>U+52DC</td><td>勜</td><td>TSUTOI</td><td>TSUYOI</td><td><a href="https://tangorin.com/kanji?search=%E5%8B%9C">勜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つよい</td></tr>
 <tr><td>U+533D</td><td>匽</td><td>KAKUSU HUSU NABIKU HAKO DOBU</td><td>KAKUSU FUSU NABIKU HAKO DOBU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5341</td><td>十</td><td>TOU TOTABI</td><td>TO TOO TOTABI</td><td><a href="https://en.wiktionary.org/wiki/%E5%8D%81">十 - Wiktionary</a>:<br>Kun: と (to, 十, Jōyō); とお (tō, 十, Jōyō)←とを (towo, historical)</td></tr>
 <tr><td>U+5393</td><td>厓</td><td>GAKE KISHI KATAHE HATE</td><td>GAKE KISHI KATAE HATE</td><td>かたへ -> かたえ (modern Japanese orthography)</td></tr>
@@ -139,6 +141,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5A19</td><td>娙</td><td>SURARITOSHITEMIMEYOI HASHITAAME</td><td>SURARITOSHITEMIMEYOI HASHITAME</td><td>Typo<br>Possibly related to:<br>• U+59AE 妮 HASHITAME<br>• U+5A2D 娭 HASHITAME<br>• U+5A62 婢 HASHITAME</td></tr>
 <tr><td>U+5A2D</td><td>娭</td><td>TAHOMURERU HASHITAME</td><td>TAWAMURERU HASHITAME</td><td><a href="https://tangorin.com/kanji?search=%E5%A8%AD">娭 - Kanji - Japanese Dictionary Tangorin</a>:<br>たわむれる・はしため</td></tr>
 <tr><td>U+5A5E</td><td>婞</td><td>MOTORU MATSUSUGU</td><td>MOTORU MASSUGU</td><td><a href="https://tangorin.com/kanji?search=%E5%A9%9E">婞 - Kanji - Japanese Dictionary Tangorin</a>:<br>もとる・まっすぐ</td></tr>
+<tr><td>U+5A69</td><td>婩</td><td>TOTONOU MIMEYOI MUTSUTSURISURU</td><td>TOTONOU MIMEYOI MUTTSURISURU</td><td>むつつりする -> むっつりする (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB1</td><td>媱</td><td>MIMEYOI TAHAMURERU</td><td>MIMEYOI TAWAMURERU</td><td>たはむれる -> たわむれる (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB2</td><td>媲</td><td>TSUREAHI</td><td>TSUREAI</td><td>つれあひ -> つれあい (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB5</td><td>媵</td><td>OKURU TSUKISOHI OKURIME OKURIBITO</td><td>OKURU TSUKISOI OKURIME OKURIBITO</td><td>つきそひ -> つきそい (modern Japanese orthography)</td></tr>
@@ -146,6 +149,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5ADB</td><td>嫛</td><td>MIDORIGO SUNAHO</td><td>MIDORIGO SUNAO</td><td>すなほ -> すなお (modern Japanese orthography)</td></tr>
 <tr><td>U+5AE5</td><td>嫥</td><td>MOTSUPARA TOTONOHERU</td><td>MOPPARA TOTONOERU</td><td><a href="https://tangorin.com/kanji?search=%E5%AB%A5">嫥 - Kanji - Japanese Dictionary Tangorin</a>:<br>もっぱら・ととのえる</td></tr>
 <tr><td>U+5AEA</td><td>嫪</td><td>KOHISHITAHU NAYAMU</td><td>KOISHITAU NAYAMU</td><td>こひしたふ -> こいしたう (modern Japanese orthography)</td></tr>
+<tr><td>U+5AF4</td><td>嫴</td><td>MAKASERU SHIBARAKU HAKARU SUUBERU</td><td>MAKASERU SHIBARAKU HAKARU SUBERU</td><td>Typo: すうべる -> すべる?</td></tr>
+<tr><td>U+5B48</td><td>孈</td><td>OROKADESHINAOTSUKURU</td><td>OROKADESHINAWOTSUKURU</td><td>Particle を -> WO</td></tr>
 <tr><td>U+5B56</td><td>孖</td><td>HUTAGO</td><td>FUTAGO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5B77</td><td>孷</td><td>HUTAGO</td><td>FUTAGO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5B7C</td><td>孼</td><td>WAKIBARA HIKOBAE WAZAHAHI</td><td>WAKIBARA HIKOBAE WAZAWAI</td><td>わざはひ -> わざわい (modern Japanese orthography)</td></tr>
@@ -191,9 +196,11 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5F4B</td><td>彋</td><td>TOBARINOHIRUGAHERUKOE</td><td>TOBARINOHIRUGAERUKOE</td><td>とばりのひるがへるこえ -> とばりのひるがえるこえ (modern Japanese orthography)</td></tr>
 <tr><td>U+5FC4</td><td>忄</td><td>RITSUSHINBEN</td><td>RISSHINBEN</td><td>【立心偏】りっしんべん</td></tr>
 <tr><td>U+6056</td><td>恖</td><td>OMOOU OMOERAKU OBOSU</td><td>OMOU OMOERAKU OBOSU</td><td>Consistent with:<br>• U+601D 思 OMOU</td></tr>
+<tr><td>U+6059</td><td>恙</td><td>TSUTSUGA</td><td>TSUTSUGANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%81%99">恙 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつがない</td></tr>
 <tr><td>U+60AA</td><td>悪</td><td>WARUI NIKUMU IZUKUNSO</td><td>WARUI NIKUMU IZUKUNZO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%AA">悪 - Wiktionary</a>:<br>Kun: わるい (warui, 悪い, Jōyō); にくむ (nikumu, 悪む); いずくんぞ (izukunzo, 悪んぞ)</td></tr>
 <tr><td>U+60DD</td><td>惝</td><td>UTSUTORISURU</td><td>UTTORISURU</td><td><a href="https://tangorin.com/kanji?search=%E6%83%9D">惝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うっとりする</td></tr>
 <tr><td>U+618B</td><td>憋</td><td>SETSUKACHI</td><td>SEKKACHI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%8B">憋 - Kanji - Japanese Dictionary Tangorin</a>:<br>せっかち</td></tr>
+<tr><td>U+619C</td><td>憜</td><td>TSUTSUMANAI</td><td>TSUTSUSHIMANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%9C">憜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつしまない</td></tr>
 <tr><td>U+61E4</td><td>懤</td><td>HOGARAKA UREHERU</td><td>HOGARAKA UREERU</td><td>うれへる -> うれえる (modern Japanese orthography)</td></tr>
 <tr><td>U+623B</td><td>戻</td><td>MODOSU MOTORU ITARU</td><td>MODOSU MODORU ITARU</td><td><a href="https://tangorin.com/kanji?search=%E6%88%BB">戻 - Kanji - Japanese Dictionary Tangorin</a>:<br>もどす・もどる</td></tr>
 <tr><td>U+6254</td><td>扔</td><td>YORU HURERU SUTERU</td><td>YORU FURERU SUTERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -222,8 +229,10 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+6722</td><td>朢</td><td>MOCHIZUKI</td><td>MOCHIDZUKI</td><td><a href="https://en.wiktionary.org/wiki/%E6%9C%A2">朢 - Wiktionary</a>:<br>Kun: もちづき (mochizuki)</td></tr>
 <tr><td>U+676C</td><td>杬</td><td>HUJIMODOKI</td><td>FUJIMODOKI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6784</td><td>构</td><td>KAMAAERU KAMAAU</td><td>KAMAERU KAMAU</td><td><a href="https://en.wiktionary.org/wiki/%E6%9E%84">构 - Wiktionary</a>:<br>Kun: かまえる (kamaeru), かまう (kamau)</td></tr>
+<tr><td>U+678B</td><td>枋</td><td>MAYUMI FUSHIZUKE IKADA</td><td>MAYUMI FUSHIDZUKE IKADA</td><td>Consistent with etymology?:<br>ふしずけ -> ふしづけ</td></tr>
 <tr><td>U+6793</td><td>枓</td><td>HISHIYAKU</td><td>HISHAKU</td><td><a href="https://tangorin.com/kanji?search=%E6%9E%93">枓 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひしゃく</td></tr>
 <tr><td>U+6799</td><td>枙</td><td>HUSHI</td><td>FUSHI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+682B</td><td>栫</td><td>FUSHIZUKE KAKOMI MAGAKI</td><td>FUSHIDZUKE KAKOMI MAGAKI</td><td>Consistent with etymology?:<br>ふしずけ -> ふしづけ</td></tr>
 <tr><td>U+6888</td><td>梈</td><td>KIDETSUKUTSUTAOOYUMI</td><td>KIDETSUKUTTAOOYUMI</td><td>【木で作った大弓】きでつくったおおゆみ</td></tr>
 <tr><td>U+68D3</td><td>棓</td><td>TSUE HUMIITA</td><td>TSUE FUMIITA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6909</td><td>椉</td><td>NOORU NOOSERU</td><td>NORU NOSERU</td><td>Consistent with:<br>• U+4E57 乗 NORU NOSERU<br>• U+4E58 乘 NORU</td></tr>
@@ -319,8 +328,10 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+7D18</td><td>紘</td><td>OOZUNA HIMO</td><td>OODZUNA HIMO</td><td><a href="https://en.wiktionary.org/wiki/%E7%B4%98">紘 - Wiktionary</a>:<br>Kun: おおづな (oozuna), ひも (himo)</td></tr>
 <tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td>SHU</td><td>しゆ -> しゅ (modern Japanese orthography)<br>Same as kJapaneseOn?</td></tr>
 <tr><td>U+7D7B</td><td>絻</td><td>MOHUKU</td><td>MOFUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+7D82</td><td>綂</td><td>HOOBIRU</td><td>HOBIRU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%82">綂 - Kanji - Japanese Dictionary Tangorin</a>:<br>すべて・ほびる</td></tr>
 <tr><td>U+7D8B</td><td>綋</td><td>TSUNA TSUNAGU OOZUNA</td><td>TSUNA TSUNAGU OODZUNA</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%8B">綋 - Kanji - Japanese Dictionary Tangorin</a>:<br>おおづな・つな・つなぐ</td></tr>
 <tr><td>U+7D9A</td><td>続</td><td>TSUZUKU TSUGU</td><td>TSUDZUKU TSUGU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%9A">続 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづく・つづける・つぐない</td></tr>
+<tr><td>U+7D9C</td><td>綜</td><td>SUBERU OSA</td><td>SUBERU OSAMERU</td><td><a href="https://en.wiktionary.org/wiki/%E7%B6%9C">綜 - Wiktionary</a>:<br>Kun: おさめる (osameru, 綜める); すべる (suberu, 綜べる)</td></tr>
 <tr><td>U+7DB4</td><td>綴</td><td>TSUZURU TOJIRU TSUZURI</td><td>TSUDZURU TOJIRU TSUDZURI</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%B4">綴 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・つづり・すみやか</td></tr>
 <tr><td>U+7DCA</td><td>緊</td><td>CHIJIMU KIBISHII</td><td>CHIDJIMU KIBISHII</td><td><a href="https://en.wiktionary.org/wiki/%E7%B7%8A">緊 - Wiktionary</a>:<br>Kun: ちぢむ (chijimu, 緊む); きびしい (kibishii, 緊しい)</td></tr>
 <tr><td>U+7DFC</td><td>緼</td><td>HURUI</td><td>FURUI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -340,6 +351,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+7E9E</td><td>纞</td><td>TSUZUKU</td><td>TSUDZUKU</td><td><a href="https://tangorin.com/kanji?search=%E7%BA%9E">纞 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづく</td></tr>
 <tr><td>U+7EAE</td><td>纮</td><td>OOZUNA HIMO</td><td>OODZUNA HIMO</td><td>Simplified variant of U+7D18 紘 OODZUNA HIMO</td></tr>
 <tr><td>U+7F3C</td><td>缼</td><td>KAAKERU KAAKU</td><td>KAKERU KAKU</td><td><a href="https://en.wiktionary.org/wiki/%E7%BC%BC">缼 - Wiktionary</a>:<br>Kun: かける (kakeru), かく (kaku)</td></tr>
+<tr><td>U+7F67</td><td>罧</td><td>FUSHIZUKE</td><td>FUSHIDZUKE</td><td>Consistent with etymology?:<br>ふしずけ -> ふしづけ</td></tr>
 <tr><td>U+7F87</td><td>羇</td><td>OMOGAI TAZUNA TSUNAGU</td><td>OMOGAI TADZUNA TSUNAGU</td><td><a href="https://tangorin.com/kanji?search=%E7%BE%87">羇 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
 <tr><td>U+7F88</td><td>羈</td><td>OMOGAI TAZUNA TABI</td><td>OMOGAI TADZUNA TABI</td><td><a href="https://tangorin.com/kanji?search=%E7%BE%88">羈 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
 <tr><td>U+80DB</td><td>胛</td><td>KAIGARAHO</td><td>KAIGARAHONE</td><td><a href="https://tangorin.com/kanji?search=%E8%83%9B">胛 - Kanji - Japanese Dictionary Tangorin</a>:<br>かいがらぼね</td></tr>
@@ -400,6 +412,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+8AAF</td><td>誯</td><td>TONAAERU</td><td>TONAERU</td><td><a href="https://en.wiktionary.org/wiki/%E8%AA%AF">誯 - Wiktionary</a>:<br>Kun: となえる (tonaeru)</td></tr>
 <tr><td>U+8AB7</td><td>誷</td><td>SHIHIRU</td><td>SHIIRU</td><td>しひる -> しいる (modern Japanese orthography)</td></tr>
 <tr><td>U+8AD1</td><td>諑</td><td>UTSUTAE</td><td>UTTAE</td><td><a href="https://tangorin.com/kanji?search=%E8%AB%91">諑 - Kanji - Japanese Dictionary Tangorin</a>:<br>うったえ</td></tr>
+<tr><td>U+8AEC</td><td>諬</td><td>SATOOSU</td><td>SATOSU</td><td><a href="https://tangorin.com/kanji?search=%E8%AB%AC">諬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひらく・さとす</td></tr>
 <tr><td>U+8B30</td><td>謰</td><td>OSHIYABIRI</td><td>OSHABERI</td><td><a href="https://en.wiktionary.org/wiki/%E8%AC%B0">謰 - Wiktionary</a>:<br>Kun: おしゃべり (oshaberi)</td></tr>
 <tr><td>U+8B5E</td><td>譞</td><td>SAKASHII CHIE OHOKUMONOIFU</td><td>SAKASHII CHIE OOKUMONOIU</td><td>おほくものいふ -> おおくものいう (modern Japanese orthography)</td></tr>
 <tr><td>U+8C39</td><td>谹</td><td>HUKAI</td><td>FUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -463,6 +476,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+9334</td><td>錴</td><td>ROJUUMU</td><td>ROJIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%82%A6%E3%83%A0">ロジウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8C%B4">錴 - Wiktionary</a>:<br>Kun: ロジウム (rojiumu)</td></tr>
 <tr><td>U+9337</td><td>錷</td><td>KADORINYUUMU</td><td>GADORINIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%89%E3%83%AA%E3%83%8B%E3%82%A6%E3%83%A0">ガドリニウム</a><br><a href="https://tangorin.com/kanji?search=%E9%8C%B7">錷 - Kanji - Japanese Dictionary Tangorin</a>:<br>がどりにうむ</td></tr>
 <tr><td>U+9376</td><td>鍶</td><td>SERYUUMU</td><td>SUTORONCHIUMU</td><td>To be consistent with kDefinition: "strontium; an iron utensil", not "cerium"<br>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%83%81%E3%82%A6%E3%83%A0">ストロンチウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8D%B6">鍶 - Wiktionary</a>:<br>Kun: ストロンチウム (sutoronchiumu)</td></tr>
+<tr><td>U+938F</td><td>鎏</td><td>UTSUKUSHIIGANE</td><td>UTSUKUSHIIKANE</td><td><a href="https://tangorin.com/kanji?search=%E9%8E%8F">鎏 - Kanji - Japanese Dictionary Tangorin</a>:<br>うつくしいかね</td></tr>
 <tr><td>U+9398</td><td>鎘</td><td>KANAENOTSUKIMONO KADOMYUUSU</td><td>KANAENOTSUKIMONO KADOMIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%89%E3%83%9F%E3%82%A6%E3%83%A0">カドミウム</a><br><a href="https://tangorin.com/kanji?search=%E9%8E%98">鎘 - Kanji - Japanese Dictionary Tangorin</a>:<br>かなえのつきもの・かどみうむ</td></tr>
 <tr><td>U+93B4</td><td>鎴</td><td>SUTORONSHUUMU</td><td>SUTORONCHIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%83%81%E3%82%A6%E3%83%A0">ストロンチウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8E%B4">鎴 - Wiktionary</a>:<br>Kun: ストロンチウム (sutoronchiumu)</td></tr>
 <tr><td>U+93B5</td><td>鎵</td><td>GARYUUMU</td><td>GARIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0">ガリウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8E%B5">鎵 - Wiktionary</a>:<br>Kun: がりうむ (gariumu)</td></tr>
