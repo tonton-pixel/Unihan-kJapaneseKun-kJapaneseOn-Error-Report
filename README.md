@@ -241,6 +241,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+6C4F</td><td>汏</td><td>ARUU</td><td>ARAU</td><td><a href="https://tangorin.com/kanji?search=%E6%B1%8F">汏 - Kanji - Japanese Dictionary Tangorin</a>:<br>あらう</td></tr>
 <tr><td>U+6C59</td><td>汙</td><td>KEGAASU KEGAARERU TOGOOSU KEGAARERUKEGAARUWASHII</td><td>KEGASU KEGARERU TOGOSU KEGARAWASHII</td><td>Deliberate vandalism?<br><a href="https://tangorin.com/kanji?search=%E6%B1%99">汙 - Kanji - Japanese Dictionary Tangorin</a>:<br>けがす・けがれる・けがらわしい・よごす・よごれる・きたない</td></tr>
 <tr><td>U+6C89</td><td>沉</td><td>SHIZUUMU SHIZUUMERU</td><td>SHIZUMU SHIZUMERU</td><td>Consistent with:<br>• U+6C88 沈 SHIZUMU SHIZUMERU</td></tr>
+<tr><td>U+6C97</td><td>沗</td><td>MOOERU MOOU</td><td>MOERU MOU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%97">沗 - Kanji - Japanese Dictionary Tangorin</a>:<br>そえる・そう・もえる・もう</td></tr>
 <tr><td>U+6CC6</td><td>泆</td><td>AHURERU</td><td>AFURERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6D2F</td><td>洯</td><td>ISAGIYOOI</td><td>ISAGIYOI</td><td><a href="https://tangorin.com/kanji?search=%E6%B4%AF">洯 - Kanji - Japanese Dictionary Tangorin</a>:<br>いさぎよい</td></tr>
 <tr><td>U+6D44</td><td>浄</td><td>KYOI TORO</td><td>KIYOI TORO</td><td><a href="https://en.wiktionary.org/wiki/%E6%B5%84">浄 - Wiktionary</a>:<br>Kun: きよい (kiyoi, 浄い); とろ (toro)</td></tr>
