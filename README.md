@@ -8,8 +8,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 ## Aims and Objectives
 
-- Fix typos, omissions and duplicates.
-- Use current spellings for names of chemical elements.
+- Fix typos, omissions and duplicates; split accidentally joined readings.
 - Detect and correct misclassified readings, i.e., when a `kJapaneseKun` reading should be `kJapaneseOn` instead, or vice versa.
 - Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): `ふ` -> always `FU`, not `HU`.
 - Apply proper romanization to pronunciations using modern (instead of ancient/historical) Japanese orthography:
@@ -17,6 +16,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
     - replace お with を when it is a particle,
     - make explicit use of small っ and small ゃ, ゅ, ょ when necessary.
     - add voiced ゛ or semi-voiced ゜ sound mark, if need be.
+- Use current spellings for names of chemical elements.
 - Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables `ぢ` -> `DJI` and `づ` -> `DZU`. This style of transliteration is actually used on the [ICU Transform Demonstration](http://demo.icu-project.org/icu-bin/translit) page.
 
 ## Proposed Modifications
@@ -520,7 +520,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+9AD3</td><td>髓</td><td>ZUI</td><td></td><td>Variant of U+9AC4 髄<br>kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+9B6B</td><td>魫</td><td>SAKANONOKO</td><td>SAKANANOKO</td><td><a href="https://tangorin.com/kanji?search=%E9%AD%AB">魫 - Kanji - Japanese Dictionary Tangorin</a>:<br>さかなのこ</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td></td><td>NAMAZU</td><td>NAMAZU: kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E9%AD%B8">魸 - Wiktionary</a>:<br>Kun: なまず (namazu)</td></tr>
-<tr><td>U+9BBE</td><td>鮾</td><td></td><td>KUSARU</td><td>kJapaneseKun, not kJapaneseOn<br>Consistent with:<br>• U+9BD8 鯘 KUSARU<br><a href="https://en.wiktionary.org/wiki/%E9%AE%BE">鮾 - Wiktionary</a>:<br>Kun: くさる (kusaru, 鮾る)</td></tr>
+<tr><td>U+9BBE</td><td>鮾</td><td></td><td>KUSARU</td><td>KUSARU: kJapaneseKun, not kJapaneseOn<br>Consistent with:<br>• U+9BD8 鯘 KUSARU<br><a href="https://en.wiktionary.org/wiki/%E9%AE%BE">鮾 - Wiktionary</a>:<br>Kun: くさる (kusaru, 鮾る)</td></tr>
 <tr><td>U+9EE0</td><td>黠</td><td>SATOI WARUGASHIKO</td><td>SATOI WARUGASHIKOI</td><td><a href="https://tangorin.com/kanji?search=%E9%BB%A0">黠 - Kanji - Japanese Dictionary Tangorin</a>:<br>さとい・わるがしこい</td></tr>
 <tr><td>U+9F13</td><td>鼓</td><td>TSUZUMI</td><td>TSUDZUMI</td><td><a href="https://tangorin.com/kanji?search=%E9%BC%93">鼓 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづみ</td></tr>
 <tr><td>U+9F14</td><td>鼔</td><td>TSUZUMI</td><td>TSUDZUMI</td><td><a href="https://tangorin.com/kanji?search=%E9%BC%94">鼔 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづみ</td></tr>
@@ -539,6 +539,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+4EFE</td><td>仾</td><td>TEI HIKUI</td><td>TEI</td><td>HIKUI: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+501C</td><td>倜</td><td>TEKI CHAKU CHUU CHYU</td><td>TEKI CHAKU CHUU CHU</td><td>Invalid romanization: CHYU -> CHU</td></tr>
 <tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
+<tr><td>U+5282</td><td>劂</td><td>KETSU KUUCHI KEI KE</td><td>KETSU KUCHI KEI KE</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%82">劂 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケツ・クチ・ケイ・ケ</td></tr>
+<tr><td>U+5550</td><td>啐</td><td>SAI SE SA SHUTSU SHUCHI KATSUKACHI</td><td>SAI SE SA SHUTSU SHUCHI KATSU KACHI</td><td><a href="https://tangorin.com/kanji?search=%E5%95%90">啐 - Kanji - Japanese Dictionary Tangorin</a>:<br>サイ・セ・サ・シュツ・シュチ・カツ・カチ</td></tr>
 <tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>TOSHOKAN: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>SHYOU JU TOU ZU</td><td>SHOU JU TOU ZU</td><td>Invalid romanization: SHYOU -> SHOU</td></tr>
 <tr><td>U+57F1</td><td>埱</td><td>SHYUU TOU TSU</td><td>SHUU TOU TSU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
@@ -553,4 +555,5 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+93C9</td><td>鏉</td><td>SHYUU SHU SOU SOKU</td><td>SHUU SHU SOU SOKU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+9B2B</td><td>鬫</td><td>KAN KEN HOERU</td><td>KAN KEN</td><td>HOERU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>NAMAZU: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+9BBE</td><td>鮾</td><td>DAI NAI KUSARU</td><td>DAI NAI</td><td>KUSARU: kJapaneseKun, not kJapaneseOn</td></tr>
 </table>

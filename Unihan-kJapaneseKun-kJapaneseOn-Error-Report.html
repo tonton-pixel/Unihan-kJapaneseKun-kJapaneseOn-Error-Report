@@ -50,8 +50,7 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
 </p>
 <h3>Aims and Objectives</h3>
 <ul>
-    <li>Fix typos, omissions and duplicates.</li>
-    <li>Use current spellings for names of chemical elements.</li>
+    <li>Fix typos, omissions and duplicates; split accidentally joined readings.</li>
     <li>Detect and correct misclassified readings, i.e., when a <code>kJapaneseKun</code> reading should be <code>kJapaneseOn</code> instead, or vice versa.</li>
     <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): <code>ふ</code> -> always <code>FU</code>, not <code>HU</code>.</li>
     <li>Apply proper romanization to pronunciations using modern (instead of ancient/historical) Japanese orthography:
@@ -62,6 +61,7 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
             <li>add voiced ゛ or semi-voiced ゜ sound mark, if need be.</li>
         </ul>
     </li>
+    <li>Use current spellings for names of chemical elements.</li>
     <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables <code>ぢ</code> -> <code>DJI</code> and <code>づ</code> -> <code>DZU</code>. This style of transliteration is actually used on the <a href="http://demo.icu-project.org/icu-bin/translit">ICU Transform Demonstration</a> page.</li>
 </ul>
 <h3>Proposed Modifications</h3>
@@ -71,12 +71,11 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
 # Unicode version: 12.0.0
 </pre>
 <p>
-The attached files <code>Unihan_Readings_kJapaneseKun-Corrections.tsv</code> and <code>Unihan_Readings_kJapaneseOn-Corrections.tsv</code> list all the suggested changes in tab-separated format. Please refer to the <a href="https://github.com/tonton-pixel/Unihan-kJapaneseKun-kJapaneseOn-Error-Report">github repository</a> associated with this error report to obtain more information about each modification: rationale and/or references.
+The attached files <code>Unihan_Readings_kJapaneseKun-Corrections.tsv</code> and <code>Unihan_Readings_kJapaneseOn-Corrections.tsv</code> list all the suggested changes in tab-separated format. Please refer to the <a href="https://github.com/tonton-pixel/Unihan-kJapaneseKun-kJapaneseOn-Error-Report">github repository</a> associated with this error report to obtain more information about each proposed modification: rationale and/or references.
 </p>
 <p>
 The attached files <code>Unihan_Readings_kJapaneseKun-Corrected.txt</code> and <code>Unihan_Readings_kJapaneseOn-Corrected.txt</code> list all the suggested changes in 
-the same format than the original data file <code>Unihan_Readings.txt</code>, but containing only the modified lines. Any line whose third tab-separated field value is 
-empty (no readings) is meant to be deleted.
+the same format than the original data file <code>Unihan_Readings.txt</code>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 </p>
 </body>
 </html>
