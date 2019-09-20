@@ -540,7 +540,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+501C</td><td>倜</td><td>TEKI CHAKU CHUU CHYU</td><td>TEKI CHAKU CHUU CHU</td><td>Invalid romanization: CHYU -> CHU</td></tr>
 <tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+5282</td><td>劂</td><td>KETSU KUUCHI KEI KE</td><td>KETSU KUCHI KEI KE</td><td>Typo: KUUCHI -> KUCHI<br><a href="https://tangorin.com/kanji?search=%E5%8A%82">劂 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケツ・クチ・ケイ・ケ</td></tr>
-<tr><td>U+5550</td><td>啐</td><td>SAI SE SA SHUTSU SHUCHI KATSUKACHI</td><td>SAI SE SA SHUTSU SHUCHI KATSU KACHI</td><td><a href="https://tangorin.com/kanji?search=%E5%95%90">啐 - Kanji - Japanese Dictionary Tangorin</a>:<br>サイ・セ・サ・シュツ・シュチ・カツ・カチ</td></tr>
+<tr><td>U+5550</td><td>啐</td><td>SAI SE SA SHUTSU SHUCHI KATSUKACHI</td><td>SAI SE SA SHUTSU SHUCHI KATSU KACHI</td><td>Split readings: KATSUKACHI -> KATSU KACHI<br><a href="https://tangorin.com/kanji?search=%E5%95%90">啐 - Kanji - Japanese Dictionary Tangorin</a>:<br>サイ・セ・サ・シュツ・シュチ・カツ・カチ</td></tr>
 <tr><td>U+5610</td><td>嘐</td><td>HAU HEU RAUROU BIU MIU</td><td>HOU HYOU ROU BYUU MYOU</td><td>Split readings: RAUROU -> RAU ROU<br>Modern Japanese orthography: HAU -> HOU, HEU -> HYOU, RAU -> ROU, BIU -> BYUU, MIU -> MYOU<br>+ remove duplicates</td></tr>
 <tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>TOSHOKAN: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>SHYOU JU TOU ZU</td><td>SHOU JU TOU ZU</td><td>Invalid romanization: SHYOU -> SHOU</td></tr>
@@ -556,7 +556,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+9228</td><td>鈨</td><td>HABAKI</td><td></td><td>HABAKI: kJapaneseKun, not kJapaneseOn<br>Consistent with U+93BA 鎺</td></tr>
 <tr><td>U+93C5</td><td>鏅</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+93C9</td><td>鏉</td><td>SHYUU SHU SOU SOKU</td><td>SHUU SHU SOU SOKU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
-<tr><td>U+942F</td><td>鐯</td><td>SHAKU CHAKU JIIYAKU</td><td>SHAKU CHAKU JAKU</td><td>Typo?: JIIYAKU -> JIYAKU -> JAKU</td></tr>
+<tr><td>U+942F</td><td>鐯</td><td>SHAKU CHAKU JIIYAKU</td><td>SHAKU CHAKU JAKU</td><td>Typo: JIIYAKU -> JIYAKU -> JAKU</td></tr>
 <tr><td>U+9B2B</td><td>鬫</td><td>KAN KEN HOERU</td><td>KAN KEN</td><td>HOERU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>NAMAZU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9BBE</td><td>鮾</td><td>DAI NAI KUSARU</td><td>DAI NAI</td><td>KUSARU: kJapaneseKun, not kJapaneseOn</td></tr>
