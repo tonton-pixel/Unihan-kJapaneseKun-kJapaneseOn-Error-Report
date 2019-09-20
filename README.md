@@ -541,7 +541,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
 <tr><td>U+5282</td><td>劂</td><td>KETSU KUUCHI KEI KE</td><td>KETSU KUCHI KEI KE</td><td>Typo: KUUCHI -> KUCHI<br><a href="https://tangorin.com/kanji?search=%E5%8A%82">劂 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケツ・クチ・ケイ・ケ</td></tr>
 <tr><td>U+5550</td><td>啐</td><td>SAI SE SA SHUTSU SHUCHI KATSUKACHI</td><td>SAI SE SA SHUTSU SHUCHI KATSU KACHI</td><td>Split readings: KATSUKACHI -> KATSU KACHI<br><a href="https://tangorin.com/kanji?search=%E5%95%90">啐 - Kanji - Japanese Dictionary Tangorin</a>:<br>サイ・セ・サ・シュツ・シュチ・カツ・カチ</td></tr>
-<tr><td>U+5610</td><td>嘐</td><td>HAU HEU RAUROU BIU MIU</td><td>HOU HYOU ROU BYUU MYOU</td><td>Split readings: RAUROU -> RAU ROU<br>Modern Japanese orthography: HAU -> HOU, HEU -> HYOU, RAU -> ROU, BIU -> BYUU, MIU -> MYOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5610</td><td>嘐</td><td>HAU HEU RAUROU BIU MIU</td><td>HOU HYOU ROU BYUU MYUU</td><td>Split readings: RAUROU -> RAU ROU<br>Modern Japanese orthography: HAU -> HOU, HEU -> HYOU, RAU -> ROU, BIU -> BYUU, MIU -> MYUU<br>+ remove duplicates</td></tr>
 <tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>TOSHOKAN: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>SHYOU JU TOU ZU</td><td>SHOU JU TOU ZU</td><td>Invalid romanization: SHYOU -> SHOU</td></tr>
 <tr><td>U+57F1</td><td>埱</td><td>SHYUU TOU TSU</td><td>SHUU TOU TSU</td><td>Invalid romanization: SHYUU -> SHUU</td></tr>
