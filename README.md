@@ -151,6 +151,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5AB1</td><td>媱</td><td>MIMEYOI TAHAMURERU</td><td>MIMEYOI TAWAMURERU</td><td>たはむれる → たわむれる (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB2</td><td>媲</td><td>TSUREAHI</td><td>TSUREAI</td><td>つれあひ → つれあい (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB5</td><td>媵</td><td>OKURU TSUKISOHI OKURIME OKURIBITO</td><td>OKURU TSUKISOI OKURIME OKURIBITO</td><td>つきそひ → つきそい (modern Japanese orthography)</td></tr>
+<tr><td>U+5AC2</td><td>嫂</td><td>ANYOME</td><td>ANIYOME</td><td>Typo: ANYOME → ANIYOME<br><a href="https://en.wiktionary.org/wiki/%E5%AB%82">嫂 - Wiktionary</a>:<br>Kun: あによめ (aniyome)</td></tr>
 <tr><td>U+5AD5</td><td>嫕</td><td>SHITOYAKA SUNAHO</td><td>SHITOYAKA SUNAO</td><td>すなほ → すなお (modern Japanese orthography)</td></tr>
 <tr><td>U+5ADB</td><td>嫛</td><td>MIDORIGO SUNAHO</td><td>MIDORIGO SUNAO</td><td>すなほ → すなお (modern Japanese orthography)</td></tr>
 <tr><td>U+5AE5</td><td>嫥</td><td>MOTSUPARA TOTONOHERU</td><td>MOPPARA TOTONOERU</td><td><a href="https://tangorin.com/kanji?search=%E5%AB%A5">嫥 - Kanji - Japanese Dictionary Tangorin</a>:<br>もっぱら・ととのえる</td></tr>
