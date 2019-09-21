@@ -19,6 +19,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 - Use current spellings for names of chemical elements.
 - Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU. This style of transliteration is actually used on the [ICU Transform Demonstration](http://demo.icu-project.org/icu-bin/translit) page.
 
+**Note**: In order to accommodate for corrections making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency), as described in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/), *must* be adapted: `[A-Z]+` → `[A-Z']+`.
+
 ## Proposed Modifications
 
     # Unihan_Readings.txt
@@ -65,6 +67,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5131</td><td>儱</td><td>DESAAGARANAI UYAMUYA</td><td>DEKIAGARANAI UYAMUYA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%B1">儱 - Kanji - Japanese Dictionary Tangorin</a>:<br>できあがらない・うやむや</td></tr>
 <tr><td>U+5133</td><td>儳</td><td>TOTONOHANU HAYAI WARUISAMA</td><td>TOTONOWANU HAYAI WARUISAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%B3">儳 - Kanji - Japanese Dictionary Tangorin</a>:<br>ととのわぬ・はやい・わるい</td></tr>
 <tr><td>U+5198</td><td>冘</td><td>OKOTARU TAMERAHU UTAGAHU</td><td>OKOTARU TAMERAU UTAGAU</td><td>ためらふ → ためらう<br>うたがふ → うたがう<br>(modern Japanese orthography)</td></tr>
+<tr><td>U+51B5</td><td>况</td><td>IWANYA OMOMUKI</td><td>IWAN'YA OMOMUKI</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E5%86%B5">况 - Wiktionary</a>:<br>Kun: いわんや (iwan'ya), おもむき (omomuki)</td></tr>
 <tr><td>U+5202</td><td>刂</td><td>RITSUTOU</td><td>RITTOU</td><td>【立刀】りっとう</td></tr>
 <tr><td>U+5216</td><td>刖</td><td>KIRU AYAHUI</td><td>KIRU AYAUI</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
 <tr><td>U+5226</td><td>刦</td><td>OIYAKASU</td><td>OBIYAKASU</td><td>Consistent with:<br>• U+52AB 劫 OBIYAKASU</td></tr>
@@ -257,6 +260,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+6C59</td><td>汙</td><td>KEGAASU KEGAARERU TOGOOSU KEGAARERUKEGAARUWASHII</td><td>KEGASU KEGARERU TOGOSU KEGARAWASHII</td><td>Deliberate vandalism?<br><a href="https://tangorin.com/kanji?search=%E6%B1%99">汙 - Kanji - Japanese Dictionary Tangorin</a>:<br>けがす・けがれる・けがらわしい・よごす・よごれる・きたない</td></tr>
 <tr><td>U+6C89</td><td>沉</td><td>SHIZUUMU SHIZUUMERU</td><td>SHIZUMU SHIZUMERU</td><td>Consistent with:<br>• U+6C88 沈 SHIZUMU SHIZUMERU</td></tr>
 <tr><td>U+6C97</td><td>沗</td><td>MOOERU MOOU</td><td>MOERU MOU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%97">沗 - Kanji - Japanese Dictionary Tangorin</a>:<br>そえる・そう・もえる・もう</td></tr>
+<tr><td>U+6CC1</td><td>況</td><td>IWANYA OMOMUKI</td><td>IWAN'YA OMOMUKI</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E6%B3%81">況 - Wiktionary</a>:<br>Kun: まして (mashite, 況して); いわんや (iwan'ya, 況んや)←いはんや (ifan'ya, historical); おもむき (omomuki, 況)</td></tr>
 <tr><td>U+6CC6</td><td>泆</td><td>AHURERU</td><td>AFURERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6D2F</td><td>洯</td><td>ISAGIYOOI</td><td>ISAGIYOI</td><td><a href="https://tangorin.com/kanji?search=%E6%B4%AF">洯 - Kanji - Japanese Dictionary Tangorin</a>:<br>いさぎよい</td></tr>
 <tr><td>U+6D44</td><td>浄</td><td>KYOI TORO</td><td>KIYOI TORO</td><td><a href="https://en.wiktionary.org/wiki/%E6%B5%84">浄 - Wiktionary</a>:<br>Kun: きよい (kiyoi, 浄い); とろ (toro)</td></tr>
@@ -301,6 +305,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+77AF</td><td>瞯</td><td>UWAMEZUKAI NAGASHIME</td><td>UWAMEDZUKAI NAGASHIME</td><td><a href="https://tangorin.com/kanji?search=%E7%9E%AF">瞯 - Kanji - Japanese Dictionary Tangorin</a>:<br>うわめづかい・ながしめ</td></tr>
 <tr><td>U+77BE</td><td>瞾</td><td>TEERU TERASU TEERERU</td><td>TERU TERASU TERERU</td><td><a href="https://tangorin.com/kanji?search=%E7%9E%BE">瞾 - Kanji - Japanese Dictionary Tangorin</a>:<br>てる・てらす・てれる</td></tr>
 <tr><td>U+77DE</td><td>矞</td><td>ANAOAKERU</td><td>ANAWOAKERU</td><td><a href="https://tangorin.com/kanji?search=%E7%9F%9E">矞 - Kanji - Japanese Dictionary Tangorin</a>:<br>あなをあける</td></tr>
+<tr><td>U+77E4</td><td>矤</td><td>HAGU HAGE IWANYA</td><td>HAGU HAGE IWAN'YA</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E7%9F%A4">矤 - Wiktionary</a>:<br>Kun: はぐ (hagu), はげ (hage), いわんや (iwan'ya)</td></tr>
+<tr><td>U+77E7</td><td>矧</td><td>IWANYA HAGU HAGI</td><td>IWAN'YA HAGU HAGI</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E7%9F%A7">矧 - Wiktionary</a>:<br>Kun: いわんや (iwan'ya); はぐ (hagu); はぎ (hagi)</td></tr>
 <tr><td>U+7822</td><td>砢</td><td>ISHIZUMI</td><td>ISHIDZUMI</td><td><a href="https://tangorin.com/kanji?search=%E7%A0%A2">砢 - Kanji - Japanese Dictionary Tangorin</a>:<br>いしづみ</td></tr>
 <tr><td>U+7832</td><td>砲</td><td>OOZUTSU TSUTSU</td><td>OODZUTSU TSUTSU</td><td>Consistent with:<br>• U+7195 熕 OODZUTSU</td></tr>
 <tr><td>U+7897</td><td>碗</td><td>KOBACHI WAN</td><td>KOBACHI</td><td>WAN: kJapaneseOn, not kJapaneseKun</td></tr>
@@ -413,6 +419,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+8989</td><td>覉</td><td>OMOGAI TAZUNA TSUNAGU TABI</td><td>OMOGAI TADZUNA TSUNAGU TABI</td><td><a href="https://tangorin.com/kanji?search=%E8%A6%89">覉 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
 <tr><td>U+898A</td><td>覊</td><td>OMOGAI TAZUNA TSUNAGU</td><td>OMOGAI TADZUNA TSUNAGU</td><td><a href="https://tangorin.com/kanji?search=%E8%A6%8A">覊 - Kanji - Japanese Dictionary Tangorin</a>:<br>おもがい・たづな・たび・つなぐ</td></tr>
 <tr><td>U+8990</td><td>覐</td><td>OBOOERU SAAMASU SAAMERU</td><td>OBOERU SAMASU SAMERU</td><td>Consistent with:<br>• U+899A 覚 OBOERU SAMASU<br>• U+89BA 覺 OBOERU SAMASU</td></tr>
+<tr><td>U+8A20</td><td>訠</td><td>HAGU HAGI IWANYA</td><td>HAGU HAGI IWAN'YA</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E8%A8%A0">訠 - Wiktionary</a>:<br>Kun: はぐ (hagu), はぎ (hagi), いわんや (iwan'ya)</td></tr>
 <tr><td>U+8A43</td><td>詃</td><td>IZANAU ITSUHARU</td><td>IZANAU ITSUWARU</td><td>いつはる → いつわる (modern Japanese orthography)</td></tr>
 <tr><td>U+8A47</td><td>詇</td><td>SATOI TSUGERU TOFU KOE</td><td>SATOI TSUGERU TOU KOE</td><td>とふ → とう (modern Japanese orthography)</td></tr>
 <tr><td>U+8A49</td><td>詉</td><td>KAMABISUSHII WARUKUIFU</td><td>KAMABISUSHII WARUKUIU</td><td>わるくいふ → わるくいう (modern Japanese orthography)</td></tr>

@@ -64,6 +64,9 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
     <li>Use current spellings for names of chemical elements.</li>
     <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU. This style of transliteration is actually used on the <a href="http://demo.icu-project.org/icu-bin/translit">ICU Transform Demonstration</a> page.</li>
 </ul>
+<p>
+<strong>Note</strong>: In order to accommodate for corrections making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for <code>kJapaneseKun</code> (and possibly <code>kJapaneseOn</code> for the sake of consistency), as described in the document <a href="https://www.unicode.org/reports/tr18/">Unicode® Standard Annex #38 - Unicode Han Database (Unihan)</a>, <em>must</em> be adapted: <code>[A-Z]+</code> → <code>[A-Z']+</code>`.
+</p>
 <h3>Proposed Modifications</h3>
 <pre>
 # Unihan_Readings.txt
