@@ -7,6 +7,7 @@ U+5610	kJapaneseOn	HOU HYOU ROU BYUU MYUU
 U+5715	kJapaneseOn	SHO
 U+5794	kJapaneseOn	SHOU JU TOU ZU
 U+57F1	kJapaneseOn	SHUU TOU TSU
+U+5864	kJapaneseOn	KEN
 U+61E4	kJapaneseOn	CHUU JIU TAU TOU
 U+639A	kJapaneseOn	RYOU
 U+7243	kJapaneseOn	OU CHOU YOU SHOU JI
