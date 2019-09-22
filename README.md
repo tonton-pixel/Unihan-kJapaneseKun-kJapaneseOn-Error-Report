@@ -580,7 +580,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+4EFE</td><td>仾</td><td>TEI HIKUI</td><td>TEI</td><td>HIKUI: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+4FA0</td><td>侠</td><td>KYOU</td><td>KYOU KYAN</td><td>KYAN: kJapaneseOn, not kJapaneseKun</td></tr>
-<tr><td>U+4FE0</td><td>侠</td><td>KYOU</td><td>KYOU KYAN</td><td>KYAN: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+4FE0</td><td>俠</td><td>KYOU</td><td>KYOU KYAN</td><td>KYAN: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+501C</td><td>倜</td><td>TEKI CHAKU CHUU CHYU</td><td>TEKI CHAKU CHUU CHU</td><td>Invalid romanization: CHYU → CHU</td></tr>
 <tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
 <tr><td>U+5282</td><td>劂</td><td>KETSU KUUCHI KEI KE</td><td>KETSU KUCHI KEI KE</td><td>Typo: KUUCHI → KUCHI<br><a href="https://tangorin.com/kanji?search=%E5%8A%82">劂 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケツ・クチ・ケイ・ケ</td></tr>
