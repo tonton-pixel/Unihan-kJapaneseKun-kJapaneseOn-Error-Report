@@ -45,6 +45,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+4FD2</td><td>俒</td><td>MATSUTASHI KEGASU</td><td>MATTASHI KEGASU</td><td><a href="https://tangorin.com/kanji?search=%E4%BF%92">俒 - Kanji - Japanese Dictionary Tangorin</a>:<br>まったし・けがす</td></tr>
 <tr><td>U+4FD3</td><td>俓</td><td>ISOGU WAGI NAHOI KATAI</td><td>ISOGU WAGI NAOI KATAI</td><td>なほい → なおい (modern Japanese orthography)</td></tr>
 <tr><td>U+4FD9</td><td>俙</td><td>UTSUTAERU KOBIHETSURAU HONOKA</td><td>UTTAERU KOBIHETSURAU HONOKA</td><td>うつたえる → うったえる (modern Japanese orthography)</td></tr>
+<tr><td>U+5018</td><td>倘</td><td>MOSHI TACHIMOTOHORU</td><td>MOSHI TACHIMOTOORU</td><td>たちもとほる → たちもとおる<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+501E</td><td>倞</td><td>TSUYOI AKIRAKA TOOI MOTOMERU KISOHU</td><td>TSUYOI AKIRAKA TOOI MOTOMERU KISOU</td><td>きそふ → きそう (modern Japanese orthography)</td></tr>
 <tr><td>U+5039</td><td>倹</td><td>TSUZUMAYAKA</td><td>TSUDZUMAYAKA</td><td><a href="https://tangorin.com/kanji?search=%E5%80%B9">倹 - Kanji - Japanese Dictionary Tangorin</a>:<br>つましい・つづまやか</td></tr>
 <tr><td>U+5052</td><td>偒</td><td>MATSUSUGU</td><td>MASSUGU</td><td><a href="https://tangorin.com/kanji?search=%E5%81%92">偒 - Kanji - Japanese Dictionary Tangorin</a>:<br>まっすぐ</td></tr>
@@ -66,6 +67,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5109</td><td>儉</td><td>TSUZUMAYAKA</td><td>TSUDZUMAYAKA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%89">儉 - Kanji - Japanese Dictionary Tangorin</a>:<br>つましい・つづまやか</td></tr>
 <tr><td>U+5131</td><td>儱</td><td>DESAAGARANAI UYAMUYA</td><td>DEKIAGARANAI UYAMUYA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%B1">儱 - Kanji - Japanese Dictionary Tangorin</a>:<br>できあがらない・うやむや</td></tr>
 <tr><td>U+5133</td><td>儳</td><td>TOTONOHANU HAYAI WARUISAMA</td><td>TOTONOWANU HAYAI WARUISAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%B3">儳 - Kanji - Japanese Dictionary Tangorin</a>:<br>ととのわぬ・はやい・わるい</td></tr>
+<tr><td>U+513B</td><td>儻</td><td>SUGURERU MOSHI ARUIWA</td><td>SUGURERU MOSHI ARUIHA</td><td><a href="https://en.wiktionary.org/wiki/%E5%84%BB">儻 - Wiktionary</a>:<br>Kun: すぐれる (sugureru); もし (moshi); あるいは (arui wa)</td></tr>
+<tr><td>U+5180</td><td>冀</td><td>KOINEGAU KOINEGAWA</td><td>KOINEGAU KOINEGAWAKUHA</td><td><a href="https://en.wiktionary.org/wiki/%E5%86%80">冀 - Wiktionary</a>:<br>Kun: こいねがう (koinegau, 冀う)←こひねがふ (kofinegafu, historical); こいねがわくは (koinegawakuha, 冀わくは)←こひねがはくは (kofinegafakufa, historical)<br>Related to 【乞い願わくは・希くは・冀くは・〈庶幾〉くは】こいねがわくは</td></tr>
 <tr><td>U+5198</td><td>冘</td><td>OKOTARU TAMERAHU UTAGAHU</td><td>OKOTARU TAMERAU UTAGAU</td><td>ためらふ → ためらう<br>うたがふ → うたがう<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+51B5</td><td>况</td><td>IWANYA OMOMUKI</td><td>IWAN'YA OMOMUKI</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E5%86%B5">况 - Wiktionary</a>:<br>Kun: いわんや (iwan'ya), おもむき (omomuki)</td></tr>
 <tr><td>U+5202</td><td>刂</td><td>RITSUTOU</td><td>RITTOU</td><td>【立刀】りっとう</td></tr>
@@ -202,6 +205,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5F36</td><td>弶</td><td>AMIOHARU WANAOKAKERU</td><td>AMIWOHARU WANAWOKAKERU</td><td><a href="https://en.wiktionary.org/wiki/%E5%BC%B6">弶 - Wiktionary</a>:<br>Kun: あみをはる (amioharu), わなをかける (wanaokakeru)</td></tr>
 <tr><td>U+5F43</td><td>彃</td><td>IRU YUMIZURU</td><td>IRU YUMIDZURU</td><td>Related to【弓弦】ゆみづる?</td></tr>
 <tr><td>U+5F4B</td><td>彋</td><td>TOBARINOHIRUGAHERUKOE</td><td>TOBARINOHIRUGAERUKOE</td><td>とばりのひるがへるこえ → とばりのひるがえるこえ (modern Japanese orthography)</td></tr>
+<tr><td>U+5F7D</td><td>彽</td><td>TACHIMOTOHORU</td><td>TACHIMOTOORU</td><td>たちもとほる → たちもとおる<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5FC4</td><td>忄</td><td>RITSUSHINBEN</td><td>RISSHINBEN</td><td>【立心偏】りっしんべん</td></tr>
 <tr><td>U+6056</td><td>恖</td><td>OMOOU OMOERAKU OBOSU</td><td>OMOU OMOERAKU OBOSU</td><td>Consistent with:<br>• U+601D 思 OMOU</td></tr>
 <tr><td>U+6059</td><td>恙</td><td>TSUTSUGA</td><td>TSUTSUGANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%81%99">恙 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつがない</td></tr>
