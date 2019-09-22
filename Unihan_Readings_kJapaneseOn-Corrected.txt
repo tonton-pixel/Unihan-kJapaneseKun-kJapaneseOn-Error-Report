@@ -1,4 +1,6 @@
 U+4EFE	kJapaneseOn	TEI
+U+4FA0	kJapaneseOn	KYOU KYAN
+U+4FE0	kJapaneseOn	KYOU KYAN
 U+501C	kJapaneseOn	TEKI CHAKU CHUU CHU
 U+50E6	kJapaneseOn	SHUU SHU
 U+5282	kJapaneseOn	KETSU KUCHI KEI KE
@@ -11,6 +13,7 @@ U+5864	kJapaneseOn	KEN
 U+61E4	kJapaneseOn	CHUU JIU TAU TOU
 U+639A	kJapaneseOn	RYOU
 U+7243	kJapaneseOn	OU CHOU YOU SHOU JI
+U+77C3	kJapaneseOn	GEI NEI NYOU
 U+84A6	kJapaneseOn	WAKU KYAKU KAKU YAKU
 U+88DB	kJapaneseOn	YUU OU YOU
 U+8A47	kJapaneseOn	YOU OU EI
