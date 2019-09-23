@@ -409,6 +409,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+82AF</td><td>芯</td><td>HOSOI TOUSHINGU</td><td>HOSOI TOUSHINGUSA</td><td><a href="https://en.wiktionary.org/wiki/%E8%8A%AF">芯 - Wiktionary</a>:<br>Kun: ほそい (hosoi); とうしんぐさ (tōshingusa, 芯)</td></tr>
 <tr><td>U+8300</td><td>茀</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+833C</td><td>茼</td><td>SHIYUNGIKU</td><td>SHUNGIKU</td><td>From: 春菊 "spring chrysanthemum"<br>• <a href="https://en.wikipedia.org/wiki/Glebionis_coronaria">Glebionis coronaria</a><br>• <a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B3%E3%82%AE%E3%82%AF">シュンギク</a></td></tr>
+<tr><td>U+8353</td><td>荓</td><td>BYOU</td><td></td><td>BYOU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+8382</td><td>莂</td><td>TANEOMAKU UTSUSHIUERU</td><td>TANEWOMAKU UTSUSHIUERU</td><td><a href="https://tangorin.com/kanji?search=%E8%8E%82">莂 - Kanji - Japanese Dictionary Tangorin</a>:<br>たねをまく・うつしうえる</td></tr>
 <tr><td>U+83D0</td><td>菐</td><td>WAZURAHASHII</td><td>WAZURAWASHII</td><td>わずらはしい → わずらわしい (modern Japanese orthography)</td></tr>
 <tr><td>U+845B</td><td>葛</td><td>KUZU TSUZURA</td><td>KUZU TSUDZURA</td><td><a href="https://tangorin.com/kanji?search=%E8%91%9B">葛 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづら・くず</td></tr>
@@ -594,6 +595,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+639A</td><td>掚</td><td>RYOU KAZARU</td><td>RYOU</td><td>KAZARU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+7243</td><td>牃</td><td>OUCHOU YOU SHOU JI</td><td>OU CHOU YOU SHOU JI</td><td>Split readings: OUCHOU → OU CHOU<br>Consistent with:<br>• U+696A 楪 CHOU</td></tr>
 <tr><td>U+77C3</td><td>矃</td><td>GEI NYOU</td><td>GEI NEI NYOU</td><td>NEI NYOU: kJapaneseOn, not kJapaneseKun<br>Consistent with U+5BE7 寧 NEI NYOU</td></tr>
+<tr><td>U+8353</td><td>荓</td><td>HEI</td><td>HEI BYOU</td><td>BYOU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+84A6</td><td>蒦</td><td>WAKU KUWAKU KYAKU KAKUYAKU</td><td>WAKU KYAKU KAKU YAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU<br>Split readings: KAKUYAKU → KAKU YAKU<br>+ remove duplicates</td></tr>
 <tr><td>U+88DB</td><td>裛</td><td>YOUU OU YOU</td><td>YUU OU YOU</td><td>Typo: YOUU → YUU<br><a href="https://tangorin.com/kanji?search=%E8%A3%9B">裛 - Kanji - Japanese Dictionary Tangorin</a>:<br>オウ・ヨウ・ユウ</td></tr>
 <tr><td>U+8A47</td><td>詇</td><td>YOU OUU EI</td><td>YOU OU EI</td><td>Typo: OUU → OU<br><a href="https://en.wiktionary.org/wiki/%E8%A9%87">詇 - Wiktionary</a>:<br>On (unclassified): よう (yō), おう (ō), えい (ei)</td></tr>
