@@ -180,8 +180,8 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5C75</td><td>屵</td><td>KISHIGATAKA AOGO</td><td>KISHIGATAKAI AOGO</td><td><a href="https://tangorin.com/kanji?search=%E5%B1%B5">屵 - Kanji - Japanese Dictionary Tangorin</a>:<br>きしがたかい・あおご</td></tr>
 <tr><td>U+5C87</td><td>岇</td><td>YAMANOTAKIISAMA</td><td>YAMANOTAKAISAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%B2%87">岇 - Kanji - Japanese Dictionary Tangorin</a>:<br>やまのたかい</td></tr>
 <tr><td>U+5C8F</td><td>岏</td><td>KEHASHII TAKAI</td><td>KEWASHII TAKAI</td><td><a href="https://en.wiktionary.org/wiki/%E5%B2%8F">岏 - Wiktionary</a>:<br>Kun: けわしい (kewashii, 岏しい)←けはしい (kefasii, historical); たかい (takai, 岏い)</td></tr>
-<tr><td>U+5CA8</td><td>岨</td><td>ISHAMA SOBA</td><td>ISHIYAMA SOBA</td><td><a href="https://en.wiktionary.org/wiki/%E5%B2%A8">岨 - Wiktionary</a>:<br>Kun: いしやま (ishiyama); そば (soba)</td></tr>
 <tr><td>U+5C9F</td><td>岟</td><td>HUMOTO</td><td>FUMOTO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+5CA8</td><td>岨</td><td>ISHAMA SOBA</td><td>ISHIYAMA SOBA</td><td><a href="https://en.wiktionary.org/wiki/%E5%B2%A8">岨 - Wiktionary</a>:<br>Kun: いしやま (ishiyama); そば (soba)</td></tr>
 <tr><td>U+5CDC</td><td>峜</td><td>KAZOHERU</td><td>KAZOERU</td><td>かぞへる → かぞえる (modern Japanese orthography)</td></tr>
 <tr><td>U+5D43</td><td>嵃</td><td>KEHASHII KEHASHIISAMA</td><td>KEWASHII KEWASHIISAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%B5%83">嵃 - Kanji - Japanese Dictionary Tangorin</a>:<br>けわしい</td></tr>
 <tr><td>U+5E14</td><td>帔</td><td>HUKURO</td><td>FUKURO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
