@@ -1,7 +1,7 @@
 # Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
-- **Date: 2019-09-21**
+- **Date: 2019-09-23**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the `Unihan_Readings.txt` data file.
@@ -124,6 +124,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+577B</td><td>坻</td><td>NAKISA KIZAHASHI SAKA NIHA TOMARU</td><td>NAGISA KIZAHASHI SAKA NIWA TOMARU</td><td><a href="https://en.wiktionary.org/wiki/%E5%9D%BB">坻 - Wiktionary</a>:<br>Kun: なぎさ (nagisa), さか (saka), にわ (niwa), とまる (tomaru)</td></tr>
 <tr><td>U+5780</td><td>垀</td><td>KAMAHE WAZURAHAI</td><td>KAMAE WAZURAWAI</td><td>かまへ → かまえ<br>わずらはい → わずらわい<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+5797</td><td>垗</td><td>HAURIDOKORO</td><td>HAFURIDOKORO</td><td><a href="https://tangorin.com/kanji?search=%E5%9E%97">垗 - Kanji - Japanese Dictionary Tangorin</a>:<br>はふりどころ</td></tr>
 <tr><td>U+57A4</td><td>垤</td><td>ARIZUKA</td><td>ARIDZUKA</td><td><a href="https://en.wiktionary.org/wiki/%E5%9E%A4">垤 - Wiktionary</a>:<br>Kun: ありづか (arizuka)</td></tr>
 <tr><td>U+57A8</td><td>垨</td><td>MAMOORU MORI KAMI</td><td>MAMORU MORI KAMI</td><td><a href="https://tangorin.com/kanji?search=%E5%9E%A8">垨 - Kanji - Japanese Dictionary Tangorin</a>:<br>まもる・もり・かみ</td></tr>
 <tr><td>U+57BA</td><td>垺</td><td>KURUWA OHOKII SAKAN TSUKA</td><td>KURUWA OOKII SAKAN TSUKA</td><td>おほきい → おおきい (modern Japanese orthography)</td></tr>
@@ -579,32 +580,242 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
+<tr><td>U+3861</td><td>㡡</td><td>CHU JIU</td><td>CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
+<tr><td>U+4E48</td><td>么</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+4E53</td><td>乓</td><td>HAU</td><td>HOU</td><td>Modern Japanese orthography: HAU → HOU</td></tr>
 <tr><td>U+4EFE</td><td>仾</td><td>TEI HIKUI</td><td>TEI</td><td>HIKUI: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+4F52</td><td>佒</td><td>AU YOU</td><td>OU YOU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+4F6A</td><td>佪</td><td>KUWAI E</td><td>KAI E</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
+<tr><td>U+4F80</td><td>侀</td><td>KEI KYAU</td><td>KEI KYOU</td><td>Modern Japanese orthography: KYAU → KYOU</td></tr>
 <tr><td>U+4FA0</td><td>侠</td><td>KYOU</td><td>KYOU KYAN</td><td>KYAN: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+4FC7</td><td>俇</td><td>KYAU GAU KAU</td><td>KYOU GOU KOU</td><td>Modern Japanese orthography: KYAU → KYOU, GAU → GOU, KAU → KOU</td></tr>
+<tr><td>U+4FCF</td><td>俏</td><td>SEU</td><td>SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+4FD3</td><td>俓</td><td>GAU KYAU GEN GEI</td><td>GOU KYOU GEN GEI</td><td>Modern Japanese orthography: GAU → GOU, KYAU → KYOU</td></tr>
 <tr><td>U+4FE0</td><td>俠</td><td>KYOU</td><td>KYOU KYAN</td><td>KYAN: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+500C</td><td>倌</td><td>KUWAN</td><td>KAN</td><td>Modern Japanese orthography: KUWAN → KAN</td></tr>
 <tr><td>U+501C</td><td>倜</td><td>TEKI CHAKU CHUU CHYU</td><td>TEKI CHAKU CHUU CHU</td><td>Invalid romanization: CHYU → CHU</td></tr>
+<tr><td>U+5057</td><td>偗</td><td>SEI SHAU</td><td>SEI SHOU</td><td>Modern Japanese orthography: SHAU → SHOU</td></tr>
+<tr><td>U+505B</td><td>偛</td><td>SOU SAHU</td><td>SOU</td><td>Modern Japanese orthography: SAHU → SOU<br>+ remove duplicates</td></tr>
+<tr><td>U+505F</td><td>偟</td><td>KUWAU WAU</td><td>KOU OU</td><td>Modern Japanese orthography: KUWAU → KOU, WAU → OU</td></tr>
+<tr><td>U+5060</td><td>偠</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+5062</td><td>偢</td><td>SEU</td><td>SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+506A</td><td>偪</td><td>HIYOKU HIKI FUKU</td><td>HYOKU HIKI FUKU</td><td>Modern Japanese orthography: HIYOKU → HYOKU</td></tr>
+<tr><td>U+508B</td><td>傋</td><td>KAU KOU KU</td><td>KOU KU</td><td>Modern Japanese orthography: KAU → KOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5096</td><td>傖</td><td>SAU SHAU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU, SHAU → SHOU</td></tr>
+<tr><td>U+509C</td><td>傜</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+509D</td><td>傝</td><td>TAN TON TAHU</td><td>TAN TON TOU</td><td>Modern Japanese orthography: TAHU → TOU</td></tr>
+<tr><td>U+509F</td><td>傟</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+50B8</td><td>傸</td><td>SAU SHAU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU, SHAU → SHOU</td></tr>
+<tr><td>U+50C4</td><td>僄</td><td>HEU</td><td>HYOU</td><td>Modern Japanese orthography: HEU → HYOU</td></tr>
+<tr><td>U+50D7</td><td>僗</td><td>RAU</td><td>ROU</td><td>Modern Japanese orthography: RAU → ROU</td></tr>
 <tr><td>U+50E6</td><td>僦</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
+<tr><td>U+50EC</td><td>僬</td><td>SEU ZEU</td><td>SHOU JOU</td><td>Modern Japanese orthography: SEU → SHOU, ZEU → JOU</td></tr>
+<tr><td>U+510C</td><td>儌</td><td>KEU</td><td>KYOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+511C</td><td>儜</td><td>DAU NYAU</td><td>DOU NYOU</td><td>Modern Japanese orthography: DAU → DOU, NYAU → NYOU</td></tr>
+<tr><td>U+5126</td><td>儦</td><td>HYOU HEU</td><td>HYOU</td><td>Modern Japanese orthography: HEU → HYOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5198</td><td>冘</td><td>IN IU YU</td><td>IN YUU YU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+51CA</td><td>凊</td><td>SEI SHAU</td><td>SEI SHOU</td><td>Modern Japanese orthography: SHAU → SHOU</td></tr>
+<tr><td>U+51D4</td><td>凔</td><td>SAU SHAU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU, SHAU → SHOU</td></tr>
+<tr><td>U+5201</td><td>刁</td><td>TEU CHOU</td><td>CHOU</td><td>Modern Japanese orthography: TEU → CHOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5202</td><td>刂</td><td>TAU</td><td>TOU</td><td>Modern Japanese orthography: TAU → TOU</td></tr>
+<tr><td>U+5260</td><td>剠</td><td>KEI SHAU RYAU</td><td>KEI SHOU RYOU</td><td>Modern Japanese orthography: SHAU → SHOU, RYAU → RYOU</td></tr>
+<tr><td>U+527C</td><td>剼</td><td>SAN SEU</td><td>SAN SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
 <tr><td>U+5282</td><td>劂</td><td>KETSU KUUCHI KEI KE</td><td>KETSU KUCHI KEI KE</td><td>Typo: KUUCHI → KUCHI<br><a href="https://tangorin.com/kanji?search=%E5%8A%82">劂 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケツ・クチ・ケイ・ケ</td></tr>
+<tr><td>U+52D0</td><td>勐</td><td>BAU</td><td>BOU</td><td>Modern Japanese orthography: BAU → BOU</td></tr>
+<tr><td>U+52DC</td><td>勜</td><td>OU O AU</td><td>OU O</td><td>Modern Japanese orthography: AU → OU<br>+ remove duplicates</td></tr>
+<tr><td>U+52E1</td><td>勡</td><td>HEU</td><td>HYOU</td><td>Modern Japanese orthography: HEU → HYOU</td></tr>
+<tr><td>U+5361</td><td>卡</td><td>SAHU SA KA ZOU SOU</td><td>SOU SA KA ZOU</td><td>Modern Japanese orthography: SAHU → SOU<br>+ remove duplicates</td></tr>
+<tr><td>U+536C</td><td>卬</td><td>GAU KYAU</td><td>GOU KYOU</td><td>Modern Japanese orthography: GAU → GOU, KYAU → KYOU</td></tr>
+<tr><td>U+5392</td><td>厒</td><td>KAHU KOHU KEHU</td><td>KOU KYOU</td><td>Modern Japanese orthography: KAHU → KOU, KOHU → KOU, KEHU → KYOU<br>+ remove duplicates</td></tr>
+<tr><td>U+53B9</td><td>厹</td><td>JIU NIYU KIU GU</td><td>JUU NYU KYUU GU</td><td>Modern Japanese orthography: JIU → JUU, NIYU → NYU, KIU → KYUU</td></tr>
+<tr><td>U+53E6</td><td>另</td><td>REI RYAU</td><td>REI RYOU</td><td>Modern Japanese orthography: RYAU → RYOU</td></tr>
+<tr><td>U+53F9</td><td>叹</td><td>IU</td><td>YUU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+5466</td><td>呦</td><td>IU YU AU EU</td><td>YUU YU OU YOU</td><td>Modern Japanese orthography: IU → YUU, AU → OU, EU → YOU</td></tr>
+<tr><td>U+546B</td><td>呫</td><td>TEHU SEHU TEN</td><td>CHOU SHOU TEN</td><td>Modern Japanese orthography: TEHU → CHOU, SEHU → SHOU</td></tr>
+<tr><td>U+5489</td><td>咉</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+54B7</td><td>咷</td><td>TAU DOU TEU TEKI JIAKU</td><td>TOU DOU CHOU TEKI JAKU</td><td>Modern Japanese orthography: TAU → TOU, TEU → CHOU<br>Irregular reading: JIAKU → JAKU</td></tr>
+<tr><td>U+5500</td><td>唀</td><td>IU</td><td>YUU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+553C</td><td>唼</td><td>SAHU SEHU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAHU → SOU, SEHU → SHOU</td></tr>
+<tr><td>U+554D</td><td>啍</td><td>TON DON SHUN TAI TE KYOU KAU</td><td>TON DON SHUN TAI TE KYOU KOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
 <tr><td>U+5550</td><td>啐</td><td>SAI SE SA SHUTSU SHUCHI KATSUKACHI</td><td>SAI SE SA SHUTSU SHUCHI KATSU KACHI</td><td>Split readings: KATSUKACHI → KATSU KACHI<br><a href="https://tangorin.com/kanji?search=%E5%95%90">啐 - Kanji - Japanese Dictionary Tangorin</a>:<br>サイ・セ・サ・シュツ・シュチ・カツ・カチ</td></tr>
+<tr><td>U+5566</td><td>啦</td><td>RAHU ROU</td><td>ROU</td><td>Modern Japanese orthography: RAHU → ROU<br>+ remove duplicates</td></tr>
+<tr><td>U+5593</td><td>喓</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+559F</td><td>喟</td><td>KI KUWAI KE</td><td>KI KAI KE</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
+<tr><td>U+55A2</td><td>喢</td><td>TEHU SEHU SAHU</td><td>CHOU SHOU SOU</td><td>Modern Japanese orthography: TEHU → CHOU, SEHU → SHOU, SAHU → SOU</td></tr>
+<tr><td>U+55C2</td><td>嗂</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+55D1</td><td>嗑</td><td>KAHU</td><td>KOU</td><td>Modern Japanese orthography: KAHU → KOU</td></tr>
+<tr><td>U+55D6</td><td>嗖</td><td>SHUHU SHIU SHIYU</td><td>SHUU SHU</td><td>Irregular reading: SHUHU → SHUU<br>Modern Japanese orthography: SHIU → SHUU, SHIYU → SHU<br>+ remove duplicates</td></tr>
+<tr><td>U+55DB</td><td>嗛</td><td>KEN KAN GAN KEHU</td><td>KEN KAN GAN KYOU</td><td>Modern Japanese orthography: KEHU → KYOU</td></tr>
+<tr><td>U+5601</td><td>嘁</td><td>SAHU SHUKU</td><td>SOU SHUKU</td><td>Modern Japanese orthography: SAHU → SOU</td></tr>
+<tr><td>U+5604</td><td>嘄</td><td>KEU</td><td>KYOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+5608</td><td>嘈</td><td>SAU SOU SEU ZEU</td><td>SOU SHOU JOU</td><td>Modern Japanese orthography: SAU → SOU, SEU → SHOU, ZEU → JOU<br>+ remove duplicates</td></tr>
+<tr><td>U+560C</td><td>嘌</td><td>HEU</td><td>HYOU</td><td>Modern Japanese orthography: HEU → HYOU</td></tr>
 <tr><td>U+5610</td><td>嘐</td><td>HAU HEU RAUROU BIU MIU</td><td>HOU HYOU ROU BYUU MYUU</td><td>Split readings: RAUROU → RAU ROU<br>Modern Japanese orthography: HAU → HOU, HEU → HYOU, RAU → ROU, BIU → BYUU, MIU → MYUU<br>+ remove duplicates</td></tr>
+<tr><td>U+5635</td><td>嘵</td><td>KEU GEU</td><td>KYOU GYOU</td><td>Modern Japanese orthography: KEU → KYOU, GEU → GYOU</td></tr>
+<tr><td>U+5639</td><td>嘹</td><td>REU RYOU</td><td>RYOU</td><td>Modern Japanese orthography: REU → RYOU<br>+ remove duplicates</td></tr>
+<tr><td>U+564B</td><td>噋</td><td>TON KUWAKU</td><td>TON KAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU</td></tr>
+<tr><td>U+564D</td><td>噍</td><td>SEU ZEU SHIU SHIYU SHAKU ZAKU</td><td>SHOU JOU SHUU SHU SHAKU ZAKU</td><td>Modern Japanese orthography: SEU → SHOU, ZEU → JOU, SHIU → SHUU, SHIYU → SHU</td></tr>
+<tr><td>U+5662</td><td>噢</td><td>IKU U KU IU</td><td>IKU U KU YUU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+5665</td><td>噥</td><td>DOU NU DAU NYOU</td><td>DOU NU NYOU</td><td>Modern Japanese orthography: DAU → DOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5672</td><td>噲</td><td>KUWAI KE WAI E KATSU KACHI</td><td>KAI KE WAI E KATSU KACHI</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
+<tr><td>U+568E</td><td>嚎</td><td>KAU GOU</td><td>KOU GOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
+<tr><td>U+5698</td><td>嚘</td><td>IU U</td><td>YUU U</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+56B7</td><td>嚷</td><td>JAU</td><td>JOU</td><td>Modern Japanese orthography: JAU → JOU</td></tr>
 <tr><td>U+5715</td><td>圕</td><td>TOSHOKAN SHO</td><td>SHO</td><td>TOSHOKAN: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+572B</td><td>圫</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+5733</td><td>圳</td><td>SHIU SHU SHIN SON SHUN</td><td>SHUU SHU SHIN SON SHUN</td><td>Modern Japanese orthography: SHIU → SHUU</td></tr>
+<tr><td>U+5767</td><td>坧</td><td>SEKI SHAU</td><td>SEKI SHOU</td><td>Modern Japanese orthography: SHAU → SHOU</td></tr>
+<tr><td>U+5771</td><td>坱</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+5773</td><td>坳</td><td>AU EU</td><td>OU YOU</td><td>Modern Japanese orthography: AU → OU, EU → YOU</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>SHYOU JU TOU ZU</td><td>SHOU JU TOU ZU</td><td>Invalid romanization: SHYOU → SHOU</td></tr>
+<tr><td>U+5797</td><td>垗</td><td>TEU DEU</td><td>CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
+<tr><td>U+579A</td><td>垚</td><td>GEU</td><td>GYOU</td><td>Modern Japanese orthography: GEU → GYOU</td></tr>
+<tr><td>U+57A5</td><td>垥</td><td>KEU KOU</td><td>KYOU KOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+57C2</td><td>埂</td><td>KAU KYOU</td><td>KOU KYOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
+<tr><td>U+57DD</td><td>埝</td><td>TEN DEU NEU NEN</td><td>TEN DJOU NYOU NEN</td><td>Modern Japanese orthography: DEU → DJOU, NEU → NYOU</td></tr>
+<tr><td>U+57E9</td><td>埩</td><td>SAU SHOU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU</td></tr>
 <tr><td>U+57F1</td><td>埱</td><td>SHYUU TOU TSU</td><td>SHUU TOU TSU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
+<tr><td>U+57F2</td><td>埲</td><td>HOU BO HAU BAU</td><td>HOU BO BOU</td><td>Modern Japanese orthography: HAU → HOU, BAU → BOU<br>+ remove duplicates</td></tr>
+<tr><td>U+581B</td><td>堛</td><td>HIYOKU HIKI</td><td>HYOKU HIKI</td><td>Modern Japanese orthography: HIYOKU → HYOKU</td></tr>
+<tr><td>U+581E</td><td>堞</td><td>TEU DEU</td><td>CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
+<tr><td>U+5825</td><td>堥</td><td>BOU MU BAU MOU BU</td><td>BOU MU MOU BU</td><td>Modern Japanese orthography: BAU → BOU<br>+ remove duplicates</td></tr>
+<tr><td>U+582D</td><td>堭</td><td>KAU WAU</td><td>KOU OU</td><td>Modern Japanese orthography: KAU → KOU, WAU → OU</td></tr>
+<tr><td>U+585D</td><td>塝</td><td>HAU BAU</td><td>HOU BOU</td><td>Modern Japanese orthography: HAU → HOU, BAU → BOU</td></tr>
 <tr><td>U+5864</td><td>塤</td><td>KEN TAWAN</td><td>KEN</td><td>TAWAN: not kJapaneseOn...</td></tr>
-<tr><td>U+61E4</td><td>懤</td><td>CHYUU JIU TAU TOU</td><td>CHUU JIU TAU TOU</td><td>Invalid romanization: CHYUU → CHUU</td></tr>
+<tr><td>U+587D</td><td>塽</td><td>SAU SHOU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU</td></tr>
+<tr><td>U+5882</td><td>墂</td><td>HYOU HEU</td><td>HYOU</td><td>Modern Japanese orthography: HEU → HYOU<br>+ remove duplicates</td></tr>
+<tr><td>U+588A</td><td>墊</td><td>TEN TEU DEU</td><td>TEN CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
+<tr><td>U+588E</td><td>墎</td><td>KUWAKU</td><td>KAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU</td></tr>
+<tr><td>U+588F</td><td>墏</td><td>SHOU SAU</td><td>SHOU SOU</td><td>Modern Japanese orthography: SAU → SOU</td></tr>
+<tr><td>U+58BD</td><td>墽</td><td>KAU KEU</td><td>KOU KYOU</td><td>Modern Japanese orthography: KAU → KOU, KEU → KYOU</td></tr>
+<tr><td>U+58CE</td><td>壎</td><td>KEN KUWAN KUN</td><td>KEN KAN KUN</td><td>Modern Japanese orthography: KUWAN → KAN</td></tr>
+<tr><td>U+58D4</td><td>壔</td><td>TAU</td><td>TOU</td><td>Modern Japanese orthography: TAU → TOU</td></tr>
+<tr><td>U+5935</td><td>夵</td><td>EN TAU TOU</td><td>EN TOU</td><td>Modern Japanese orthography: TAU → TOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5961</td><td>奡</td><td>GAU GOU</td><td>GOU</td><td>Modern Japanese orthography: GAU → GOU<br>+ remove duplicates</td></tr>
+<tr><td>U+59CE</td><td>姎</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+59D8</td><td>姘</td><td>HIN HAU HEI</td><td>HIN HOU HEI</td><td>Modern Japanese orthography: HAU → HOU</td></tr>
+<tr><td>U+59E3</td><td>姣</td><td>KOU KEU GEU</td><td>KOU KYOU GYOU</td><td>Modern Japanese orthography: KEU → KYOU, GEU → GYOU</td></tr>
+<tr><td>U+5A60</td><td>婠</td><td>WAN WATSU WACHI KAN KUWATSU GUWACHI</td><td>WAN WATSU WACHI KAN KATSU GACHI</td><td>Modern Japanese orthography: KUWATSU → KATSU, GUWACHI → GACHI</td></tr>
+<tr><td>U+5A95</td><td>媕</td><td>EN AN ON AU OU</td><td>EN AN ON OU</td><td>Modern Japanese orthography: AU → OU<br>+ remove duplicates</td></tr>
+<tr><td>U+5AB0</td><td>媰</td><td>SHIU SU SHU JU</td><td>SHUU SU SHU JU</td><td>Modern Japanese orthography: SHIU → SHUU</td></tr>
+<tr><td>U+5AB1</td><td>媱</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+5AB9</td><td>媹</td><td>RIU RU</td><td>RYUU RU</td><td>Modern Japanese orthography: RIU → RYUU</td></tr>
+<tr><td>U+5AC7</td><td>嫇</td><td>BEI MYAU BAU</td><td>BEI MYOU BOU</td><td>Modern Japanese orthography: MYAU → MYOU, BAU → BOU</td></tr>
+<tr><td>U+5AC8</td><td>嫈</td><td>SEU AU GEI GYOU EI KEI</td><td>SHOU OU GEI GYOU EI KEI</td><td>Modern Japanese orthography: SEU → SHOU, AU → OU</td></tr>
+<tr><td>U+5ACD</td><td>嫍</td><td>TAU TOU EU</td><td>TOU YOU</td><td>Modern Japanese orthography: TAU → TOU, EU → YOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5ADC</td><td>嫜</td><td>SHAU</td><td>SHOU</td><td>Modern Japanese orthography: SHAU → SHOU</td></tr>
+<tr><td>U+5ADD</td><td>嫝</td><td>KAU</td><td>KOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
+<tr><td>U+5ADF</td><td>嫟</td><td>JIYUKU NIKI</td><td>JUKU NIKI</td><td>Modern Japanese orthography: JIYUKU → JUKU</td></tr>
+<tr><td>U+5AEA</td><td>嫪</td><td>RAU ROU</td><td>ROU</td><td>Modern Japanese orthography: RAU → ROU<br>+ remove duplicates</td></tr>
+<tr><td>U+5AF6</td><td>嫶</td><td>SEU ZEU</td><td>SHOU JOU</td><td>Modern Japanese orthography: SEU → SHOU, ZEU → JOU</td></tr>
+<tr><td>U+5AF9</td><td>嫹</td><td>BAU MEU</td><td>BOU MYOU</td><td>Modern Japanese orthography: BAU → BOU, MEU → MYOU</td></tr>
+<tr><td>U+5AFD</td><td>嫽</td><td>REU RAU</td><td>RYOU ROU</td><td>Modern Japanese orthography: REU → RYOU, RAU → ROU</td></tr>
+<tr><td>U+5B05</td><td>嬅</td><td>KUWA GE</td><td>KA GE</td><td>Modern Japanese orthography: KUWA → KA</td></tr>
+<tr><td>U+5B07</td><td>嬇</td><td>KUWAI E KE</td><td>KAI E KE</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
+<tr><td>U+5B08</td><td>嬈</td><td>DEU NEU ZEU DAU EU KEU</td><td>DJOU NYOU JOU DOU YOU KYOU</td><td>Modern Japanese orthography: DEU → DJOU, NEU → NYOU, ZEU → JOU, DAU → DOU, EU → YOU, KEU → KYOU</td></tr>
+<tr><td>U+5B13</td><td>嬓</td><td>KEU</td><td>KYOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+5B23</td><td>嬣</td><td>TAU NYAU DEI</td><td>TOU NYOU DEI</td><td>Modern Japanese orthography: TAU → TOU, NYAU → NYOU</td></tr>
+<tr><td>U+5B26</td><td>嬦</td><td>CHIU JIYU SHIU</td><td>CHUU JU SHUU</td><td>Modern Japanese orthography: CHIU → CHUU, JIYU → JU, SHIU → SHUU</td></tr>
+<tr><td>U+5B2E</td><td>嬮</td><td>EN EHU</td><td>EN YOU</td><td>Modern Japanese orthography: EHU → YOU</td></tr>
+<tr><td>U+5B48</td><td>孈</td><td>SUI I KUWAI E KI KEI</td><td>SUI I KAI E KI KEI</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
+<tr><td>U+5B8E</td><td>宎</td><td>EU YOU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5C0C</td><td>尌</td><td>SHU JU CHU JIU</td><td>SHU JU CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
+<tr><td>U+5C1F</td><td>尟</td><td>SEN SEU</td><td>SEN SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+5C33</td><td>尳</td><td>KOTSU KUCHI KUWATSU GECHI</td><td>KOTSU KUCHI KATSU GECHI</td><td>Modern Japanese orthography: KUWATSU → KATSU</td></tr>
+<tr><td>U+5C5F</td><td>屟</td><td>TEI TAI SEHU</td><td>TEI TAI SHOU</td><td>Modern Japanese orthography: SEHU → SHOU</td></tr>
+<tr><td>U+5C67</td><td>屧</td><td>TEI TAI SEHU</td><td>TEI TAI SHOU</td><td>Modern Japanese orthography: SEHU → SHOU</td></tr>
+<tr><td>U+5C69</td><td>屩</td><td>KYAKU KAKU KIKU KOKU KEU</td><td>KYAKU KAKU KIKU KOKU KYOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+5C70</td><td>屰</td><td>GEKI GYAKU HAKU HIYAKU</td><td>GEKI GYAKU HAKU HYAKU</td><td>Modern Japanese orthography: HIYAKU → HYAKU</td></tr>
+<tr><td>U+5C86</td><td>岆</td><td>EU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU</td></tr>
+<tr><td>U+5C8F</td><td>岏</td><td>GUWAN</td><td>GAN</td><td>Modern Japanese orthography: GUWAN → GAN</td></tr>
+<tr><td>U+5CA7</td><td>岧</td><td>TEU DEU</td><td>CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
+<tr><td>U+5CB0</td><td>岰</td><td>YOU YU AU EU</td><td>YOU YU OU</td><td>Modern Japanese orthography: AU → OU, EU → YOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5CC6</td><td>峆</td><td>KAHU GOHU</td><td>KOU GOU</td><td>Modern Japanese orthography: KAHU → KOU, GOHU → GOU</td></tr>
+<tr><td>U+5CD7</td><td>峗</td><td>GI GUWAI GE GUTSU GUCHI KI</td><td>GI GAI GE GUTSU GUCHI KI</td><td>Modern Japanese orthography: GUWAI → GAI</td></tr>
+<tr><td>U+5CD8</td><td>峘</td><td>KAN GUWAN KOU GOU</td><td>KAN GAN KOU GOU</td><td>Modern Japanese orthography: GUWAN → GAN</td></tr>
+<tr><td>U+5CDE</td><td>峞</td><td>KI GUWAI GE GOTSU GOCHI</td><td>KI GAI GE GOTSU GOCHI</td><td>Modern Japanese orthography: GUWAI → GAI</td></tr>
+<tr><td>U+5CF8</td><td>峸</td><td>SEI JAU</td><td>SEI JOU</td><td>Modern Japanese orthography: JAU → JOU</td></tr>
+<tr><td>U+5D1D</td><td>崝</td><td>SAU JAU</td><td>SOU JOU</td><td>Modern Japanese orthography: SAU → SOU, JAU → JOU</td></tr>
+<tr><td>U+5D28</td><td>崨</td><td>SEHU ZEHU</td><td>SHOU JOU</td><td>Modern Japanese orthography: SEHU → SHOU, ZEHU → JOU</td></tr>
+<tr><td>U+5D32</td><td>崲</td><td>KOU WAU</td><td>KOU OU</td><td>Modern Japanese orthography: WAU → OU</td></tr>
+<tr><td>U+5D35</td><td>崵</td><td>SEU TAU</td><td>SHOU TOU</td><td>Modern Japanese orthography: SEU → SHOU, TAU → TOU</td></tr>
+<tr><td>U+5D37</td><td>崷</td><td>SHIU JU</td><td>SHUU JU</td><td>Modern Japanese orthography: SHIU → SHUU</td></tr>
+<tr><td>U+5D40</td><td>嵀</td><td>CHIU JIYU</td><td>CHUU JU</td><td>Modern Japanese orthography: CHIU → CHUU, JIYU → JU</td></tr>
+<tr><td>U+5D49</td><td>嵉</td><td>TEI CHAU</td><td>TEI CHOU</td><td>Modern Japanese orthography: CHAU → CHOU</td></tr>
+<tr><td>U+5D63</td><td>嵣</td><td>TAU DAU</td><td>TOU DOU</td><td>Modern Japanese orthography: TAU → TOU, DAU → DOU</td></tr>
+<tr><td>U+5D67</td><td>嵧</td><td>RIU RU</td><td>RYUU RU</td><td>Modern Japanese orthography: RIU → RYUU</td></tr>
+<tr><td>U+5D7A</td><td>嵺</td><td>REU KOU KEU</td><td>RYOU KOU KYOU</td><td>Modern Japanese orthography: REU → RYOU, KEU → KYOU</td></tr>
+<tr><td>U+5D86</td><td>嶆</td><td>SAU ZOU</td><td>SOU ZOU</td><td>Modern Japanese orthography: SAU → SOU</td></tr>
+<tr><td>U+5D88</td><td>嶈</td><td>SHAU SOU</td><td>SHOU SOU</td><td>Modern Japanese orthography: SHAU → SHOU</td></tr>
+<tr><td>U+5D8D</td><td>嶍</td><td>SHIHU</td><td>SHUU</td><td>Modern Japanese orthography: SHIHU → SHUU</td></tr>
+<tr><td>U+5D95</td><td>嶕</td><td>SEU ZEU SHOU JOU</td><td>SHOU JOU</td><td>Modern Japanese orthography: SEU → SHOU, ZEU → JOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5DA9</td><td>嶩</td><td>DAU</td><td>DOU</td><td>Modern Japanese orthography: DAU → DOU</td></tr>
+<tr><td>U+5DAF</td><td>嶯</td><td>SHIU SAU</td><td>SHUU SOU</td><td>Modern Japanese orthography: SHIU → SHUU, SAU → SOU</td></tr>
+<tr><td>U+5DB4</td><td>嶴</td><td>AU OU IKU</td><td>OU IKU</td><td>Modern Japanese orthography: AU → OU<br>+ remove duplicates</td></tr>
+<tr><td>U+5DC6</td><td>巆</td><td>KOU KEI GYAU</td><td>KOU KEI GYOU</td><td>Modern Japanese orthography: GYAU → GYOU</td></tr>
+<tr><td>U+5DE4</td><td>巤</td><td>REHU</td><td>RYOU</td><td>Modern Japanese orthography: REHU → RYOU</td></tr>
+<tr><td>U+5E04</td><td>帄</td><td>TEI CHAU</td><td>TEI CHOU</td><td>Modern Japanese orthography: CHAU → CHOU</td></tr>
+<tr><td>U+5E21</td><td>帡</td><td>HEI HIYOU BYOU</td><td>HEI HYOU BYOU</td><td>Modern Japanese orthography: HIYOU → HYOU</td></tr>
+<tr><td>U+5E22</td><td>帢</td><td>KAHU</td><td>KOU</td><td>Modern Japanese orthography: KAHU → KOU</td></tr>
+<tr><td>U+5E24</td><td>帤</td><td>GEYO NIYO</td><td>GYO NYO</td><td>Irregular reading: GEYO → GIYO<br>Modern Japanese orthography: GIYO → GYO, NIYO → NYO</td></tr>
+<tr><td>U+5E29</td><td>帩</td><td>SEU</td><td>SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+5E32</td><td>帲</td><td>HEI HIYOU BYOU</td><td>HEI HYOU BYOU</td><td>Modern Japanese orthography: HIYOU → HYOU</td></tr>
+<tr><td>U+5E53</td><td>幓</td><td>SHIN SEN SAN SEU</td><td>SHIN SEN SAN SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+5E67</td><td>幧</td><td>SEU SAU SOU</td><td>SHOU SOU</td><td>Modern Japanese orthography: SEU → SHOU, SAU → SOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5E6E</td><td>幮</td><td>CHU JIU</td><td>CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
+<tr><td>U+5EA3</td><td>庣</td><td>TEU DEU</td><td>CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
+<tr><td>U+5EA8</td><td>庨</td><td>KOU KEU</td><td>KOU KYOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+5EAC</td><td>庬</td><td>BOU MO BAU MAU</td><td>BOU MO MOU</td><td>Modern Japanese orthography: BAU → BOU, MAU → MOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5EAE</td><td>庮</td><td>IU YU</td><td>YUU YU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+5EC5</td><td>廅</td><td>AHU KAHU GAHU</td><td>OU KOU GOU</td><td>Modern Japanese orthography: AHU → OU, KAHU → KOU, GAHU → GOU</td></tr>
+<tr><td>U+5EC7</td><td>廇</td><td>RIU RU</td><td>RYUU RU</td><td>Modern Japanese orthography: RIU → RYUU</td></tr>
+<tr><td>U+5EE6</td><td>廦</td><td>HEKI HIYAKU</td><td>HEKI HYAKU</td><td>Modern Japanese orthography: HIYAKU → HYAKU</td></tr>
+<tr><td>U+5EE7</td><td>廧</td><td>SHAU ZAU</td><td>SHOU ZOU</td><td>Modern Japanese orthography: SHAU → SHOU, ZAU → ZOU</td></tr>
+<tr><td>U+5EEE</td><td>廮</td><td>EI YAU</td><td>EI YOU</td><td>Modern Japanese orthography: YAU → YOU</td></tr>
+<tr><td>U+5F24</td><td>弤</td><td>TEI TAI TEU</td><td>TEI TAI CHOU</td><td>Modern Japanese orthography: TEU → CHOU</td></tr>
+<tr><td>U+5F28</td><td>弨</td><td>SEU</td><td>SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
+<tr><td>U+5F36</td><td>弶</td><td>GYAU GAU</td><td>GYOU GOU</td><td>Modern Japanese orthography: GYAU → GYOU, GAU → GOU</td></tr>
+<tr><td>U+5F49</td><td>彉</td><td>KUWAKU</td><td>KAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU</td></tr>
+<tr><td>U+5F4B</td><td>彋</td><td>KAU GYAU KO KU</td><td>KOU GYOU KO KU</td><td>Modern Japanese orthography: KAU → KOU, GYAU → GYOU</td></tr>
+<tr><td>U+5F4D</td><td>彍</td><td>KUWAKU</td><td>KAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU</td></tr>
+<tr><td>U+5F4F</td><td>彏</td><td>KUWAKU</td><td>KAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU</td></tr>
+<tr><td>U+5F60</td><td>彠</td><td>KUWAKU WAKU KAKU KYAKU YAKU</td><td>KAKU WAKU KYAKU YAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU<br>+ remove duplicates</td></tr>
+<tr><td>U+5F6F</td><td>彯</td><td>HEU BEU</td><td>HYOU BYOU</td><td>Modern Japanese orthography: HEU → HYOU, BEU → BYOU</td></tr>
+<tr><td>U+5F76</td><td>彶</td><td>KIHU KOHU</td><td>KYUU KOU</td><td>Modern Japanese orthography: KIHU → KYUU, KOHU → KOU</td></tr>
+<tr><td>U+6130</td><td>愰</td><td>KAU OU</td><td>KOU OU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
+<tr><td>U+61E4</td><td>懤</td><td>CHYUU JIU TAU TOU</td><td>CHUU JUU TOU</td><td>Invalid romanization: CHYUU → CHUU<br>Modern Japanese orthography: JIU → JUU, TAU → TOU<br>+ remove duplicates</td></tr>
+<tr><td>U+61EC</td><td>懬</td><td>KOU KAU</td><td>KOU</td><td>Modern Japanese orthography: KAU → KOU<br>+ remove duplicates</td></tr>
 <tr><td>U+639A</td><td>掚</td><td>RYOU KAZARU</td><td>RYOU</td><td>KAZARU: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+715C</td><td>煜</td><td>IKU IU OU</td><td>IKU YUU OU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
+<tr><td>U+71F8</td><td>燸</td><td>JIYU NYU DAN</td><td>JU NYU DAN</td><td>Modern Japanese orthography: JIYU → JU</td></tr>
 <tr><td>U+7243</td><td>牃</td><td>OUCHOU YOU SHOU JI</td><td>OU CHOU YOU SHOU JI</td><td>Split readings: OUCHOU → OU CHOU<br>Consistent with:<br>• U+696A 楪 CHOU</td></tr>
+<tr><td>U+7593</td><td>疓</td><td>ZAI NAI DAI NE KIU</td><td>ZAI NAI DAI NE KYUU</td><td>Modern Japanese orthography: KIU → KYUU</td></tr>
 <tr><td>U+77C3</td><td>矃</td><td>GEI NYOU</td><td>GEI NEI NYOU</td><td>NEI NYOU: kJapaneseOn, not kJapaneseKun<br>Consistent with U+5BE7 寧 NEI NYOU</td></tr>
+<tr><td>U+7DB6</td><td>綶</td><td>KUWA</td><td>KA</td><td>Modern Japanese orthography: KUWA → KA</td></tr>
+<tr><td>U+81D1</td><td>臑</td><td>DAU JU JI</td><td>DOU JU JI</td><td>Modern Japanese orthography: DAU → DOU</td></tr>
+<tr><td>U+82B2</td><td>芲</td><td>KUWA KA</td><td>KA</td><td>Modern Japanese orthography: KUWA → KA<br>+ remove duplicates</td></tr>
+<tr><td>U+833D</td><td>茽</td><td>CHUU JIYU</td><td>CHUU JU</td><td>Modern Japanese orthography: JIYU → JU</td></tr>
 <tr><td>U+8353</td><td>荓</td><td>HEI</td><td>HEI BYOU</td><td>BYOU: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+842A</td><td>萪</td><td>KUWA</td><td>KA</td><td>Modern Japanese orthography: KUWA → KA</td></tr>
+<tr><td>U+8481</td><td>蒁</td><td>SHUTSU JIUCHI ITSU ICHI RITSU RICHI</td><td>SHUTSU JUCHI ITSU ICHI RITSU RICHI</td><td>Irregular reading: JIUCHI → JUCHI</td></tr>
 <tr><td>U+84A6</td><td>蒦</td><td>WAKU KUWAKU KYAKU KAKUYAKU</td><td>WAKU KYAKU KAKU YAKU</td><td>Modern Japanese orthography: KUWAKU → KAKU<br>Split readings: KAKUYAKU → KAKU YAKU<br>+ remove duplicates</td></tr>
+<tr><td>U+8550</td><td>蕐</td><td>KUWA KA KE</td><td>KA KE</td><td>Modern Japanese orthography: KUWA → KA<br>+ remove duplicates</td></tr>
+<tr><td>U+8581</td><td>薁</td><td>IKU AU OU</td><td>IKU OU</td><td>Modern Japanese orthography: AU → OU<br>+ remove duplicates</td></tr>
+<tr><td>U+8765</td><td>蝥</td><td>BOU MU MEU BU</td><td>BOU MU MYOU BU</td><td>Modern Japanese orthography: MEU → MYOU</td></tr>
 <tr><td>U+88DB</td><td>裛</td><td>YOUU OU YOU</td><td>YUU OU YOU</td><td>Typo: YOUU → YUU<br><a href="https://tangorin.com/kanji?search=%E8%A3%9B">裛 - Kanji - Japanese Dictionary Tangorin</a>:<br>オウ・ヨウ・ユウ</td></tr>
+<tr><td>U+88EA</td><td>裪</td><td>TAU DOU</td><td>TOU DOU</td><td>Modern Japanese orthography: TAU → TOU</td></tr>
 <tr><td>U+8A47</td><td>詇</td><td>YOU OUU EI</td><td>YOU OU EI</td><td>Typo: OUU → OU<br><a href="https://en.wiktionary.org/wiki/%E8%A9%87">詇 - Wiktionary</a>:<br>On (unclassified): よう (yō), おう (ō), えい (ei)</td></tr>
 <tr><td>U+8B76</td><td>譶</td><td>TOU DOU CHYUU JU</td><td>TOU DOU CHUU JU</td><td>Invalid romanization: CHYUU → CHUU</td></tr>
+<tr><td>U+8CC6</td><td>賆</td><td>HEN BEN HEI HIYOU</td><td>HEN BEN HEI HYOU</td><td>Modern Japanese orthography: HIYOU → HYOU</td></tr>
+<tr><td>U+8DC0</td><td>跀</td><td>GETSU GUWACHI GOTSU GOCHI</td><td>GETSU GACHI GOTSU GOCHI</td><td>Modern Japanese orthography: GUWACHI → GACHI</td></tr>
+<tr><td>U+8F51</td><td>轑</td><td>RAU ROU RYOU</td><td>ROU RYOU</td><td>Modern Japanese orthography: RAU → ROU<br>+ remove duplicates</td></tr>
 <tr><td>U+9194</td><td>醔</td><td>SHYUU JU</td><td>SHUU JU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
 <tr><td>U+9228</td><td>鈨</td><td>HABAKI</td><td></td><td>HABAKI: kJapaneseKun, not kJapaneseOn<br>Consistent with U+93BA 鎺</td></tr>
+<tr><td>U+938A</td><td>鎊</td><td>HAU HOU</td><td>HOU</td><td>Modern Japanese orthography: HAU → HOU<br>+ remove duplicates</td></tr>
 <tr><td>U+93C5</td><td>鏅</td><td>SHYUU SHU</td><td>SHUU SHU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
 <tr><td>U+93C9</td><td>鏉</td><td>SHYUU SHU SOU SOKU</td><td>SHUU SHU SOU SOKU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
 <tr><td>U+942F</td><td>鐯</td><td>SHAKU CHAKU JIIYAKU</td><td>SHAKU CHAKU JAKU</td><td>Typo: JIIYAKU → JIYAKU → JAKU</td></tr>
+<tr><td>U+9434</td><td>鐴</td><td>HEKI HIYAKU HEI BEI</td><td>HEKI HYAKU HEI BEI</td><td>Modern Japanese orthography: HIYAKU → HYAKU</td></tr>
 <tr><td>U+9B2B</td><td>鬫</td><td>KAN KEN HOERU</td><td>KAN KEN</td><td>HOERU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>NAMAZU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9BBE</td><td>鮾</td><td>DAI NAI KUSARU</td><td>DAI NAI</td><td>KUSARU: kJapaneseKun, not kJapaneseOn</td></tr>

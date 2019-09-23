@@ -1,29 +1,239 @@
+U+3861	kJapaneseOn	CHU JUU
+U+4E48	kJapaneseOn	YOU
+U+4E53	kJapaneseOn	HOU
 U+4EFE	kJapaneseOn	TEI
+U+4F52	kJapaneseOn	OU YOU
+U+4F6A	kJapaneseOn	KAI E
+U+4F80	kJapaneseOn	KEI KYOU
 U+4FA0	kJapaneseOn	KYOU KYAN
+U+4FC7	kJapaneseOn	KYOU GOU KOU
+U+4FCF	kJapaneseOn	SHOU
+U+4FD3	kJapaneseOn	GOU KYOU GEN GEI
 U+4FE0	kJapaneseOn	KYOU KYAN
+U+500C	kJapaneseOn	KAN
 U+501C	kJapaneseOn	TEKI CHAKU CHUU CHU
+U+5057	kJapaneseOn	SEI SHOU
+U+505B	kJapaneseOn	SOU
+U+505F	kJapaneseOn	KOU OU
+U+5060	kJapaneseOn	YOU
+U+5062	kJapaneseOn	SHOU
+U+506A	kJapaneseOn	HYOKU HIKI FUKU
+U+508B	kJapaneseOn	KOU KU
+U+5096	kJapaneseOn	SOU SHOU
+U+509C	kJapaneseOn	YOU
+U+509D	kJapaneseOn	TAN TON TOU
+U+509F	kJapaneseOn	OU
+U+50B8	kJapaneseOn	SOU SHOU
+U+50C4	kJapaneseOn	HYOU
+U+50D7	kJapaneseOn	ROU
 U+50E6	kJapaneseOn	SHUU SHU
+U+50EC	kJapaneseOn	SHOU JOU
+U+510C	kJapaneseOn	KYOU
+U+511C	kJapaneseOn	DOU NYOU
+U+5126	kJapaneseOn	HYOU
+U+5198	kJapaneseOn	IN YUU YU
+U+51CA	kJapaneseOn	SEI SHOU
+U+51D4	kJapaneseOn	SOU SHOU
+U+5201	kJapaneseOn	CHOU
+U+5202	kJapaneseOn	TOU
+U+5260	kJapaneseOn	KEI SHOU RYOU
+U+527C	kJapaneseOn	SAN SHOU
 U+5282	kJapaneseOn	KETSU KUCHI KEI KE
+U+52D0	kJapaneseOn	BOU
+U+52DC	kJapaneseOn	OU O
+U+52E1	kJapaneseOn	HYOU
+U+5361	kJapaneseOn	SOU SA KA ZOU
+U+536C	kJapaneseOn	GOU KYOU
+U+5392	kJapaneseOn	KOU KYOU
+U+53B9	kJapaneseOn	JUU NYU KYUU GU
+U+53E6	kJapaneseOn	REI RYOU
+U+53F9	kJapaneseOn	YUU
+U+5466	kJapaneseOn	YUU YU OU YOU
+U+546B	kJapaneseOn	CHOU SHOU TEN
+U+5489	kJapaneseOn	OU
+U+54B7	kJapaneseOn	TOU DOU CHOU TEKI JAKU
+U+5500	kJapaneseOn	YUU
+U+553C	kJapaneseOn	SOU SHOU
+U+554D	kJapaneseOn	TON DON SHUN TAI TE KYOU KOU
 U+5550	kJapaneseOn	SAI SE SA SHUTSU SHUCHI KATSU KACHI
+U+5566	kJapaneseOn	ROU
+U+5593	kJapaneseOn	YOU
+U+559F	kJapaneseOn	KI KAI KE
+U+55A2	kJapaneseOn	CHOU SHOU SOU
+U+55C2	kJapaneseOn	YOU
+U+55D1	kJapaneseOn	KOU
+U+55D6	kJapaneseOn	SHUU SHU
+U+55DB	kJapaneseOn	KEN KAN GAN KYOU
+U+5601	kJapaneseOn	SOU SHUKU
+U+5604	kJapaneseOn	KYOU
+U+5608	kJapaneseOn	SOU SHOU JOU
+U+560C	kJapaneseOn	HYOU
 U+5610	kJapaneseOn	HOU HYOU ROU BYUU MYUU
+U+5635	kJapaneseOn	KYOU GYOU
+U+5639	kJapaneseOn	RYOU
+U+564B	kJapaneseOn	TON KAKU
+U+564D	kJapaneseOn	SHOU JOU SHUU SHU SHAKU ZAKU
+U+5662	kJapaneseOn	IKU U KU YUU
+U+5665	kJapaneseOn	DOU NU NYOU
+U+5672	kJapaneseOn	KAI KE WAI E KATSU KACHI
+U+568E	kJapaneseOn	KOU GOU
+U+5698	kJapaneseOn	YUU U
+U+56B7	kJapaneseOn	JOU
 U+5715	kJapaneseOn	SHO
+U+572B	kJapaneseOn	OU
+U+5733	kJapaneseOn	SHUU SHU SHIN SON SHUN
+U+5767	kJapaneseOn	SEKI SHOU
+U+5771	kJapaneseOn	OU
+U+5773	kJapaneseOn	OU YOU
 U+5794	kJapaneseOn	SHOU JU TOU ZU
+U+5797	kJapaneseOn	CHOU DJOU
+U+579A	kJapaneseOn	GYOU
+U+57A5	kJapaneseOn	KYOU KOU
+U+57C2	kJapaneseOn	KOU KYOU
+U+57DD	kJapaneseOn	TEN DJOU NYOU NEN
+U+57E9	kJapaneseOn	SOU SHOU
 U+57F1	kJapaneseOn	SHUU TOU TSU
+U+57F2	kJapaneseOn	HOU BO BOU
+U+581B	kJapaneseOn	HYOKU HIKI
+U+581E	kJapaneseOn	CHOU DJOU
+U+5825	kJapaneseOn	BOU MU MOU BU
+U+582D	kJapaneseOn	KOU OU
+U+585D	kJapaneseOn	HOU BOU
 U+5864	kJapaneseOn	KEN
-U+61E4	kJapaneseOn	CHUU JIU TAU TOU
+U+587D	kJapaneseOn	SOU SHOU
+U+5882	kJapaneseOn	HYOU
+U+588A	kJapaneseOn	TEN CHOU DJOU
+U+588E	kJapaneseOn	KAKU
+U+588F	kJapaneseOn	SHOU SOU
+U+58BD	kJapaneseOn	KOU KYOU
+U+58CE	kJapaneseOn	KEN KAN KUN
+U+58D4	kJapaneseOn	TOU
+U+5935	kJapaneseOn	EN TOU
+U+5961	kJapaneseOn	GOU
+U+59CE	kJapaneseOn	OU
+U+59D8	kJapaneseOn	HIN HOU HEI
+U+59E3	kJapaneseOn	KOU KYOU GYOU
+U+5A60	kJapaneseOn	WAN WATSU WACHI KAN KATSU GACHI
+U+5A95	kJapaneseOn	EN AN ON OU
+U+5AB0	kJapaneseOn	SHUU SU SHU JU
+U+5AB1	kJapaneseOn	YOU
+U+5AB9	kJapaneseOn	RYUU RU
+U+5AC7	kJapaneseOn	BEI MYOU BOU
+U+5AC8	kJapaneseOn	SHOU OU GEI GYOU EI KEI
+U+5ACD	kJapaneseOn	TOU YOU
+U+5ADC	kJapaneseOn	SHOU
+U+5ADD	kJapaneseOn	KOU
+U+5ADF	kJapaneseOn	JUKU NIKI
+U+5AEA	kJapaneseOn	ROU
+U+5AF6	kJapaneseOn	SHOU JOU
+U+5AF9	kJapaneseOn	BOU MYOU
+U+5AFD	kJapaneseOn	RYOU ROU
+U+5B05	kJapaneseOn	KA GE
+U+5B07	kJapaneseOn	KAI E KE
+U+5B08	kJapaneseOn	DJOU NYOU JOU DOU YOU KYOU
+U+5B13	kJapaneseOn	KYOU
+U+5B23	kJapaneseOn	TOU NYOU DEI
+U+5B26	kJapaneseOn	CHUU JU SHUU
+U+5B2E	kJapaneseOn	EN YOU
+U+5B48	kJapaneseOn	SUI I KAI E KI KEI
+U+5B8E	kJapaneseOn	YOU
+U+5C0C	kJapaneseOn	SHU JU CHU JUU
+U+5C1F	kJapaneseOn	SEN SHOU
+U+5C33	kJapaneseOn	KOTSU KUCHI KATSU GECHI
+U+5C5F	kJapaneseOn	TEI TAI SHOU
+U+5C67	kJapaneseOn	TEI TAI SHOU
+U+5C69	kJapaneseOn	KYAKU KAKU KIKU KOKU KYOU
+U+5C70	kJapaneseOn	GEKI GYAKU HAKU HYAKU
+U+5C86	kJapaneseOn	YOU
+U+5C8F	kJapaneseOn	GAN
+U+5CA7	kJapaneseOn	CHOU DJOU
+U+5CB0	kJapaneseOn	YOU YU OU
+U+5CC6	kJapaneseOn	KOU GOU
+U+5CD7	kJapaneseOn	GI GAI GE GUTSU GUCHI KI
+U+5CD8	kJapaneseOn	KAN GAN KOU GOU
+U+5CDE	kJapaneseOn	KI GAI GE GOTSU GOCHI
+U+5CF8	kJapaneseOn	SEI JOU
+U+5D1D	kJapaneseOn	SOU JOU
+U+5D28	kJapaneseOn	SHOU JOU
+U+5D32	kJapaneseOn	KOU OU
+U+5D35	kJapaneseOn	SHOU TOU
+U+5D37	kJapaneseOn	SHUU JU
+U+5D40	kJapaneseOn	CHUU JU
+U+5D49	kJapaneseOn	TEI CHOU
+U+5D63	kJapaneseOn	TOU DOU
+U+5D67	kJapaneseOn	RYUU RU
+U+5D7A	kJapaneseOn	RYOU KOU KYOU
+U+5D86	kJapaneseOn	SOU ZOU
+U+5D88	kJapaneseOn	SHOU SOU
+U+5D8D	kJapaneseOn	SHUU
+U+5D95	kJapaneseOn	SHOU JOU
+U+5DA9	kJapaneseOn	DOU
+U+5DAF	kJapaneseOn	SHUU SOU
+U+5DB4	kJapaneseOn	OU IKU
+U+5DC6	kJapaneseOn	KOU KEI GYOU
+U+5DE4	kJapaneseOn	RYOU
+U+5E04	kJapaneseOn	TEI CHOU
+U+5E21	kJapaneseOn	HEI HYOU BYOU
+U+5E22	kJapaneseOn	KOU
+U+5E24	kJapaneseOn	GYO NYO
+U+5E29	kJapaneseOn	SHOU
+U+5E32	kJapaneseOn	HEI HYOU BYOU
+U+5E53	kJapaneseOn	SHIN SEN SAN SHOU
+U+5E67	kJapaneseOn	SHOU SOU
+U+5E6E	kJapaneseOn	CHU JUU
+U+5EA3	kJapaneseOn	CHOU DJOU
+U+5EA8	kJapaneseOn	KOU KYOU
+U+5EAC	kJapaneseOn	BOU MO MOU
+U+5EAE	kJapaneseOn	YUU YU
+U+5EC5	kJapaneseOn	OU KOU GOU
+U+5EC7	kJapaneseOn	RYUU RU
+U+5EE6	kJapaneseOn	HEKI HYAKU
+U+5EE7	kJapaneseOn	SHOU ZOU
+U+5EEE	kJapaneseOn	EI YOU
+U+5F24	kJapaneseOn	TEI TAI CHOU
+U+5F28	kJapaneseOn	SHOU
+U+5F36	kJapaneseOn	GYOU GOU
+U+5F49	kJapaneseOn	KAKU
+U+5F4B	kJapaneseOn	KOU GYOU KO KU
+U+5F4D	kJapaneseOn	KAKU
+U+5F4F	kJapaneseOn	KAKU
+U+5F60	kJapaneseOn	KAKU WAKU KYAKU YAKU
+U+5F6F	kJapaneseOn	HYOU BYOU
+U+5F76	kJapaneseOn	KYUU KOU
+U+6130	kJapaneseOn	KOU OU
+U+61E4	kJapaneseOn	CHUU JUU TOU
+U+61EC	kJapaneseOn	KOU
 U+639A	kJapaneseOn	RYOU
+U+715C	kJapaneseOn	IKU YUU OU
+U+71F8	kJapaneseOn	JU NYU DAN
 U+7243	kJapaneseOn	OU CHOU YOU SHOU JI
+U+7593	kJapaneseOn	ZAI NAI DAI NE KYUU
 U+77C3	kJapaneseOn	GEI NEI NYOU
+U+7DB6	kJapaneseOn	KA
+U+81D1	kJapaneseOn	DOU JU JI
+U+82B2	kJapaneseOn	KA
+U+833D	kJapaneseOn	CHUU JU
 U+8353	kJapaneseOn	HEI BYOU
+U+842A	kJapaneseOn	KA
+U+8481	kJapaneseOn	SHUTSU JUCHI ITSU ICHI RITSU RICHI
 U+84A6	kJapaneseOn	WAKU KYAKU KAKU YAKU
+U+8550	kJapaneseOn	KA KE
+U+8581	kJapaneseOn	IKU OU
+U+8765	kJapaneseOn	BOU MU MYOU BU
 U+88DB	kJapaneseOn	YUU OU YOU
+U+88EA	kJapaneseOn	TOU DOU
 U+8A47	kJapaneseOn	YOU OU EI
 U+8B76	kJapaneseOn	TOU DOU CHUU JU
+U+8CC6	kJapaneseOn	HEN BEN HEI HYOU
+U+8DC0	kJapaneseOn	GETSU GACHI GOTSU GOCHI
+U+8F51	kJapaneseOn	ROU RYOU
 U+9194	kJapaneseOn	SHUU JU
 U+9228	kJapaneseOn	
+U+938A	kJapaneseOn	HOU
 U+93C5	kJapaneseOn	SHUU SHU
 U+93C9	kJapaneseOn	SHUU SHU SOU SOKU
 U+942F	kJapaneseOn	SHAKU CHAKU JAKU
+U+9434	kJapaneseOn	HEKI HYAKU HEI BEI
 U+9B2B	kJapaneseOn	KAN KEN
 U+9B78	kJapaneseOn	
 U+9BBE	kJapaneseOn	DAI NAI
