@@ -234,6 +234,9 @@ U+93C5	kJapaneseOn	SHUU SHU
 U+93C9	kJapaneseOn	SHUU SHU SOU SOKU
 U+942F	kJapaneseOn	SHAKU CHAKU JAKU
 U+9434	kJapaneseOn	HEKI HYAKU HEI BEI
+U+99F2	kJapaneseOn	SHUU
+U+9ACE	kJapaneseOn	RYOU ROU
 U+9B2B	kJapaneseOn	KAN KEN
 U+9B78	kJapaneseOn	
+U+9BB1	kJapaneseOn	
 U+9BBE	kJapaneseOn	DAI NAI

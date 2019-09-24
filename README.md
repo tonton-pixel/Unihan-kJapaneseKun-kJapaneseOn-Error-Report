@@ -34,6 +34,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+4E09</td><td>三</td><td>MITSU MITABI</td><td>MI MITSU MITTSU MITABI</td><td><a href="https://en.wiktionary.org/wiki/%E4%B8%89">三 - Wiktionary</a>:<br>Kun: み (mi, 三, Jōyō); みつ (mitsu, 三つ, Jōyō); みっつ (mittsu, 三つ, Jōyō)</td></tr>
 <tr><td>U+4E2B</td><td>丫</td><td>HUTAMATA AGEMAKI</td><td>FUTAMATA AGEMAKI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+4E3D</td><td>丽</td><td>URUWASHI</td><td>URUWASHII</td><td>Consistent with U+9E97 麗 URUWASHII</td></tr>
 <tr><td>U+4EFE</td><td>仾</td><td>HIKUMERU HIKUMARU</td><td>HIKUI HIKUMERU HIKUMARU</td><td>HIKUI: kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E4%BB%BE">仾 - Wiktionary</a>:<br>Kun: ひくい(hikui),ひくめる (hikumeru), ひくまる (hikumaru)</td></tr>
 <tr><td>U+4F74</td><td>佴</td><td>TASUKE SOHI NARABU ORU TSUGU</td><td>TASUKE SOI NARABU ORU TSUGU</td><td>そひ → そい (modern Japanese orthography)</td></tr>
 <tr><td>U+4F7D</td><td>佽</td><td>SUBOSHIKOI NARABU TASUKERU OYOBI KAHARUGAHARU</td><td>SUBASHIKOI NARABU TASUKERU OYOBI KAWARUGAWARU</td><td>Typo: SUBOSHIKOI → SUBASHIKOI<br>かはるがはる → かわるがわる (modern Japanese orthography)</td></tr>
@@ -332,10 +333,13 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+7832</td><td>砲</td><td>OOZUTSU TSUTSU</td><td>OODZUTSU TSUTSU</td><td>Consistent with:<br>• U+7195 熕 OODZUTSU</td></tr>
 <tr><td>U+7897</td><td>碗</td><td>KOBACHI WAN</td><td>KOBACHI</td><td>WAN: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+78BB</td><td>碻</td><td>TASHIIKA TASHIIKAMERU</td><td>TASHIKA TASHIKAMERU</td><td>Consistent with:<br>• U+78BA 確 TASHIKA TASHIKAMERU</td></tr>
+<tr><td>U+78BC</td><td>碼</td><td>YAUDO</td><td>YAADO</td><td>To be consistent with kDefinition: "yard"<br>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a><br><a href="https://tangorin.com/kanji?search=%E7%A2%BC">碼 - Kanji - Japanese Dictionary Tangorin</a>:<br>やあど・やある</td></tr>
 <tr><td>U+7906</td><td>礆</td><td>KEWAASHII</td><td>KEWASHII</td><td><a href="https://en.wiktionary.org/wiki/%E7%A4%86">礆 - Wiktionary</a>:<br>Kun: けわしい (kewashii)</td></tr>
+<tr><td>U+79AE</td><td>禮</td><td>REI OJIGI</td><td>OJIGI</td><td>REI: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+79E2</td><td>秢</td><td>YOHAI</td><td>YOWAI</td><td>よはい → よわい (modern Japanese orthography)</td></tr>
 <tr><td>U+79FC</td><td>秼</td><td>NOROFU</td><td>NOROU</td><td>のろふ → のろう (modern Japanese orthography)</td></tr>
 <tr><td>U+7A38</td><td>稸</td><td>TSUMU TAKUHAHERU</td><td>TSUMU TAKUWAERU</td><td>たくはへる → たくわえる (modern Japanese orthography)</td></tr>
+<tr><td>U+7A3A</td><td>稺</td><td>OKUTE OSANAI ODERU</td><td>OKUTE OSANAI OGORU</td><td><a href="https://tangorin.com/kanji?search=%E7%A8%BA">稺 - Kanji - Japanese Dictionary Tangorin</a>:<br>おさない・おくて・おごる</td></tr>
 <tr><td>U+7A7E</td><td>穾</td><td>HUKAI</td><td>FUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7A94</td><td>窔</td><td>HUKAI</td><td>FUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7AB5</td><td>窵</td><td>OKUHUKAI</td><td>OKUFUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -560,9 +564,12 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+97C1</td><td>韁</td><td>TAZUNA</td><td>TADZUNA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%81">韁 - Kanji - Japanese Dictionary Tangorin</a>:<br>たづな</td></tr>
 <tr><td>U+97C7</td><td>韇</td><td>YAZUTSU</td><td>YADZUTSU</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%87">韇 - Kanji - Japanese Dictionary Tangorin</a>:<br>やづつ</td></tr>
 <tr><td>U+97CA</td><td>韊</td><td>YAZUTSU EBIRA</td><td>YADZUTSU EBIRA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%8A">韊 - Kanji - Japanese Dictionary Tangorin</a>:<br>やづつ・えびら</td></tr>
+<tr><td>U+99F2</td><td>駲</td><td>SHUU</td><td></td><td>SHUU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+9AD3</td><td>髓</td><td>ZUI</td><td></td><td>Variant of U+9AC4 髄<br>ZUI: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+9B6B</td><td>魫</td><td>SAKANONOKO</td><td>SAKANANOKO</td><td><a href="https://tangorin.com/kanji?search=%E9%AD%AB">魫 - Kanji - Japanese Dictionary Tangorin</a>:<br>さかなのこ</td></tr>
+<tr><td>U+9B74</td><td>魴</td><td>OSHIKIUO KAGAMIDA</td><td>OSHIKIUO KAGAMIDAI</td><td><a href="https://en.wiktionary.org/wiki/%E9%AD%B4">魴 - Wiktionary</a>:<br>Kun: おしきうお (oshikiuo), かがみだい (kagamidai)</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td></td><td>NAMAZU</td><td>NAMAZU: kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E9%AD%B8">魸 - Wiktionary</a>:<br>Kun: なまず (namazu)</td></tr>
+<tr><td>U+9BB1</td><td>鮱</td><td></td><td>BORA</td><td>BORA: kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E9%AE%B1">鮱 - Wiktionary</a>:<br>Kun: ぼら (bora, 鮱)</td></tr>
 <tr><td>U+9BBE</td><td>鮾</td><td></td><td>KUSARU</td><td>KUSARU: kJapaneseKun, not kJapaneseOn<br>Consistent with:<br>• U+9BD8 鯘 KUSARU<br><a href="https://en.wiktionary.org/wiki/%E9%AE%BE">鮾 - Wiktionary</a>:<br>Kun: くさる (kusaru, 鮾る)</td></tr>
 <tr><td>U+9D6F</td><td>鵯</td><td>HYO</td><td>HIYO</td><td><a href="https://en.wiktionary.org/wiki/%E9%B5%AF">鵯 - Wiktionary</a>:<br>Kun: ひよ (hiyo, 鵯); ひよどり (hiyodori, 鵯)</td></tr>
 <tr><td>U+9EE0</td><td>黠</td><td>SATOI WARUGASHIKO</td><td>SATOI WARUGASHIKOI</td><td><a href="https://tangorin.com/kanji?search=%E9%BB%A0">黠 - Kanji - Japanese Dictionary Tangorin</a>:<br>さとい・わるがしこい</td></tr>
@@ -816,7 +823,10 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+93C9</td><td>鏉</td><td>SHYUU SHU SOU SOKU</td><td>SHUU SHU SOU SOKU</td><td>Invalid romanization: SHYUU → SHUU</td></tr>
 <tr><td>U+942F</td><td>鐯</td><td>SHAKU CHAKU JIIYAKU</td><td>SHAKU CHAKU JAKU</td><td>Typo: JIIYAKU → JIYAKU → JAKU</td></tr>
 <tr><td>U+9434</td><td>鐴</td><td>HEKI HIYAKU HEI BEI</td><td>HEKI HYAKU HEI BEI</td><td>Modern Japanese orthography: HIYAKU → HYAKU</td></tr>
+<tr><td>U+99F2</td><td>駲</td><td></td><td>SHUU</td><td>SHUU: kJapaneseOn, not kJapaneseKun<br><a href="https://tangorin.com/kanji?search=%E9%A7%B2">駲 - Kanji - Japanese Dictionary Tangorin</a>:<br>シュウ・ジュン</td></tr>
+<tr><td>U+9ACE</td><td>髎</td><td>RYOU ROO</td><td>RYOU ROU</td><td>Irregular reading: ROO → ROU</td></tr>
 <tr><td>U+9B2B</td><td>鬫</td><td>KAN KEN HOERU</td><td>KAN KEN</td><td>HOERU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td>NAMAZU</td><td></td><td>NAMAZU: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+9BB1</td><td>鮱</td><td>BORA</td><td></td><td>BORA: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9BBE</td><td>鮾</td><td>DAI NAI KUSARU</td><td>DAI NAI</td><td>KUSARU: kJapaneseKun, not kJapaneseOn</td></tr>
 </table>
