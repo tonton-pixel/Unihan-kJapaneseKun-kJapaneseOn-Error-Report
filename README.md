@@ -510,6 +510,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+9240</td><td>鉀</td><td>YOROI KARYUUMU</td><td>YOROI KARIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0">カリウム</a><br><a href="https://tangorin.com/kanji?search=%E9%89%80">鉀 - Kanji - Japanese Dictionary Tangorin</a>:<br>よろい・かりうむ</td></tr>
 <tr><td>U+9251</td><td>鉑</td><td>BURACHINA</td><td>PURACHINA</td><td>[<a href="https://github.com/tonton-pixel/Unihan-Japanese-Kun-Error-Report/issues/1">mandel59</a>] 鉑 (platinum) is プラチナ in Japanese, not ブラチナ</td></tr>
 <tr><td>U+927E</td><td>鉾</td><td>HOKO KITSUSAKI</td><td>HOKO KISSAKI</td><td>Consistent with:<br>• U+92E9 鋩 HOKOSAKI KISSAKI</td></tr>
+<tr><td>U+9292</td><td>銒</td><td>SAKEINE SAKETSUBO ATSUMONONABE</td><td>SAKEIRE SAKETSUBO ATSUMONONABE</td><td>Typo: SAKEINE → SAKEIRE<br><a href="https://tangorin.com/kanji?search=%E9%8A%92">銒 - Kanji - Japanese Dictionary Tangorin</a>:<br>さけいれ・さけつぼ・あつものなべ</td></tr>
 <tr><td>U+92A0</td><td>銠</td><td>MUTENYUUMU</td><td>RUTENIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A6%E3%83%A0">ルテニウム</a><br><a href="https://tangorin.com/kanji?search=%E9%8A%A0">銠 - Kanji - Japanese Dictionary Tangorin</a>:<br>るてにうむ</td></tr>
 <tr><td>U+92A5</td><td>銥</td><td>IRIJUUMU</td><td>IRIJIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0">イリジウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8A%A5">銥 - Wiktionary</a>:<br>Kun: イリジウム (irijiumu)</td></tr>
 <tr><td>U+92A7</td><td>銧</td><td>RAJUUMU</td><td>RAJIUMU</td><td>Usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0">ラジウム</a><br><a href="https://en.wiktionary.org/wiki/%E9%8A%A7">銧 - Wiktionary</a>:<br>Kun: ラジウム (rajiumu, 銧)</td></tr>
@@ -547,6 +548,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+9638</td><td>阸</td><td>FUSAGARU KAGIRU SAMATOGERU SEMARU AYAFUI KURUSHIMI NAYAMI KEHASHII HEDATEFUSAGU SEEMAI</td><td>FUSAGARU KAGIRU SAMATOGERU SEMARU AYAUI KURUSHIMI NAYAMI KEWASHII HEDATEFUSAGU SEMAI</td><td><a href="https://en.wiktionary.org/wiki/%E9%98%B8">阸 - Wiktionary</a>:<br>Kun: ふさがる (fusagaru, 阸がる); かぎる (kagiru, 阸る); せまる (semaru, 阸る); あやうい (ayaui, 阸い)←あやふい (ayafui, historical); くるしみ (kurushimi, 阸しみ); なやみ (nayami, 阸み); けわしい (kewashii, 阸しい)←けはしい (kefasii, historical); せまい (semai, 阸い)</td></tr>
 <tr><td>U+9652</td><td>陒</td><td>YABURETAKAKI YABURERU KEHASHII</td><td>YABURETAKAKI YABURERU KEWASHII</td><td><a href="https://en.wiktionary.org/wiki/%E9%99%92">陒 - Wiktionary</a>:<br>Kun: やぶれたかき (yaburetakaki), やぶれる (yabureru), けわしい (kewashii)</td></tr>
 <tr><td>U+9657</td><td>陗</td><td>KEHASHIKUTAKAI MATSUSUGUDETAKAI KEHASHII TAKAI KIBISHII SEEMARU KAKURERU SETSUKACHI KEHASHIISAKA</td><td>KEWASHIKUTAKAI MASSUGUDETAKAI KEWASHII TAKAI KIBISHII SEMARU KAKURERU SEKKACHI KEWASHIISAKA</td><td><a href="https://en.wiktionary.org/wiki/%E9%99%97">陗 - Wiktionary</a>:<br>Kun: けわしくたかい (kewashikutakai), まっすぐでたかい (massugudetakai), けわしい (kewashii), たかい (takai), きびしい (kibishii), せまる (semaru), かくれる (kakureru), せっかち (sekkachi), けわしいさか (kewashiisaka)</td></tr>
+<tr><td>U+9662</td><td>院</td><td>IN</td><td></td><td>IN: kJapaneseOn, not kJapaneseKun<a href="https://tangorin.com/kanji?search=%E9%99%A2">院 - Kanji - Japanese Dictionary Tangorin</a>:<br>イン</td></tr>
 <tr><td>U+966E</td><td>陮</td><td>TAKAI AYAFUI</td><td>TAKAI AYAUI</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
 <tr><td>U+967B</td><td>陻</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+9682</td><td>隂</td><td>KAGE KAGEERU</td><td>KAGE KAGERU</td><td><a href="https://tangorin.com/kanji?search=%E9%9A%82">隂 - Kanji - Japanese Dictionary Tangorin</a>:<br>かげ・かげる</td></tr>
@@ -564,6 +566,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+97C1</td><td>韁</td><td>TAZUNA</td><td>TADZUNA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%81">韁 - Kanji - Japanese Dictionary Tangorin</a>:<br>たづな</td></tr>
 <tr><td>U+97C7</td><td>韇</td><td>YAZUTSU</td><td>YADZUTSU</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%87">韇 - Kanji - Japanese Dictionary Tangorin</a>:<br>やづつ</td></tr>
 <tr><td>U+97CA</td><td>韊</td><td>YAZUTSU EBIRA</td><td>YADZUTSU EBIRA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%8A">韊 - Kanji - Japanese Dictionary Tangorin</a>:<br>やづつ・えびら</td></tr>
+<tr><td>U+97DB</td><td>韛</td><td>FUIGAU EBIRA</td><td>FUIGO EBIRA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%9B">韛 - Kanji - Japanese Dictionary Tangorin</a>:<br>ふいご・えびら</td></tr>
 <tr><td>U+99F2</td><td>駲</td><td>SHUU</td><td></td><td>SHUU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+9AD3</td><td>髓</td><td>ZUI</td><td></td><td>Variant of U+9AC4 髄<br>ZUI: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+9B6B</td><td>魫</td><td>SAKANONOKO</td><td>SAKANANOKO</td><td><a href="https://tangorin.com/kanji?search=%E9%AD%AB">魫 - Kanji - Japanese Dictionary Tangorin</a>:<br>さかなのこ</td></tr>
@@ -797,6 +800,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+71F8</td><td>燸</td><td>JIYU NYU DAN</td><td>JU NYU DAN</td><td>Modern Japanese orthography: JIYU → JU</td></tr>
 <tr><td>U+7243</td><td>牃</td><td>OUCHOU YOU SHOU JI</td><td>OU CHOU YOU SHOU JI</td><td>Split readings: OUCHOU → OU CHOU<br>Consistent with:<br>• U+696A 楪 CHOU</td></tr>
 <tr><td>U+7593</td><td>疓</td><td>ZAI NAI DAI NE KIU</td><td>ZAI NAI DAI NE KYUU</td><td>Modern Japanese orthography: KIU → KYUU</td></tr>
+<tr><td>U+7685</td><td>皅</td><td>HAE HABI HA HE BE</td><td>HA HE BE</td><td>Remove irregular readings: HAE HABI</td></tr>
 <tr><td>U+77C3</td><td>矃</td><td>GEI NYOU</td><td>GEI NEI NYOU</td><td>NEI NYOU: kJapaneseOn, not kJapaneseKun<br>Consistent with U+5BE7 寧 NEI NYOU</td></tr>
 <tr><td>U+7DB6</td><td>綶</td><td>KUWA</td><td>KA</td><td>Modern Japanese orthography: KUWA → KA</td></tr>
 <tr><td>U+81D1</td><td>臑</td><td>DAU JU JI</td><td>DOU JU JI</td><td>Modern Japanese orthography: DAU → DOU</td></tr>
