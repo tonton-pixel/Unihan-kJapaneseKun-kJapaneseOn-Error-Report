@@ -66,7 +66,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+5092</td><td>傒</td><td>AYAHUI TSUNAGU</td><td>AYAUI TSUNAGU</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
 <tr><td>U+5096</td><td>傖</td><td>IYASHII IYASHIIMONO RUNAKAMONO</td><td>IYASHII IYASHIIMONO INAKAMONO</td><td>Typo: RUNAKAMONO → INAKAMONO<br><a href="https://en.wiktionary.org/wiki/%E5%82%96">傖 - Wiktionary</a>:<br>Kun: いやしい (iyashii), いやしいもの (iyashiimono), いなかもの (inakamono)</td></tr>
 <tr><td>U+509C</td><td>傜</td><td>HUZOROI EDACHI TSUKAI</td><td>FUZOROI EDACHI TSUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
-<tr><td>U+50BF</td><td>傿</td><td>KAKENEOSURU</td><td>KAKENEWOSURU</td><td>Typo: RUNAKAMONO → INAKAMONO<br><a href="https://en.wiktionary.org/wiki/%E5%82%BF">傿 - Wiktionary</a>:<br>Kun: かけねをする (kakeneosuru)</td></tr>
+<tr><td>U+50BF</td><td>傿</td><td>KAKENEOSURU</td><td>KAKENEWOSURU</td><td><a href="https://en.wiktionary.org/wiki/%E5%82%BF">傿 - Wiktionary</a>:<br>Kun: かけねをする (kakeneosuru)</td></tr>
 <tr><td>U+50C6</td><td>僆</td><td>HUTAGO OYOBU OHITSUKU</td><td>FUTAGO OYOBU OITSUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>おひつく → おいつく (modern Japanese orthography)</td></tr>
 <tr><td>U+50D3</td><td>僓</td><td>NARAU MIYABIYAKA SHITAGAHU</td><td>NARAU MIYABIYAKA SHITAGAU</td><td>したがふ → したがう (modern Japanese orthography)</td></tr>
 <tr><td>U+5103</td><td>儃</td><td>TATAZUMU YAUSU HOSHIIMAMA</td><td>TATAZUMU YOUSU HOSHIIMAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%84%83">儃 - Kanji - Japanese Dictionary Tangorin</a>:<br>たたずむ・ようす・ほしいまま</td></tr>
