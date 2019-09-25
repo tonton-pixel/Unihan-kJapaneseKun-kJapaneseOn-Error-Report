@@ -4,7 +4,11 @@
 - **Date: 2019-09-25**
 - **Author: Michel MARIANI**
 
-This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the `Unihan_Readings.txt` data file.
+This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the **Unihan_Readings.txt** data file.
+
+    # Unihan_Readings.txt
+    # Date: 2018-11-09 21:36:19 GMT [JHJ]
+    # Unicode version: 12.0.0
 
 ## Aims and Objectives
 
@@ -22,13 +26,9 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 ## Proposed Modifications
 
-    # Unihan_Readings.txt
-    # Date: 2018-11-09 21:36:19 GMT [JHJ]
-    # Unicode version: 12.0.0
-
 The attached files [Unihan_Readings_kJapaneseKun-Corrections.tsv](Unihan_Readings_kJapaneseKun-Corrections.tsv) and [Unihan_Readings_kJapaneseOn-Corrections.tsv](Unihan_Readings_kJapaneseOn-Corrections.tsv) list all the suggested changes in tab-separated values (tsv) format.
 
-The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) and [Unihan_Readings_kJapaneseOn-Corrected.txt](Unihan_Readings_kJapaneseOn-Corrected.txt) list all the suggested changes in the same format than the original data file `Unihan_Readings.txt`, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
+The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) and [Unihan_Readings_kJapaneseOn-Corrected.txt](Unihan_Readings_kJapaneseOn-Corrected.txt) list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 
 **Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) *must* be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
 
