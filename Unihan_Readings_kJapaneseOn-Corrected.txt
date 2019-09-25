@@ -208,6 +208,7 @@ U+715C	kJapaneseOn	IKU YUU OU
 U+71F8	kJapaneseOn	JU NYU DAN
 U+7243	kJapaneseOn	OU CHOU YOU SHOU JI
 U+7593	kJapaneseOn	ZAI NAI DAI NE KYUU
+U+75D4	kJapaneseOn	DJI JI
 U+7685	kJapaneseOn	HA HE BE
 U+77C3	kJapaneseOn	GEI NEI NYOU
 U+7DB6	kJapaneseOn	KA
