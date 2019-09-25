@@ -62,16 +62,9 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
     <li>Fix typos, omissions and duplicates; split accidentally joined readings.</li>
     <li>Detect and correct misclassified readings, i.e., when a <code>kJapaneseKun</code> reading should be <code>kJapaneseOn</code> instead, or vice versa.</li>
     <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.</li>
-    <li>Apply proper romanization to pronunciations using modern (instead of ancient/historical) Japanese orthography:
-        <ul>
-            <li>replace は with わ, ひ with い, ふ with う, へ with え, ほ with お, etc. where appropriate,</li>
-            <li>replace お with を when it is a particle,</li>
-            <li>make explicit use of small っ and small ゃ, ゅ, ょ when necessary.</li>
-            <li>add voiced ゛ or semi-voiced ゜ sound mark, if need be.</li>
-        </ul>
-    </li>
-    <li>Conversely, restore や, ゆ, よ when misidentified with ゃ, ゅ, ょ.</li>
-    <li>Use current spellings for names of chemical elements.</li>
+    <li>Apply proper romanization to readings using modern (instead of ancient/historical) Japanese orthography.</li>
+    <li>Conversely, restore correct romanization of pronunciations misidentified with historical orthography.</li>
+    <li>Use recent spellings for names of chemical elements.</li>
     <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU. This style of transliteration is actually used on the <a href="http://demo.icu-project.org/icu-bin/translit">ICU Transform Demonstration</a> page.</li>
 </ul>
 <h3>Proposed Modifications</h3>
