@@ -26,7 +26,7 @@ The attached files [kJapaneseKun-Corrections.tsv](kJapaneseKun-Corrections.tsv) 
 
 The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) and [Unihan_Readings_kJapaneseOn-Corrected.txt](Unihan_Readings_kJapaneseOn-Corrected.txt) list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 
-**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) *must* be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
+**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) would have to be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
 
 ## kJapaneseKun
 
