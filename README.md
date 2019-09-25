@@ -1,7 +1,7 @@
 # Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
-- **Date: 2019-09-23**
+- **Date: 2019-09-25**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the `Unihan_Readings.txt` data file.
@@ -20,15 +20,19 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 - Use current spellings for names of chemical elements.
 - Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU. This style of transliteration is actually used on the [ICU Transform Demonstration](http://demo.icu-project.org/icu-bin/translit) page.
 
-**Note**: In order to accommodate for corrections making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency), as described in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/), *must* be updated: `[A-Z]+` → `[A-Z']+`.
-
 ## Proposed Modifications
 
     # Unihan_Readings.txt
     # Date: 2018-11-09 21:36:19 GMT [JHJ]
     # Unicode version: 12.0.0
 
-### • kJapaneseKun
+The attached files `Unihan_Readings_kJapaneseKun-Corrections.tsv` and `Unihan_Readings_kJapaneseOn-Corrections.tsv` list all the suggested changes in tab-separated values (tsv) format.
+
+The attached files `Unihan_Readings_kJapaneseKun-Corrected.txt` and `Unihan_Readings_kJapaneseOn-Corrected.txt` list all the suggested changes in the same format than the original data file `Unihan_Readings.txt`, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
+
+**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) *must* be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
+
+## kJapaneseKun
 
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
@@ -64,7 +68,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+508B</td><td>傋</td><td>HETSURAHANU OROKA</td><td>HETSURAWANU OROKA</td><td>へつらはぬ → へつらわぬ (modern Japanese orthography)<br><a href="https://en.wiktionary.org/wiki/%E5%82%8B">傋 - Wiktionary</a>:<br>Kun: へつらわぬ (hetsurawanu), おろか (oroka)</td></tr>
 <tr><td>U+508E</td><td>傎</td><td>SAKASAMA KURUHU</td><td>SAKASAMA KURUU</td><td>くるふ → くるう (modern Japanese orthography)</td></tr>
 <tr><td>U+5092</td><td>傒</td><td>AYAHUI TSUNAGU</td><td>AYAUI TSUNAGU</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
-<tr><td>U+5096</td><td>傖</td><td>IYASHII IYASHIIMONO RUNAKAMONO</td><td>IYASHII IYASHIIMONO INAKAMONO</td><td>Typo: RUNAKAMONO → INAKAMONO<br><a href="https://en.wiktionary.org/wiki/%E5%82%96">傖 - Wiktionary</a>:<br>Kun: いやしい (iyashii), いやしいもの (iyashiimono), いなかもの (inakamono)</td></tr>
+<tr><td>U+5096</td><td>傖</td><td>IYASHII IYASHIIMONO RUNAKAMONO</td><td>IYASHII IYASHIIMONO INAKAMONO</td><td>Typo: RUNAKAMONO → INAKAMONO<br>(possible confusion between ゐ and る)<br><a href="https://en.wiktionary.org/wiki/%E5%82%96">傖 - Wiktionary</a>:<br>Kun: いやしい (iyashii), いやしいもの (iyashiimono), いなかもの (inakamono)</td></tr>
 <tr><td>U+509C</td><td>傜</td><td>HUZOROI EDACHI TSUKAI</td><td>FUZOROI EDACHI TSUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+50BF</td><td>傿</td><td>KAKENEOSURU</td><td>KAKENEWOSURU</td><td><a href="https://en.wiktionary.org/wiki/%E5%82%BF">傿 - Wiktionary</a>:<br>Kun: かけねをする (kakeneosuru)</td></tr>
 <tr><td>U+50C6</td><td>僆</td><td>HUTAGO OYOBU OHITSUKU</td><td>FUTAGO OYOBU OITSUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>おひつく → おいつく (modern Japanese orthography)</td></tr>
@@ -597,7 +601,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 <tr><td>U+275D7</td><td>𧗗</td><td>HANAJI</td><td>HANADJI</td><td>Consistent with【鼻血】はなぢ</td></tr>
 </table>
 
-### • kJapaneseOn
+## kJapaneseOn
 
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
