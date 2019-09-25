@@ -26,7 +26,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 ## Proposed Modifications
 
-The attached files [Unihan_Readings_kJapaneseKun-Corrections.tsv](Unihan_Readings_kJapaneseKun-Corrections.tsv) and [Unihan_Readings_kJapaneseOn-Corrections.tsv](Unihan_Readings_kJapaneseOn-Corrections.tsv) list all the suggested changes in tab-separated values (tsv) format.
+The attached files [kJapaneseKun-Corrections.tsv](kJapaneseKun-Corrections.tsv) and [kJapaneseOn-Corrections.tsv](kJapaneseOn-Corrections.tsv) list all the suggested changes in tab-separated values (tsv) format.
 
 The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) and [Unihan_Readings_kJapaneseOn-Corrected.txt](Unihan_Readings_kJapaneseOn-Corrected.txt) list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 
