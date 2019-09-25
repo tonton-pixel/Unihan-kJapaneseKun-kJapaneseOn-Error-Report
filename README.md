@@ -30,7 +30,7 @@ The attached files `Unihan_Readings_kJapaneseKun-Corrections.tsv` and `Unihan_Re
 
 The attached files `Unihan_Readings_kJapaneseKun-Corrected.txt` and `Unihan_Readings_kJapaneseOn-Corrected.txt` list all the suggested changes in the same format than the original data file `Unihan_Readings.txt`, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 
-**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) *must* be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
+**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), it should be noted that the current syntax for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) *must* be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
 
 ## kJapaneseKun
 

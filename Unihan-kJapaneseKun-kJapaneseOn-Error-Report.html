@@ -1,45 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Unihan kJapaneseKun &amp; kJapaneseOn Error Report</title>
-  <style type="text/css">
-  body
-  {
-      font-family: sans-serif;
-      font-size: 12px;
-      line-height: 1.333em;
-  }
-  h2
-  {
-      break-before: page;
-  }
-  code, pre
-  {
-      font-size: 1.1em;
-      padding: 0.1em;
-      background-color: #F7F7F7;
-  }
-  table
-  {
-      border-collapse: collapse;
-      border: 1px solid gray;
-  }
-  tr
-  {
-      border: 1px solid gray;
-  }
-  th
-  {
-      text-align: left;
-  }
-  th, td
-  {
-      font-size: 11px;
-      border: 1px solid gray;
-      padding: 0.2em 0.5em;
-  }
-  </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unihan kJapaneseKun &amp; kJapaneseOn Error Report</title>
+    <style type="text/css">
+        body
+        {
+            font-family: sans-serif;
+            font-size: 12px;
+            line-height: 1.333em;
+        }
+        .page-break
+        {
+            break-before: page;
+        }
+        code, pre
+        {
+            font-size: 1.1em;
+            padding: 0.1em;
+            background-color: #F7F7F7;
+        }
+        table
+        {
+            border-collapse: collapse;
+            border: 1px solid gray;
+        }
+        tr
+        {
+            border: 1px solid gray;
+        }
+        th
+        {
+            text-align: left;
+        }
+        th, td
+        {
+            font-size: 11px;
+            border: 1px solid gray;
+            padding: 0.2em 0.5em;
+        }
+    </style>
 </head>
 <body>
 <h3>
@@ -82,9 +82,9 @@ The attached files <code>Unihan_Readings_kJapaneseKun-Corrections.tsv</code> and
 The attached files <code>Unihan_Readings_kJapaneseKun-Corrected.txt</code> and <code>Unihan_Readings_kJapaneseOn-Corrected.txt</code> list all the suggested changes in the same format than the original data file <code>Unihan_Readings.txt</code>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
 </p>
 <p>
-<strong>Note</strong>: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between いわんや (iwan'ya) and いわにゃ (iwanya), it should be noted that the current syntax for <code>kJapaneseKun</code> (and possibly <code>kJapaneseOn</code> for the sake of consistency) <em>must</em> be updated: <code>[A-Z]+</code> → <code>[A-Z']+</code>, in the document <a href="https://www.unicode.org/reports/tr18/">Unicode® Standard Annex #38 - Unicode Han Database (Unihan)</a>.
+<strong>Note</strong>: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), it should be noted that the current syntax for <code>kJapaneseKun</code> (and possibly <code>kJapaneseOn</code> for the sake of consistency) <em>must</em> be updated: <code>[A-Z]+</code> → <code>[A-Z']+</code>, in the document <a href="https://www.unicode.org/reports/tr18/">Unicode® Standard Annex #38 - Unicode Han Database (Unihan)</a>.
 </p>
-<h2>kJapaneseKun</h2>
+<h3 class="page-break">kJapaneseKun</h3>
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+4E09</td><td>三</td><td>MITSU MITABI</td><td>MI MITSU MITTSU MITABI</td><td><a href="https://en.wiktionary.org/wiki/%E4%B8%89">三 - Wiktionary</a>:<br>Kun: み (mi, 三, Jōyō); みつ (mitsu, 三つ, Jōyō); みっつ (mittsu, 三つ, Jōyō)</td></tr>
@@ -651,7 +651,7 @@ The attached files <code>Unihan_Readings_kJapaneseKun-Corrected.txt</code> and <
 <tr><td>U+9F8F</td><td>龏</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOHOHI</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOOI</td><td>ともしびおほひ → ともしびおおい (modern Japanese orthography)</td></tr>
 <tr><td>U+275D7</td><td>𧗗</td><td>HANAJI</td><td>HANADJI</td><td>Consistent with【鼻血】はなぢ</td></tr>
 </table>
-<h2>kJapaneseOn</h2>
+<h3 class="page-break">kJapaneseOn</h3>
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+3861</td><td>㡡</td><td>CHU JIU</td><td>CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
