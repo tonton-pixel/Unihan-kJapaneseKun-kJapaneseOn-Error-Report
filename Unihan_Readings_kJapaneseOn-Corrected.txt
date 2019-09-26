@@ -204,6 +204,7 @@ U+6130	kJapaneseOn	KOU OU
 U+61E4	kJapaneseOn	CHUU JUU TOU
 U+61EC	kJapaneseOn	KOU
 U+639A	kJapaneseOn	RYOU
+U+7119	kJapaneseOn	HOU HAI
 U+715C	kJapaneseOn	IKU YUU OU
 U+71F8	kJapaneseOn	JU NYU DAN
 U+7243	kJapaneseOn	OU CHOU YOU SHOU JI
@@ -224,6 +225,7 @@ U+8581	kJapaneseOn	IKU OU
 U+8765	kJapaneseOn	BOU MU MYOU BU
 U+88DB	kJapaneseOn	YUU OU YOU
 U+88EA	kJapaneseOn	TOU DOU
+U+8931	kJapaneseOn	KAI E
 U+8A47	kJapaneseOn	YOU OU EI
 U+8B76	kJapaneseOn	TOU DOU CHUU JU
 U+8CC6	kJapaneseOn	HEN BEN HEI HYOU
