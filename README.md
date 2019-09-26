@@ -69,7 +69,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+508B</td><td>傋</td><td>HETSURAHANU OROKA</td><td>HETSURAWANU OROKA</td><td>へつらはぬ → へつらわぬ (modern Japanese orthography)<br><a href="https://en.wiktionary.org/wiki/%E5%82%8B">傋 - Wiktionary</a>:<br>Kun: へつらわぬ (hetsurawanu), おろか (oroka)</td></tr>
 <tr><td>U+508E</td><td>傎</td><td>SAKASAMA KURUHU</td><td>SAKASAMA KURUU</td><td>くるふ → くるう (modern Japanese orthography)</td></tr>
 <tr><td>U+5092</td><td>傒</td><td>AYAHUI TSUNAGU</td><td>AYAUI TSUNAGU</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
-<tr><td>U+5096</td><td>傖</td><td>IYASHII IYASHIIMONO RUNAKAMONO</td><td>IYASHII IYASHIIMONO INAKAMONO</td><td>Typo: RUNAKAMONO → INAKAMONO<br>(possible confusion between ゐ and る)<br><a href="https://en.wiktionary.org/wiki/%E5%82%96">傖 - Wiktionary</a>:<br>Kun: いやしい (iyashii), いやしいもの (iyashiimono), いなかもの (inakamono)</td></tr>
+<tr><td>U+5096</td><td>傖</td><td>IYASHII IYASHIIMONO RUNAKAMONO</td><td>IYASHII IYASHIIMONO INAKAMONO</td><td>Typo: RUNAKAMONO → INAKAMONO<br>(possible confusion between ゐ and る?)<br><a href="https://en.wiktionary.org/wiki/%E5%82%96">傖 - Wiktionary</a>:<br>Kun: いやしい (iyashii), いやしいもの (iyashiimono), いなかもの (inakamono)</td></tr>
 <tr><td>U+509C</td><td>傜</td><td>HUZOROI EDACHI TSUKAI</td><td>FUZOROI EDACHI TSUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+50BF</td><td>傿</td><td>KAKENEOSURU</td><td>KAKENEWOSURU</td><td><a href="https://en.wiktionary.org/wiki/%E5%82%BF">傿 - Wiktionary</a>:<br>Kun: かけねをする (kakeneosuru)</td></tr>
 <tr><td>U+50C6</td><td>僆</td><td>HUTAGO OYOBU OHITSUKU</td><td>FUTAGO OYOBU OITSUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>おひつく → おいつく (modern Japanese orthography)</td></tr>
@@ -91,8 +91,12 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5226</td><td>刦</td><td>OIYAKASU</td><td>OBIYAKASU</td><td>Consistent with:<br>• U+52AB 劫 OBIYAKASU</td></tr>
 <tr><td>U+5227</td><td>刧</td><td>OBYAKASU</td><td>OBIYAKASU</td><td>Consistent with:<br>• U+52AB 劫 OBIYAKASU</td></tr>
 <tr><td>U+5249</td><td>剉</td><td>KUJIKU KADOOTORU</td><td>KUJIKU KADOWOTORU</td><td><a href="https://en.wiktionary.org/wiki/%E5%89%89">剉 - Wiktionary</a>:<br>Kun: くじく (kujiku); かどをとる (kadootoru, 剉る)</td></tr>
+<tr><td>U+5261</td><td>剡</td><td>SURUDOI SORUDOKUSURU KEZURU</td><td>SURUDOI SURUDOKUSURU KEZURU</td><td>Typo: SORUDOKUSURU → SURUDOKUSURU, consistent with SURUDOI<br><a href="https://tangorin.com/kanji?search=%E5%89%A1">剡 - Kanji - Japanese Dictionary Tangorin</a>:<br>するどい・するどくする・けずる</td></tr>
 <tr><td>U+527D</td><td>剽</td><td>OBYAKASU</td><td>OBIYAKASU</td><td><a href="https://tangorin.com/kanji?search=%E5%89%BD">剽 - Kanji - Japanese Dictionary Tangorin</a>:<br>おびやかす・さす</td></tr>
 <tr><td>U+528C</td><td>劌</td><td>SOKONAU SAKU HARI TOGE AHU</td><td>SOKONAU SAKU HARI TOGE AU</td><td>あふ → あう (modern Japanese orthography)</td></tr>
+<tr><td>U+5297</td><td>劗</td><td>HERISU KIRU</td><td>HERASU KIRU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%97">劗 - Kanji - Japanese Dictionary Tangorin</a>:<br>へらす・きる</td></tr>
+<tr><td>U+52A4</td><td>劤</td><td>CHIKARI</td><td>CHIKARA</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%A4">劤 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちから</td></tr>
+<tr><td>U+52A6</td><td>劦</td><td>NIWAKA GATOTONOU</td><td>NIWAKA TOTONOU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%A6">劦 - Kanji - Japanese Dictionary Tangorin</a>:<br>にわか・ととのう</td></tr>
 <tr><td>U+52BD</td><td>劽</td><td>GAARU</td><td>GARU</td><td><a href="https://tangorin.com/kanji?search=%E5%8A%BD">劽 - Kanji - Japanese Dictionary Tangorin</a>:<br>かる</td></tr>
 <tr><td>U+52C6</td><td>勆</td><td>TSUTOI</td><td>TSUYOI</td><td><a href="https://tangorin.com/kanji?search=%E5%8B%86">勆 - Kanji - Japanese Dictionary Tangorin</a>:<br>つよい</td></tr>
 <tr><td>U+52DC</td><td>勜</td><td>TSUTOI</td><td>TSUYOI</td><td><a href="https://tangorin.com/kanji?search=%E5%8B%9C">勜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つよい</td></tr>
@@ -314,8 +318,10 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+7109</td><td>焉</td><td>IZUKUNSO SUNAWACHI KORE</td><td>IZUKUNZO SUNAWACHI KORE</td><td><a href="https://tangorin.com/kanji?search=%E7%84%89">焉 - Kanji - Japanese Dictionary Tangorin</a>:<br>いずくんぞ・ここに・これ</td></tr>
 <tr><td>U+7145</td><td>煅</td><td>KITAAERU</td><td>KITAERU</td><td><a href="https://en.wiktionary.org/wiki/%E7%85%85">煅 - Wiktionary</a>:<br>Kun: きたえる (kitaeru)</td></tr>
 <tr><td>U+7195</td><td>熕</td><td>OOZUTSU</td><td>OODZUTSU</td><td><a href="https://tangorin.com/kanji?search=%E7%86%95">熕 - Kanji - Japanese Dictionary Tangorin</a>:<br>おおづつ</td></tr>
+<tr><td>U+71D7</td><td>燗</td><td>KAN KANSURU</td><td>KANSURU</td><td>KAN: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+722F</td><td>爯</td><td>TONAHE AGERU</td><td>TONAE AGERU</td><td>となへ → となえ (modern Japanese orthography)</td></tr>
 <tr><td>U+7253</td><td>牓</td><td>HUDA</td><td>FUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+7263</td><td>牣</td><td>MISARU</td><td>MICHIRU</td><td><a href="https://tangorin.com/kanji?search=%E7%89%A3">牣 - Kanji - Japanese Dictionary Tangorin</a>:<br>みちる</td></tr>
 <tr><td>U+726E</td><td>牮</td><td>TSUTSUPORI</td><td>TSUPPORI</td><td><a href="https://tangorin.com/kanji?search=%E7%89%AE">牮 - Kanji - Japanese Dictionary Tangorin</a>:<br>つっぽり</td></tr>
 <tr><td>U+72CC</td><td>狌</td><td>SHIYOUJIYOU</td><td>SHOUJOU</td><td><a href="https://en.wiktionary.org/wiki/%E7%8B%8C">狌 - Wiktionary</a>:<br>Kun: いたち (itachi, 狌); しょうじょう (shōjō)←しやうじやう (syauzyau, historical)</td></tr>
 <tr><td>U+72E1</td><td>狡</td><td>ZURUI WARUGASHIKO</td><td>ZURUI WARUGASHIKOI</td><td><a href="https://tangorin.com/kanji?search=%E7%8B%A1">狡 - Kanji - Japanese Dictionary Tangorin</a>:<br>ずるい・こすい・わるがしこい</td></tr>
@@ -385,6 +391,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td>SHU</td><td>しゆ → しゅ (modern Japanese orthography)<br>Same as kJapaneseOn?</td></tr>
 <tr><td>U+7D7B</td><td>絻</td><td>MOHUKU</td><td>MOFUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7D82</td><td>綂</td><td>HOOBIRU</td><td>HOBIRU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%82">綂 - Kanji - Japanese Dictionary Tangorin</a>:<br>すべて・ほびる</td></tr>
+<tr><td>U+7D86</td><td>綆</td><td>TSURUBINAWA</td><td>TSURUBENAWA</td><td>Related to【釣瓶縄】つるべなわ<br><a href="https://tangorin.com/kanji?search=%E7%B6%86">綆 - Kanji - Japanese Dictionary Tangorin</a>:<br>つるべなわ</td></tr>
 <tr><td>U+7D8B</td><td>綋</td><td>TSUNA TSUNAGU OOZUNA</td><td>TSUNA TSUNAGU OODZUNA</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%8B">綋 - Kanji - Japanese Dictionary Tangorin</a>:<br>おおづな・つな・つなぐ</td></tr>
 <tr><td>U+7D9A</td><td>続</td><td>TSUZUKU TSUGU</td><td>TSUDZUKU TSUGU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%9A">続 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづく・つづける・つぐない</td></tr>
 <tr><td>U+7D9C</td><td>綜</td><td>SUBERU OSA</td><td>SUBERU OSAMERU</td><td><a href="https://en.wiktionary.org/wiki/%E7%B6%9C">綜 - Wiktionary</a>:<br>Kun: おさめる (osameru, 綜める); すべる (suberu, 綜べる)</td></tr>
@@ -471,15 +478,21 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+8A65</td><td>詥</td><td>YAHARAGU KANAFU ATSUMARIIFU</td><td>YAWARAGU KANAU ATSUMARIIU</td><td>やはらぐ → やわらぐ<br>かなふ → かなう<br>あつまりいふ → あつまりいう<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+8A7A</td><td>詺</td><td>NAZUKERU</td><td>NADZUKERU</td><td><a href="https://tangorin.com/kanji?search=%E8%A9%BA">詺 - Kanji - Japanese Dictionary Tangorin</a>:<br>なづける</td></tr>
 <tr><td>U+8A7E</td><td>詾</td><td>UTSUTAERU IITATERU MICHIRU ODOSU</td><td>UTTAERU IITATERU MICHIRU ODOSU</td><td><a href="https://tangorin.com/kanji?search=%E8%A9%BE">詾 - Kanji - Japanese Dictionary Tangorin</a>:<br>うったえる・いいたてる・みちる・おどす</td></tr>
+<tr><td>U+8AAE</td><td>誮</td><td>YASASHI</td><td>YASASHII</td><td><a href="https://en.wiktionary.org/wiki/%E8%AA%AE">誮 - Wiktionary</a>:<br>Kun: やさしい (yasashii, 誮しい)</td></tr>
 <tr><td>U+8AAF</td><td>誯</td><td>TONAAERU</td><td>TONAERU</td><td><a href="https://en.wiktionary.org/wiki/%E8%AA%AF">誯 - Wiktionary</a>:<br>Kun: となえる (tonaeru)</td></tr>
 <tr><td>U+8AB7</td><td>誷</td><td>SHIHIRU</td><td>SHIIRU</td><td>しひる → しいる (modern Japanese orthography)</td></tr>
+<tr><td>U+8ACA</td><td>諊</td><td>SHIRABIRU</td><td>SHIRABERU</td><td><a href="https://tangorin.com/kanji?search=%E8%AB%8A">諊 - Kanji - Japanese Dictionary Tangorin</a>:<br>しらべる</td></tr>
 <tr><td>U+8AD1</td><td>諑</td><td>UTSUTAE</td><td>UTTAE</td><td><a href="https://tangorin.com/kanji?search=%E8%AB%91">諑 - Kanji - Japanese Dictionary Tangorin</a>:<br>うったえ</td></tr>
+<tr><td>U+8AD2</td><td>諒</td><td>AKIRAKANISU MAKOTO MAKOTONI</td><td>AKIRAKANISURU MAKOTO MAKOTONI</td><td>AKIRAKANISURU consistent with:<br>• U+5BF2 寲 AKIRAKANISURU<br>• U+8A67 詧 AKIRAKANISURU</td></tr>
 <tr><td>U+8AEC</td><td>諬</td><td>SATOOSU</td><td>SATOSU</td><td><a href="https://tangorin.com/kanji?search=%E8%AB%AC">諬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひらく・さとす</td></tr>
 <tr><td>U+8B30</td><td>謰</td><td>OSHIYABIRI</td><td>OSHABERI</td><td><a href="https://en.wiktionary.org/wiki/%E8%AC%B0">謰 - Wiktionary</a>:<br>Kun: おしゃべり (oshaberi)</td></tr>
 <tr><td>U+8B5E</td><td>譞</td><td>SAKASHII CHIE OHOKUMONOIFU</td><td>SAKASHII CHIE OOKUMONOIU</td><td>おほくものいふ → おおくものいう (modern Japanese orthography)</td></tr>
 <tr><td>U+8C39</td><td>谹</td><td>HUKAI</td><td>FUKAI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+8C63</td><td>豣</td><td>IINOKO</td><td>INOKO</td><td><a href="https://tangorin.com/kanji?search=%E8%B1%A3">豣 - Kanji - Japanese Dictionary Tangorin</a>:<br>いのこ</td></tr>
 <tr><td>U+8C79</td><td>豹</td><td>HYOU</td><td></td><td>HYOU: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+8C7E</td><td>豾</td><td>KODAMEKI</td><td>KODANUKI</td><td>Typo: KODANUKI = KO + TANUKI<br>Possible confusion between め and ぬ, or メ and ヌ?<br>Consistent with U+72C9 狉 KODANUKI<br><a href="https://tangorin.com/kanji?search=%E8%B1%BE">豾 - Kanji - Japanese Dictionary Tangorin</a>:<br>こだぬき</td></tr>
+<tr><td>U+8C9B</td><td>貛</td><td>MAMIDAMEKI</td><td>MAMIDANUKI</td><td>Typo: MAMIDANUKI = MAMI + TANUKI<br>Possible confusion between め and ぬ, or メ and ヌ?<br><a href="https://tangorin.com/kanji?search=%E8%B2%9B">貛 - Kanji - Japanese Dictionary Tangorin</a>:<br>まみだぬき</td></tr>
+<tr><td>U+8CCB</td><td>賋</td><td>AKIRUKA</td><td>AKIRAKA</td><td><a href="https://tangorin.com/kanji?search=%E8%B3%8B">賋 - Kanji - Japanese Dictionary Tangorin</a>:<br>あきらか</td></tr>
 <tr><td>U+8CCE</td><td>賎</td><td>IYASHI</td><td>IYASHII</td><td>Consistent with U+8CE4 賤 IYASHII</td></tr>
 <tr><td>U+8CD1</td><td>賑</td><td>NIGIWAU NIGYAKA NIGIWAI</td><td>NIGIWAU NIGIYAKA NIGIWAI</td><td><a href="https://en.wiktionary.org/wiki/%E8%B3%91">賑 - Wiktionary</a>:<br>Kun: にぎわう (nigiwau, 賑わう); にぎやか (nigiyaka, 賑やか)</td></tr>
 <tr><td>U+8CE1</td><td>賡</td><td>TSUGU TSUGUNAFU</td><td>TSUGU TSUGUNAU</td><td>つぐなふ → つぐなう (modern Japanese orthography)</td></tr>
