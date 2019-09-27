@@ -91,6 +91,7 @@ U+5794	kJapaneseOn	SHOU JU TOU ZU
 U+5797	kJapaneseOn	CHOU DJOU
 U+579A	kJapaneseOn	GYOU
 U+57A5	kJapaneseOn	KYOU KOU
+U+57BC	kJapaneseOn	EKI YAKU
 U+57C2	kJapaneseOn	KOU KYOU
 U+57DD	kJapaneseOn	TEN DJOU NYOU NEN
 U+57E9	kJapaneseOn	SOU SHOU

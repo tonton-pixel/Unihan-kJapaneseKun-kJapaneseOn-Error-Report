@@ -148,6 +148,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5780</td><td>垀</td><td>KAMAHE WAZURAHAI</td><td>KAMAE WAZURAWAI</td><td>かまへ → かまえ<br>わずらはい → わずらわい<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5794</td><td>垔</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5797</td><td>垗</td><td>HAURIDOKORO</td><td>HAFURIDOKORO</td><td><a href="https://tangorin.com/kanji?search=%E5%9E%97">垗 - Kanji - Japanese Dictionary Tangorin</a>:<br>はふりどころ</td></tr>
+<tr><td>U+579C</td><td>垜</td><td>TSUMIKASARERU</td><td>TSUMIKASANERU</td><td><a href="https://tangorin.com/kanji?search=%E5%9E%9C">垜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つみかさねる</td></tr>
 <tr><td>U+57A4</td><td>垤</td><td>ARIZUKA</td><td>ARIDZUKA</td><td><a href="https://en.wiktionary.org/wiki/%E5%9E%A4">垤 - Wiktionary</a>:<br>Kun: ありづか (arizuka)</td></tr>
 <tr><td>U+57A8</td><td>垨</td><td>MAMOORU MORI KAMI</td><td>MAMORU MORI KAMI</td><td><a href="https://tangorin.com/kanji?search=%E5%9E%A8">垨 - Kanji - Japanese Dictionary Tangorin</a>:<br>まもる・もり・かみ</td></tr>
 <tr><td>U+57BA</td><td>垺</td><td>KURUWA OHOKII SAKAN TSUKA</td><td>KURUWA OOKII SAKAN TSUKA</td><td>おほきい → おおきい (modern Japanese orthography)</td></tr>
@@ -156,6 +157,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+57F6</td><td>埶</td><td>UERU WAZA IKIHOHI</td><td>UERU WAZA IKIOI</td><td>いきほひ → いきおい (modern Japanese orthography)</td></tr>
 <tr><td>U+57F8</td><td>埸</td><td>SAKAHI AZE</td><td>SAKAI AZE</td><td>さかひ → さかい (modern Japanese orthography)</td></tr>
 <tr><td>U+57FA</td><td>基</td><td>MOTOI MOTO MOTOZUKU</td><td>MOTOI MOTO MOTODZUKU</td><td><a href="https://en.wiktionary.org/wiki/%E5%9F%BA">基 - Wiktionary</a>:<br>Kun: もと (moto, 基, Jōyō); もとい (motoi, 基, Jōyō); もとづく (motozuku)</td></tr>
+<tr><td>U+57FF</td><td>埿</td><td>NURU KOTE NUKARAMI</td><td>NURU KOTE NUKARUMI</td><td><a href="https://tangorin.com/kanji?search=%E5%9F%BF">埿 - Kanji - Japanese Dictionary Tangorin</a>:<br>ぬる・こて・ぬかるみ</td></tr>
 <tr><td>U+5825</td><td>堥</td><td>KAHARAKE</td><td>KAWARAKE</td><td>かはらけ → かわらけ (modern Japanese orthography)</td></tr>
 <tr><td>U+583B</td><td>堻</td><td>URUHOHI URUHOU</td><td>URUOI URUOU</td><td>うるほひ → うるおい<br>うるほう → うるおう<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+585B</td><td>塛</td><td>HUSAGARU</td><td>FUSAGARU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -295,6 +297,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+6C59</td><td>汙</td><td>KEGAASU KEGAARERU TOGOOSU KEGAARERUKEGAARUWASHII</td><td>KEGASU KEGARERU TOGOSU KEGARAWASHII</td><td>Deliberate vandalism?<br><a href="https://tangorin.com/kanji?search=%E6%B1%99">汙 - Kanji - Japanese Dictionary Tangorin</a>:<br>けがす・けがれる・けがらわしい・よごす・よごれる・きたない</td></tr>
 <tr><td>U+6C89</td><td>沉</td><td>SHIZUUMU SHIZUUMERU</td><td>SHIZUMU SHIZUMERU</td><td>Consistent with:<br>• U+6C88 沈 SHIZUMU SHIZUMERU</td></tr>
 <tr><td>U+6C97</td><td>沗</td><td>MOOERU MOOU</td><td>MOERU MOU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%97">沗 - Kanji - Japanese Dictionary Tangorin</a>:<br>そえる・そう・もえる・もう</td></tr>
+<tr><td>U+6CB4</td><td>沴</td><td>MOKONAU</td><td>SOKONAU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%B4">沴 - Kanji - Japanese Dictionary Tangorin</a>:<br>そこなう</td></tr>
 <tr><td>U+6CC1</td><td>況</td><td>IWANYA OMOMUKI</td><td>IWAN'YA OMOMUKI</td><td>Use single quote for ん disambiguation<br><a href="https://en.wiktionary.org/wiki/%E6%B3%81">況 - Wiktionary</a>:<br>Kun: まして (mashite, 況して); いわんや (iwan'ya, 況んや)←いはんや (ifan'ya, historical); おもむき (omomuki, 況)</td></tr>
 <tr><td>U+6CC6</td><td>泆</td><td>AHURERU</td><td>AFURERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6D0C</td><td>洌</td><td>KYOI</td><td>KIYOI</td><td><a href="https://en.wiktionary.org/wiki/%E6%B4%8C">洌 - Wiktionary</a>:<br>Kun: きよい (kiyoi)</td></tr>
@@ -456,6 +459,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+845B</td><td>葛</td><td>KUZU TSUZURA</td><td>KUZU TSUDZURA</td><td><a href="https://tangorin.com/kanji?search=%E8%91%9B">葛 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづら・くず</td></tr>
 <tr><td>U+8465</td><td>葥</td><td>KIICHIGU</td><td>KIICHIGO</td><td><a href="https://tangorin.com/kanji?search=%E8%91%A5">葥 - Kanji - Japanese Dictionary Tangorin</a>:<br>きいちご</td></tr>
 <tr><td>U+8470</td><td>葰</td><td>SHIYUUGA</td><td>SHOUGA</td><td><a href="https://tangorin.com/kanji?search=%E8%91%B0">葰 - Kanji - Japanese Dictionary Tangorin</a>:<br>しょうが</td></tr>
+<tr><td>U+8492</td><td>蒒</td><td>KOUBAUMUGI</td><td>KOUBOUMUGI</td><td><a href="https://tangorin.com/kanji?search=%E8%92%92">蒒 - Kanji - Japanese Dictionary Tangorin</a>:<br>こうぼうむぎ</td></tr>
 <tr><td>U+8502</td><td>蔂</td><td>MOTSUKO</td><td>MOKKO</td><td><a href="https://tangorin.com/kanji?search=%E8%94%82">蔂 - Kanji - Japanese Dictionary Tangorin</a>:<br>もっこ</td></tr>
 <tr><td>U+851A</td><td>蔚</td><td>OTOKOYOMOKI</td><td>OTOKOYOMOGI</td><td><a href="https://tangorin.com/kanji?search=%E8%94%9A">蔚 - Kanji - Japanese Dictionary Tangorin</a>:<br>うち・おとこよもぎ</td></tr>
 <tr><td>U+851C</td><td>蔜</td><td>HAKOBI</td><td>HAKOBE</td><td><a href="https://tangorin.com/kanji?search=%E8%94%9C">蔜 - Kanji - Japanese Dictionary Tangorin</a>:<br>はこべ</td></tr>
@@ -745,6 +749,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5797</td><td>垗</td><td>TEU DEU</td><td>CHOU DJOU</td><td>Modern Japanese orthography: TEU → CHOU, DEU → DJOU</td></tr>
 <tr><td>U+579A</td><td>垚</td><td>GEU</td><td>GYOU</td><td>Modern Japanese orthography: GEU → GYOU</td></tr>
 <tr><td>U+57A5</td><td>垥</td><td>KEU KOU</td><td>KYOU KOU</td><td>Modern Japanese orthography: KEU → KYOU</td></tr>
+<tr><td>U+57BC</td><td>垼</td><td>EKI YUKU</td><td>EKI YAKU</td><td>Irregular reading: YUKU → YAKU<br>Consistent with U+5F79 役 YAKU EKI</td></tr>
 <tr><td>U+57C2</td><td>埂</td><td>KAU KYOU</td><td>KOU KYOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>
 <tr><td>U+57DD</td><td>埝</td><td>TEN DEU NEU NEN</td><td>TEN DJOU NYOU NEN</td><td>Modern Japanese orthography: DEU → DJOU, NEU → NYOU</td></tr>
 <tr><td>U+57E9</td><td>埩</td><td>SAU SHOU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAU → SOU</td></tr>
