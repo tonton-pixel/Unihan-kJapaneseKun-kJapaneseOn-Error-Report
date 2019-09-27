@@ -300,7 +300,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+6D2F</td><td>洯</td><td>ISAGIYOOI</td><td>ISAGIYOI</td><td><a href="https://tangorin.com/kanji?search=%E6%B4%AF">洯 - Kanji - Japanese Dictionary Tangorin</a>:<br>いさぎよい</td></tr>
 <tr><td>U+6D44</td><td>浄</td><td>KYOI TORO</td><td>KIYOI TORO</td><td><a href="https://en.wiktionary.org/wiki/%E6%B5%84">浄 - Wiktionary</a>:<br>Kun: きよい (kiyoi, 浄い); とろ (toro)</td></tr>
 <tr><td>U+6DC5</td><td>淅</td><td>YONAGU KASHONE</td><td>YONAGU KASHIYONE</td><td><a href="https://en.wiktionary.org/wiki/%E6%B7%85">淅 - Wiktionary</a>:<br>Kun: よなぐ (yonagu); かしよね (kashiyone)<br>Related to【粿米・淅米】かしよね</td></tr>
-<tr><td>U+6DCE</td><td>淎</td><td>HOU HU</td><td>HOU FU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>Same as kJapaneseOn?</td></tr>
+<tr><td>U+6DCE</td><td>淎</td><td>HOU HU</td><td></td><td>Use consistent Hepburn romanization for ふ: FU, not HU<br>HOU FU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+6DE8</td><td>淨</td><td>KYOI</td><td>KIYOI</td><td><a href="https://en.wiktionary.org/wiki/%E6%B7%A8">淨 - Wiktionary</a>:<br>Kun: きよい (kiyoi)</td></tr>
 <tr><td>U+6DF8</td><td>淸</td><td>KYOI KIYOMERU</td><td>KIYOI KIYOMERU</td><td><a href="https://en.wiktionary.org/wiki/%E6%B7%B8">淸 - Wiktionary</a>:<br>Kun: きよい (kiyoi), きよめる (kiyomeru)</td></tr>
 <tr><td>U+6E52</td><td>湒</td><td>HURU</td><td>FURU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -461,9 +461,11 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+8610</td><td>蘐</td><td>KAYA KANZUU</td><td>KAYA KANZOU</td><td><a href="https://tangorin.com/kanji?search=%E8%98%90">蘐 - Kanji - Japanese Dictionary Tangorin</a>:<br>かや・かんぞう</td></tr>
 <tr><td>U+8618</td><td>蘘</td><td>MIYOUGA</td><td>MYOUGA</td><td><a href="https://en.wiktionary.org/wiki/%E8%98%98">蘘 - Wiktionary</a>:<br>Kun: みょうが (myōga)</td></tr>
 <tr><td>U+8677</td><td>虷</td><td>BOUHURA</td><td>BOUFURA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+868C</td><td>蚌</td><td>DOBUGA</td><td>DOBUGAI</td><td>Consistent with:<br>• U+872F 蜯 DOBUGAI<br>• U+8819 蠙 DOBUGAI<br><a href="https://tangorin.com/kanji?search=%E8%9A%8C">蚌 - Kanji - Japanese Dictionary Tangorin</a>:<br>はまぐり・どぶがい</td></tr>
 <tr><td>U+8698</td><td>蚘</td><td>KAICHIYUU HARANOMUSHI</td><td>KAICHUU HARANOMUSHI</td><td><a href="https://en.wiktionary.org/wiki/%E8%9A%98">蚘 - Wiktionary</a>:<br>Kun: かいちゅう (kaichū), はらのむし (haranomushi)</td></tr>
 <tr><td>U+86D5</td><td>蛕</td><td>KAICHIYUU</td><td>KAICHUU</td><td><a href="https://tangorin.com/kanji?search=%E8%9B%95">蛕 - Kanji - Japanese Dictionary Tangorin</a>:<br>かいちゅう</td></tr>
 <tr><td>U+86FA</td><td>蛺</td><td>CHUU</td><td>CHOU</td><td><a href="https://tangorin.com/kanji?search=%E8%9B%BA">蛺 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちょう</td></tr>
+<tr><td>U+86FE</td><td>蛾</td><td>GA</td><td></td><td>GA: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+870E</td><td>蜎</td><td>BOUHURA</td><td>BOUFURA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+8795</td><td>螕</td><td>DANI OHOARI</td><td>DANI OOARI</td><td>おほあり → おおあり (modern Japanese orthography)</td></tr>
 <tr><td>U+87D9</td><td>蟙</td><td>KOUMURI</td><td>KOUMORI</td><td><a href="https://tangorin.com/kanji?search=%E8%9F%99">蟙 - Kanji - Japanese Dictionary Tangorin</a>:<br>こうもり</td></tr>
@@ -689,7 +691,9 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5466</td><td>呦</td><td>IU YU AU EU</td><td>YUU YU OU YOU</td><td>Modern Japanese orthography: IU → YUU, AU → OU, EU → YOU</td></tr>
 <tr><td>U+546B</td><td>呫</td><td>TEHU SEHU TEN</td><td>CHOU SHOU TEN</td><td>Modern Japanese orthography: TEHU → CHOU, SEHU → SHOU</td></tr>
 <tr><td>U+5489</td><td>咉</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
+<tr><td>U+54B6</td><td>咶</td><td>KUUI KE KUTSU KECHI KUU GE SHIJI</td><td>KE KUTSU KECHI KUU GE SHI JI</td><td>Removed irregular reading: KUUI<br>Split readings: SHIJI → SHI JI</td></tr>
 <tr><td>U+54B7</td><td>咷</td><td>TAU DOU TEU TEKI JIAKU</td><td>TOU DOU CHOU TEKI JAKU</td><td>Modern Japanese orthography: TAU → TOU, TEU → CHOU<br>Irregular reading: JIAKU → JAKU</td></tr>
+<tr><td>U+54BA</td><td>咺</td><td>KEN KUUN</td><td>KEN KUN</td><td>Irregular reading: KUUN → KUN<br><a href="https://tangorin.com/kanji?search=%E5%92%BA">咺 - Kanji - Japanese Dictionary Tangorin</a>:<br>ケン・クン</td></tr>
 <tr><td>U+5500</td><td>唀</td><td>IU</td><td>YUU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
 <tr><td>U+553C</td><td>唼</td><td>SAHU SEHU</td><td>SOU SHOU</td><td>Modern Japanese orthography: SAHU → SOU, SEHU → SHOU</td></tr>
 <tr><td>U+554D</td><td>啍</td><td>TON DON SHUN TAI TE KYOU KAU</td><td>TON DON SHUN TAI TE KYOU KOU</td><td>Modern Japanese orthography: KAU → KOU</td></tr>

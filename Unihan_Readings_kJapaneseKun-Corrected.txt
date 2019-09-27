@@ -266,7 +266,7 @@ U+6D0C	kJapaneseKun	KIYOI
 U+6D2F	kJapaneseKun	ISAGIYOI
 U+6D44	kJapaneseKun	KIYOI TORO
 U+6DC5	kJapaneseKun	YONAGU KASHIYONE
-U+6DCE	kJapaneseKun	HOU FU
+U+6DCE	kJapaneseKun	
 U+6DE8	kJapaneseKun	KIYOI
 U+6DF8	kJapaneseKun	KIYOI KIYOMERU
 U+6E52	kJapaneseKun	FURU
@@ -427,9 +427,11 @@ U+860D	kJapaneseKun	KAORU
 U+8610	kJapaneseKun	KAYA KANZOU
 U+8618	kJapaneseKun	MYOUGA
 U+8677	kJapaneseKun	BOUFURA
+U+868C	kJapaneseKun	DOBUGAI
 U+8698	kJapaneseKun	KAICHUU HARANOMUSHI
 U+86D5	kJapaneseKun	KAICHUU
 U+86FA	kJapaneseKun	CHOU
+U+86FE	kJapaneseKun	
 U+870E	kJapaneseKun	BOUFURA
 U+8795	kJapaneseKun	DANI OOARI
 U+87D9	kJapaneseKun	KOUMORI
