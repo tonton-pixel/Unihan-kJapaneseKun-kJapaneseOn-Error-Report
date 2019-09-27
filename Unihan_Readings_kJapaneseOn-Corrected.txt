@@ -204,6 +204,7 @@ U+6130	kJapaneseOn	KOU OU
 U+61E4	kJapaneseOn	CHUU JUU TOU
 U+61EC	kJapaneseOn	KOU
 U+639A	kJapaneseOn	RYOU
+U+6FF9	kJapaneseOn	BOKU
 U+7119	kJapaneseOn	HOU HAI
 U+715C	kJapaneseOn	IKU YUU OU
 U+71F8	kJapaneseOn	JU NYU DAN
