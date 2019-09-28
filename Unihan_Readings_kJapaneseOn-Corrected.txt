@@ -222,6 +222,7 @@ U+7593	kJapaneseOn	ZAI NAI DAI NE KYUU
 U+75D4	kJapaneseOn	DJI JI
 U+7685	kJapaneseOn	HA HE BE
 U+77C3	kJapaneseOn	GEI NEI NYOU
+U+7D48	kJapaneseOn	BAKU BATSU MECHI HA HE HAKU MYAKU
 U+7DB6	kJapaneseOn	KA
 U+81D1	kJapaneseOn	DOU JU JI
 U+82B2	kJapaneseOn	KA
