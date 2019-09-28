@@ -1,7 +1,7 @@
 # Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
-- **Date: 2019-09-25**
+- **Date: 2019-09-27**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the **Unihan_Readings.txt** data file.
@@ -294,7 +294,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+6BC9</td><td>毉</td><td>ISHIYA</td><td>ISHA</td><td>同【医者】いしゃ</td></tr>
 <tr><td>U+6C10</td><td>氐</td><td>HUMOTO</td><td>FUMOTO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+6C4F</td><td>汏</td><td>ARUU</td><td>ARAU</td><td><a href="https://tangorin.com/kanji?search=%E6%B1%8F">汏 - Kanji - Japanese Dictionary Tangorin</a>:<br>あらう</td></tr>
-<tr><td>U+6C59</td><td>汙</td><td>KEGAASU KEGAARERU TOGOOSU KEGAARERUKEGAARUWASHII</td><td>KEGASU KEGARERU TOGOSU KEGARAWASHII</td><td>Deliberate vandalism?<br><a href="https://tangorin.com/kanji?search=%E6%B1%99">汙 - Kanji - Japanese Dictionary Tangorin</a>:<br>けがす・けがれる・けがらわしい・よごす・よごれる・きたない</td></tr>
+<tr><td>U+6C59</td><td>汙</td><td>KEGAASU KEGAARERU TOGOOSU KEGAARERUKEGAARUWASHII</td><td>KEGASU KEGARERU YOGOSU KEGARAWASHII</td><td>Deliberate vandalism?<br><a href="https://tangorin.com/kanji?search=%E6%B1%99">汙 - Kanji - Japanese Dictionary Tangorin</a>:<br>けがす・けがれる・けがらわしい・よごす・よごれる・きたない</td></tr>
 <tr><td>U+6C89</td><td>沉</td><td>SHIZUUMU SHIZUUMERU</td><td>SHIZUMU SHIZUMERU</td><td>Consistent with:<br>• U+6C88 沈 SHIZUMU SHIZUMERU</td></tr>
 <tr><td>U+6C97</td><td>沗</td><td>MOOERU MOOU</td><td>MOERU MOU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%97">沗 - Kanji - Japanese Dictionary Tangorin</a>:<br>そえる・そう・もえる・もう</td></tr>
 <tr><td>U+6CB4</td><td>沴</td><td>MOKONAU</td><td>SOKONAU</td><td><a href="https://tangorin.com/kanji?search=%E6%B2%B4">沴 - Kanji - Japanese Dictionary Tangorin</a>:<br>そこなう</td></tr>
