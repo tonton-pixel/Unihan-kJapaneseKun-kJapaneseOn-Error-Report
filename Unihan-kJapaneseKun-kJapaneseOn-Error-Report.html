@@ -60,10 +60,10 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
 <h3>Aims and Objectives</h3>
 <ul>
     <li>Fix typos, omissions and duplicates; split accidentally joined readings.</li>
-    <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.</li>
     <li>Apply proper romanization to readings using modern (instead of ancient/historical) Japanese orthography.</li>
     <li>Conversely, restore correct romanization of pronunciations misidentified with historical orthography.</li>
     <li>Use recent spellings for names of chemical elements.</li>
+    <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.</li>
     <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU.</li>
     <li>Detect and correct misclassified readings, i.e., when a <code>kJapaneseKun</code> reading should be <code>kJapaneseOn</code> instead, or vice versa.</li>
 </ul>
@@ -72,7 +72,7 @@ This error report intends to correct issues found in the <code>kJapaneseKun</cod
 The attached files <a href="kJapaneseKun-Corrections.tsv">kJapaneseKun-Corrections.tsv</a> and <a href="kJapaneseOn-Corrections.tsv">kJapaneseOn-Corrections.tsv</a> list all the suggested changes in tab-separated values (tsv) format.
 </p>
 <p>
-The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_Readings_kJapaneseKun-Corrected.txt</a> and <a href="Unihan_Readings_kJapaneseOn-Corrected.txt">Unihan_Readings_kJapaneseOn-Corrected.txt</a> list all the suggested changes in the same format than the original data file <strong>Unihan_Readings.txt</strong>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted.
+The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_Readings_kJapaneseKun-Corrected.txt</a> and <a href="Unihan_Readings_kJapaneseOn-Corrected.txt">Unihan_Readings_kJapaneseOn-Corrected.txt</a> list all the suggested changes in the same format than the original data file <strong>Unihan_Readings.txt</strong>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
 </p>
 <p>
 <strong>Note</strong>: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for <code>kJapaneseKun</code> (and possibly <code>kJapaneseOn</code> for the sake of consistency) would have to be updated: <code>[A-Z]+</code> → <code>[A-Z']+</code>, in the document <a href="https://www.unicode.org/reports/tr18/">Unicode® Standard Annex #38 - Unicode Han Database (Unihan)</a>.
@@ -220,8 +220,10 @@ The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_R
 <tr><td>U+5888</td><td>墈</td><td>SAKAHI</td><td>SAKAI</td><td>さかひ → さかい (modern Japanese orthography)</td></tr>
 <tr><td>U+58A3</td><td>墣</td><td>TSUIKURE</td><td>TSUCHIKURE</td><td>Same as U+5724 圤 TSUCHIKURE<br>Related to【土塊】つちくれ</td></tr>
 <tr><td>U+58A5</td><td>墥</td><td>ARIZUKA</td><td>ARIDZUKA</td><td><a href="https://en.wiktionary.org/wiki/%E5%A2%A5">墥 - Wiktionary</a>:<br>Kun: ありづか (arizuka)</td></tr>
+<tr><td>U+58DA</td><td>壚</td><td>RURORI</td><td>IRORI</td><td>Typo: RURORI → IRORI<br>Possible confusion between ゐ and る?<br><a href="https://tangorin.com/kanji?search=%E5%A3%9A">壚 - Kanji - Japanese Dictionary Tangorin</a>:<br>いろり</td></tr>
 <tr><td>U+58FD</td><td>壽</td><td>KOTOBUKI HISASHII KOTOOGU</td><td>KOTOBUKI HISASHII KOTOHOGU</td><td>Consistent with:<br>• U+5BFF 寿 KOTOBUKI HISASHII KOTOHOGU</td></tr>
 <tr><td>U+5905</td><td>夅</td><td>OORIRU OOROSU HUURU</td><td>ORIRU OROSU FURU</td><td><a href="https://tangorin.com/kanji?search=%E5%A4%85">夅 - Kanji - Japanese Dictionary Tangorin</a>:<br>おりる・おろす・ふる・くだる・くだす</td></tr>
+<tr><td>U+5925</td><td>夥</td><td>OBITADA</td><td>OBITADASHII</td><td><a href="https://tangorin.com/kanji?search=%E5%A4%A5">夥 - Kanji - Japanese Dictionary Tangorin</a>:<br>おびただしい</td></tr>
 <tr><td>U+5936</td><td>夶</td><td>KURAABERU</td><td>KURABERU</td><td>Consistent with:<br>• U+6BD4 比 KURABERU</td></tr>
 <tr><td>U+5952</td><td>奒</td><td>TATEMATSUURU MATSURU</td><td>TATEMATSURU MATSURU</td><td><a href="https://tangorin.com/kanji?search=%E5%A5%92">奒 - Kanji - Japanese Dictionary Tangorin</a>:<br>たてまつる・まつる</td></tr>
 <tr><td>U+5992</td><td>妒</td><td>NETAMU SONEMU TSUMORU HUSAGU</td><td>NETAMU SONEMU TSUMORU FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -230,6 +232,7 @@ The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_R
 <tr><td>U+59FC</td><td>姼</td><td>TAOYAME KAROGAROSHII MIMETOI</td><td>TAOYAME KAROGAROSHII MIMEYOI</td><td>Typo: MIMETOI → MIMEYOI</td></tr>
 <tr><td>U+5A19</td><td>娙</td><td>SURARITOSHITEMIMEYOI HASHITAAME</td><td>SURARITOSHITEMIMEYOI HASHITAME</td><td>Typo<br>Possibly related to:<br>• U+59AE 妮 HASHITAME<br>• U+5A2D 娭 HASHITAME<br>• U+5A62 婢 HASHITAME</td></tr>
 <tr><td>U+5A2D</td><td>娭</td><td>TAHOMURERU HASHITAME</td><td>TAWAMURERU HASHITAME</td><td><a href="https://tangorin.com/kanji?search=%E5%A8%AD">娭 - Kanji - Japanese Dictionary Tangorin</a>:<br>たわむれる・はしため</td></tr>
+<tr><td>U+5A42</td><td>婂</td><td>BEN MEN</td><td></td><td>BEN MEN: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+5A5E</td><td>婞</td><td>MOTORU MATSUSUGU</td><td>MOTORU MASSUGU</td><td><a href="https://tangorin.com/kanji?search=%E5%A9%9E">婞 - Kanji - Japanese Dictionary Tangorin</a>:<br>もとる・まっすぐ</td></tr>
 <tr><td>U+5A69</td><td>婩</td><td>TOTONOU MIMEYOI MUTSUTSURISURU</td><td>TOTONOU MIMEYOI MUTTSURISURU</td><td>むつつりする → むっつりする (modern Japanese orthography)</td></tr>
 <tr><td>U+5AB1</td><td>媱</td><td>MIMEYOI TAHAMURERU</td><td>MIMEYOI TAWAMURERU</td><td>たはむれる → たわむれる (modern Japanese orthography)</td></tr>
@@ -456,7 +459,7 @@ The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_R
 <tr><td>U+7D04</td><td>約</td><td>TSUZUMERU TSUZUMAYAKA</td><td>TSUDZUMERU TSUDZUMAYAKA</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%84">約 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづまる・つづめる・つづまやか</td></tr>
 <tr><td>U+7D12</td><td>紒</td><td>YUU MUSUHU</td><td>YUU MUSUBU</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%92">紒 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆう・むすぶ</td></tr>
 <tr><td>U+7D18</td><td>紘</td><td>OOZUNA HIMO</td><td>OODZUNA HIMO</td><td><a href="https://en.wiktionary.org/wiki/%E7%B4%98">紘 - Wiktionary</a>:<br>Kun: おおづな (oozuna), ひも (himo)</td></tr>
-<tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td>SHU</td><td>しゆ → しゅ (modern Japanese orthography)<br>Same as kJapaneseOn?</td></tr>
+<tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td></td><td>しゆ → しゅ (modern Japanese orthography)<br>SHU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+7D7B</td><td>絻</td><td>MOHUKU</td><td>MOFUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7D82</td><td>綂</td><td>HOOBIRU</td><td>HOBIRU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%82">綂 - Kanji - Japanese Dictionary Tangorin</a>:<br>すべて・ほびる</td></tr>
 <tr><td>U+7D86</td><td>綆</td><td>TSURUBINAWA</td><td>TSURUBENAWA</td><td>Related to【釣瓶縄】つるべなわ<br><a href="https://tangorin.com/kanji?search=%E7%B6%86">綆 - Kanji - Japanese Dictionary Tangorin</a>:<br>つるべなわ</td></tr>
@@ -504,6 +507,7 @@ The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_R
 <tr><td>U+824F</td><td>艏</td><td>HUNE</td><td>FUNE</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+82AF</td><td>芯</td><td>HOSOI TOUSHINGU</td><td>HOSOI TOUSHINGUSA</td><td><a href="https://en.wiktionary.org/wiki/%E8%8A%AF">芯 - Wiktionary</a>:<br>Kun: ほそい (hosoi); とうしんぐさ (tōshingusa, 芯)</td></tr>
 <tr><td>U+8300</td><td>茀</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+8306</td><td>茆</td><td>MENAWA KAYA</td><td>NUNAWA KAYA</td><td>Typo: possible confusion between め and ぬ, or メ and ヌ?<br><a href="https://tangorin.com/kanji?search=%E8%8C%86">茆 - Kanji - Japanese Dictionary Tangorin</a>:<br>かや・ぬなわ</td></tr>
 <tr><td>U+833C</td><td>茼</td><td>SHIYUNGIKU</td><td>SHUNGIKU</td><td>From: 春菊 "spring chrysanthemum"<br>• <a href="https://en.wikipedia.org/wiki/Glebionis_coronaria">Glebionis coronaria</a><br>• <a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B3%E3%82%AE%E3%82%AF">シュンギク</a></td></tr>
 <tr><td>U+8353</td><td>荓</td><td>BYOU</td><td></td><td>BYOU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+8382</td><td>莂</td><td>TANEOMAKU UTSUSHIUERU</td><td>TANEWOMAKU UTSUSHIUERU</td><td><a href="https://tangorin.com/kanji?search=%E8%8E%82">莂 - Kanji - Japanese Dictionary Tangorin</a>:<br>たねをまく・うつしうえる</td></tr>
@@ -824,6 +828,7 @@ The attached files <a href="Unihan_Readings_kJapaneseKun-Corrected.txt">Unihan_R
 <tr><td>U+59CE</td><td>姎</td><td>AU</td><td>OU</td><td>Modern Japanese orthography: AU → OU</td></tr>
 <tr><td>U+59D8</td><td>姘</td><td>HIN HAU HEI</td><td>HIN HOU HEI</td><td>Modern Japanese orthography: HAU → HOU</td></tr>
 <tr><td>U+59E3</td><td>姣</td><td>KOU KEU GEU</td><td>KOU KYOU GYOU</td><td>Modern Japanese orthography: KEU → KYOU, GEU → GYOU</td></tr>
+<tr><td>U+5A42</td><td>婂</td><td></td><td>BEN MEN</td><td>BEN MEN: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+5A60</td><td>婠</td><td>WAN WATSU WACHI KAN KUWATSU GUWACHI</td><td>WAN WATSU WACHI KAN KATSU GACHI</td><td>Modern Japanese orthography: KUWATSU → KATSU, GUWACHI → GACHI</td></tr>
 <tr><td>U+5A95</td><td>媕</td><td>EN AN ON AU OU</td><td>EN AN ON OU</td><td>Modern Japanese orthography: AU → OU<br>+ remove duplicates</td></tr>
 <tr><td>U+5AB0</td><td>媰</td><td>SHIU SU SHU JU</td><td>SHUU SU SHU JU</td><td>Modern Japanese orthography: SHIU → SHUU</td></tr>
