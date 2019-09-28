@@ -139,8 +139,13 @@ U+5B13	kJapaneseOn	KYOU
 U+5B23	kJapaneseOn	TOU NYOU DEI
 U+5B26	kJapaneseOn	CHUU JU SHUU
 U+5B2E	kJapaneseOn	EN YOU
+U+5B3C	kJapaneseOn	RYUU RU
+U+5B47	kJapaneseOn	SOU
 U+5B48	kJapaneseOn	SUI I KAI E KI KEI
 U+5B8E	kJapaneseOn	YOU
+U+5BA8	kJapaneseOn	CHOU
+U+5BCA	kJapaneseOn	TEI CHOU
+U+5BE0	kJapaneseOn	KU RU ROU
 U+5C0C	kJapaneseOn	SHU JU CHU JUU
 U+5C1F	kJapaneseOn	SEN SHOU
 U+5C33	kJapaneseOn	KOTSU KUCHI KATSU GECHI

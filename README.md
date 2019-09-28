@@ -196,6 +196,8 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5AE5</td><td>嫥</td><td>MOTSUPARA TOTONOHERU</td><td>MOPPARA TOTONOERU</td><td><a href="https://tangorin.com/kanji?search=%E5%AB%A5">嫥 - Kanji - Japanese Dictionary Tangorin</a>:<br>もっぱら・ととのえる</td></tr>
 <tr><td>U+5AEA</td><td>嫪</td><td>KOHISHITAHU NAYAMU</td><td>KOISHITAU NAYAMU</td><td>こひしたふ → こいしたう (modern Japanese orthography)</td></tr>
 <tr><td>U+5AF4</td><td>嫴</td><td>MAKASERU SHIBARAKU HAKARU SUUBERU</td><td>MAKASERU SHIBARAKU HAKARU SUBERU</td><td>Typo: すうべる → すべる?</td></tr>
+<tr><td>U+5AFD</td><td>嫽</td><td>TAWAMURERU MIMEYOI TAWARERU MIDARERU SATOI</td><td>TAWAMURERU MIMEYOI MIDARERU SATOI</td><td>Remove unlikely reading: TAWARERU?<br><a href="https://tangorin.com/kanji?search=%E5%AB%BD">嫽 - Kanji - Japanese Dictionary Tangorin</a>:<br>たわむれる・みめよい・みだれる・さとい</td></tr>
+<tr><td>U+5B36</td><td>嬶</td><td>KAKA KAKAU</td><td>KAKA KAKAA</td><td><a href="https://tangorin.com/kanji?search=%E5%AC%B6">嬶 - Kanji - Japanese Dictionary Tangorin</a>:<br>かか・かかあ</td></tr>
 <tr><td>U+5B48</td><td>孈</td><td>OROKADESHINAOTSUKURU</td><td>OROKADESHINAWOTSUKURU</td><td>Particle を → WO</td></tr>
 <tr><td>U+5B56</td><td>孖</td><td>HUTAGO</td><td>FUTAGO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5B77</td><td>孷</td><td>HUTAGO</td><td>FUTAGO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
@@ -411,6 +413,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+7D04</td><td>約</td><td>TSUZUMERU TSUZUMAYAKA</td><td>TSUDZUMERU TSUDZUMAYAKA</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%84">約 - Kanji - Japanese Dictionary Tangorin</a>:<br>つづまる・つづめる・つづまやか</td></tr>
 <tr><td>U+7D12</td><td>紒</td><td>YUU MUSUHU</td><td>YUU MUSUBU</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%92">紒 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆう・むすぶ</td></tr>
 <tr><td>U+7D18</td><td>紘</td><td>OOZUNA HIMO</td><td>OODZUNA HIMO</td><td><a href="https://en.wiktionary.org/wiki/%E7%B4%98">紘 - Wiktionary</a>:<br>Kun: おおづな (oozuna), ひも (himo)</td></tr>
+<tr><td>U+7D2D</td><td>紭</td><td>AMINOTSUNA KARARU</td><td>AMINOTSUNA KAKARU</td><td><a href="https://tangorin.com/kanji?search=%E7%B4%AD">紭 - Kanji - Japanese Dictionary Tangorin</a>:<br>あみのつな・かかる</td></tr>
 <tr><td>U+7D51</td><td>絑</td><td>SHIYU</td><td></td><td>しゆ → しゅ (modern Japanese orthography)<br>SHU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+7D7B</td><td>絻</td><td>MOHUKU</td><td>MOFUKU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7D82</td><td>綂</td><td>HOOBIRU</td><td>HOBIRU</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%82">綂 - Kanji - Japanese Dictionary Tangorin</a>:<br>すべて・ほびる</td></tr>
@@ -805,8 +808,13 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5B23</td><td>嬣</td><td>TAU NYAU DEI</td><td>TOU NYOU DEI</td><td>Modern Japanese orthography: TAU → TOU, NYAU → NYOU</td></tr>
 <tr><td>U+5B26</td><td>嬦</td><td>CHIU JIYU SHIU</td><td>CHUU JU SHUU</td><td>Modern Japanese orthography: CHIU → CHUU, JIYU → JU, SHIU → SHUU</td></tr>
 <tr><td>U+5B2E</td><td>嬮</td><td>EN EHU</td><td>EN YOU</td><td>Modern Japanese orthography: EHU → YOU</td></tr>
+<tr><td>U+5B3C</td><td>嬼</td><td>RIWA RU</td><td>RYUU RU</td><td>Irregular reading: RIWA → RIU → RYUU</td></tr>
+<tr><td>U+5B47</td><td>孇</td><td>SAWA</td><td>SOU</td><td>Irregular reading: SAWA → SAU → SOU</td></tr>
 <tr><td>U+5B48</td><td>孈</td><td>SUI I KUWAI E KI KEI</td><td>SUI I KAI E KI KEI</td><td>Modern Japanese orthography: KUWAI → KAI</td></tr>
 <tr><td>U+5B8E</td><td>宎</td><td>EU YOU</td><td>YOU</td><td>Modern Japanese orthography: EU → YOU<br>+ remove duplicates</td></tr>
+<tr><td>U+5BA8</td><td>宨</td><td>TEWA</td><td>CHOU</td><td>Irregular reading: TEWA → TEU → CHOU</td></tr>
+<tr><td>U+5BCA</td><td>寊</td><td>TEI CHAWA</td><td>TEI CHOU</td><td>Irregular reading: CHAWA → CHAU → CHOU</td></tr>
+<tr><td>U+5BE0</td><td>寠</td><td>KU RU ROWA</td><td>KU RU ROU</td><td>Irregular reading: ROWA → ROU</td></tr>
 <tr><td>U+5C0C</td><td>尌</td><td>SHU JU CHU JIU</td><td>SHU JU CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
 <tr><td>U+5C1F</td><td>尟</td><td>SEN SEU</td><td>SEN SHOU</td><td>Modern Japanese orthography: SEU → SHOU</td></tr>
 <tr><td>U+5C33</td><td>尳</td><td>KOTSU KUCHI KUWATSU GECHI</td><td>KOTSU KUCHI KATSU GECHI</td><td>Modern Japanese orthography: KUWATSU → KATSU</td></tr>
