@@ -278,6 +278,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+63A4</td><td>掤</td><td>HUTA</td><td>FUTA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+63BD</td><td>掽</td><td>TSUKU HAEZUMI</td><td>TSUKU HAEDZUMI</td><td><a href="https://en.wiktionary.org/wiki/%E6%8E%BD">掽 - Wiktionary</a>:<br>Derived terms:【掽積み】はえづみ (haezumi)</td></tr>
 <tr><td>U+63E0</td><td>揠</td><td>NUKU HUDA</td><td>NUKU FUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+645D</td><td>摝</td><td>NAGOKASU</td><td>UGOKASU</td><td><a href="https://tangorin.com/kanji?search=%E6%91%9D">摝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うごかす</td></tr>
 <tr><td>U+64D1</td><td>擑</td><td>TSUUGU</td><td>TSUGU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%91">擑 - Kanji - Japanese Dictionary Tangorin</a>:<br>つぐ</td></tr>
 <tr><td>U+64D5</td><td>擕</td><td>TAZUSAAERU TAZUSAAWARU</td><td>TAZUSAERU TAZUSAWARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%93%95">擕 - Wiktionary</a>:<br>Kun: たずさえる (tazusaeru), たずさわる (tazusawaru)</td></tr>
 <tr><td>U+64D7</td><td>擗</td><td>MUNEOUTSU</td><td>MUNEWOUTSU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%97">擗 - Kanji - Japanese Dictionary Tangorin</a>:<br>むねをうつ</td></tr>
@@ -908,6 +909,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+61E4</td><td>懤</td><td>CHYUU JIU TAU TOU</td><td>CHUU JUU TOU</td><td>Invalid romanization: CHYUU → CHUU<br>Modern Japanese orthography: JIU → JUU, TAU → TOU<br>+ remove duplicates</td></tr>
 <tr><td>U+61EC</td><td>懬</td><td>KOU KAU</td><td>KOU</td><td>Modern Japanese orthography: KAU → KOU<br>+ remove duplicates</td></tr>
 <tr><td>U+639A</td><td>掚</td><td>RYOU KAZARU</td><td>RYOU</td><td>KAZARU: kJapaneseKun, not kJapaneseOn</td></tr>
+<tr><td>U+6463</td><td>摣</td><td>SA SHIA GA NA SAI SE</td><td>SA SHA GA NA SAI SE</td><td>Irregular reading: SHIA → SHA</td></tr>
 <tr><td>U+6FF9</td><td>濹</td><td></td><td>BOKU</td><td>BOKU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+7119</td><td>焙</td><td>HOU HAI HOI</td><td>HOU HAI</td><td>Remove irregular reading: HOI</td></tr>
 <tr><td>U+715C</td><td>煜</td><td>IKU IU OU</td><td>IKU YUU OU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
