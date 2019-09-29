@@ -22,11 +22,19 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 ## Proposed Modifications
 
-The attached files **kJapaneseKun-Corrections.tsv** and **kJapaneseOn-Corrections.tsv** list all the suggested changes in tab-separated values (tsv) format.
+The attached files **kJapaneseKun-Corrections.tsv** and **kJapaneseOn-Corrections.tsv** list the suggested changes in tab-separated values (tsv) format.
 
-The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_Readings_kJapaneseOn-Corrected.txt** list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
+The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_Readings_kJapaneseOn-Corrected.txt** list the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
 
-**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) would have to be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
+**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to disambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) would have to be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
+
+## Future Improvements
+
+Many issues are probably caused by the fact that the original data in kana was coming from different sources and had to be transliterated to rōmaji with varying levels of success.
+
+Having Japanese readings been searchable in rōmaji is a good thing for people not familiar with the Japanese language and its writing system, and besides, it doesn't require any specific IME (Input Method Editor). However, from a maintenance point of view, it would be far better to have all readings in kana in the Unihan database, and provide a way to automatically produce a "synchronized" rōmaji version, if need be.
+
+As an experimental feature, the attached files **Unihan_Readings_kJapanese-Experimental.txt** and **Unihan_Readings_kJapaneseOnKun-Experimental.txt** represent the on-yomi and kun-yomi corrected fields concatenated under a common Unihan tag, in kana and rōmaji respectively. They are following the usual conventions of using katakana or rōmaji capital letters for on-yomi, then hiragana or rōmaji small letters for kun-yomi.
 
 ## kJapaneseKun
 
