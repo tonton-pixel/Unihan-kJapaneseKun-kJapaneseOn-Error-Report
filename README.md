@@ -268,6 +268,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+61E4</td><td>懤</td><td>HOGARAKA UREHERU</td><td>HOGARAKA UREERU</td><td>うれへる → うれえる (modern Japanese orthography)</td></tr>
 <tr><td>U+61EC</td><td>懬</td><td>HIROI OOKII MUNASHI TSUYOI</td><td>HIROI OOKII MUNASHII TSUYOI</td><td><a href="https://en.wiktionary.org/wiki/%E6%87%AC">懬 - Wiktionary</a>:<br>Kun: ひろい (hiroi, 懬い); おおきい (ōkii, 懬きい); むなしい (munashii, 懬しい); つよい (tsuyoi, 懬い)</td></tr>
 <tr><td>U+623B</td><td>戻</td><td>MODOSU MOTORU ITARU</td><td>MODOSU MODORU ITARU</td><td><a href="https://tangorin.com/kanji?search=%E6%88%BB">戻 - Kanji - Japanese Dictionary Tangorin</a>:<br>もどす・もどる</td></tr>
+<tr><td>U+6253</td><td>打</td><td>UTSU DAUSU UCHI</td><td>UTSU DAASU UCHI</td><td>DAASU: usually in katakana: <a href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B9">ダース</a></td></tr>
 <tr><td>U+6254</td><td>扔</td><td>YORU HURERU SUTERU</td><td>YORU FURERU SUTERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+628D</td><td>抍</td><td>AGERU NUKU ZUKUU TORU</td><td>AGERU NUKU SUKUU TORU</td><td><a href="https://tangorin.com/kanji?search=%E6%8A%8D">抍 - Kanji - Japanese Dictionary Tangorin</a>:<br>あげる・ぬく・すくう・とる</td></tr>
 <tr><td>U+62DA</td><td>拚</td><td>TEOUTSU</td><td>TEWOUTSU</td><td><a href="https://tangorin.com/kanji?search=%E6%8B%9A">拚 - Kanji - Japanese Dictionary Tangorin</a>:<br>てをうつ</td></tr>
@@ -299,6 +300,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+678B</td><td>枋</td><td>MAYUMI FUSHIZUKE IKADA</td><td>MAYUMI FUSHIDZUKE IKADA</td><td>Consistent with etymology?:<br>ふしずけ → ふしづけ</td></tr>
 <tr><td>U+6793</td><td>枓</td><td>HISHIYAKU</td><td>HISHAKU</td><td><a href="https://tangorin.com/kanji?search=%E6%9E%93">枓 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひしゃく</td></tr>
 <tr><td>U+6799</td><td>枙</td><td>HUSHI</td><td>FUSHI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+679B</td><td>枛</td><td>KINOTOGI</td><td>KINOTOGE</td><td>Related to【木の棘】きのとげ<br><a href="https://tangorin.com/kanji?search=%E6%9E%9B">枛 - Kanji - Japanese Dictionary Tangorin</a>:<br>きのとげ</td></tr>
 <tr><td>U+682B</td><td>栫</td><td>FUSHIZUKE KAKOMI MAGAKI</td><td>FUSHIDZUKE KAKOMI MAGAKI</td><td>Consistent with etymology?:<br>ふしずけ → ふしづけ</td></tr>
 <tr><td>U+682C</td><td>栬</td><td>CHISANAKUI</td><td>CHIISANAKUI</td><td><a href="https://tangorin.com/kanji?search=%E6%A0%AC">栬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちいさなくい</td></tr>
 <tr><td>U+685B</td><td>桛</td><td>KASEI</td><td>KASE</td><td><a href="https://tangorin.com/kanji?search=%E6%A1%9B">桛 - Kanji - Japanese Dictionary Tangorin</a>:<br>かせ</td></tr>
@@ -669,7 +671,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+97CA</td><td>韊</td><td>YAZUTSU EBIRA</td><td>YADZUTSU EBIRA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%8A">韊 - Kanji - Japanese Dictionary Tangorin</a>:<br>やづつ・えびら</td></tr>
 <tr><td>U+97DB</td><td>韛</td><td>FUIGAU EBIRA</td><td>FUIGO EBIRA</td><td><a href="https://tangorin.com/kanji?search=%E9%9F%9B">韛 - Kanji - Japanese Dictionary Tangorin</a>:<br>ふいご・えびら</td></tr>
 <tr><td>U+99F2</td><td>駲</td><td>SHUU</td><td></td><td>SHUU: kJapaneseOn, not kJapaneseKun</td></tr>
-<tr><td>U+9AD3</td><td>髓</td><td>ZUI</td><td></td><td>Variant of U+9AC4 髄<br>ZUI: kJapaneseOn, not kJapaneseKun</td></tr>
+<tr><td>U+9AD3</td><td>髓</td><td>ZUI</td><td></td><td>ZUI: kJapaneseOn, not kJapaneseKun<br>Variant of U+9AC4 髄</td></tr>
 <tr><td>U+9B6B</td><td>魫</td><td>SAKANONOKO</td><td>SAKANANOKO</td><td><a href="https://tangorin.com/kanji?search=%E9%AD%AB">魫 - Kanji - Japanese Dictionary Tangorin</a>:<br>さかなのこ</td></tr>
 <tr><td>U+9B74</td><td>魴</td><td>OSHIKIUO KAGAMIDA</td><td>OSHIKIUO KAGAMIDAI</td><td><a href="https://en.wiktionary.org/wiki/%E9%AD%B4">魴 - Wiktionary</a>:<br>Kun: おしきうお (oshikiuo), かがみだい (kagamidai)</td></tr>
 <tr><td>U+9B78</td><td>魸</td><td></td><td>NAMAZU</td><td>NAMAZU: kJapaneseKun, not kJapaneseOn<br><a href="https://en.wiktionary.org/wiki/%E9%AD%B8">魸 - Wiktionary</a>:<br>Kun: なまず (namazu)</td></tr>
