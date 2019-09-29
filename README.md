@@ -1,7 +1,7 @@
 # Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
-- **Date: 2019-09-27**
+- **Date: 2019-09-29**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the **Unihan_Readings.txt** data file.
