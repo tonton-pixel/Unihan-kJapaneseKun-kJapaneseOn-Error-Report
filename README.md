@@ -109,7 +109,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+53AF</td><td>厯</td><td>KOROMI</td><td>KOYOMI</td><td>Consistent with U+66A6 暦 KOYOMI<br><a href="https://tangorin.com/kanji?search=%E5%8E%AF">厯 - Kanji - Japanese Dictionary Tangorin</a>:<br>こよみ</td></tr>
 <tr><td>U+53D5</td><td>叕</td><td>TSUZURU SUMIYAKA</td><td>TSUDZURU SUMIYAKA</td><td><a href="https://tangorin.com/kanji?search=%E5%8F%95">叕 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・すみやか</td></tr>
 <tr><td>U+540D</td><td>名</td><td>NA NANORU NAZUKERU</td><td>NA NANORU NADZUKERU</td><td><a href="https://en.wiktionary.org/wiki/%E5%90%8D">名 - Wiktionary</a>:<br>Kun: な (na, 名, Jōyō); なのる (nanoru, 名); なづける (nazukeru, 名ける)</td></tr>
-<tr><td>U+544F</td><td>呏</td><td>GARON KUOTO</td><td>GARON KUOOTO</td><td>Usually in katakana: クオート (or クォート)</a><br><a href="https://tangorin.com/kanji?search=%E5%91%8F">呏 - Kanji - Japanese Dictionary Tangorin</a>:<br>くおおと</td></tr>
+<tr><td>U+544F</td><td>呏</td><td>GARON KUOTO</td><td>GARON KUOOTO</td><td>Usually in katakana: クオート (or クォート)<br><a href="https://tangorin.com/kanji?search=%E5%91%8F">呏 - Kanji - Japanese Dictionary Tangorin</a>:<br>くおおと</td></tr>
 <tr><td>U+5481</td><td>咁</td><td>HUKUMU</td><td>FUKUMU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+5485</td><td>咅</td><td>TSUBAOHAITEINAMU</td><td>TSUBAWOHAITEINAMU</td><td><a href="https://tangorin.com/kanji?search=%E5%92%85">咅 - Kanji - Japanese Dictionary Tangorin</a>:<br>つばをはいていなむ</td></tr>
 <tr><td>U+548D</td><td>咍</td><td>WARAHU YOROKOBU</td><td>WARAU YOROKOBU</td><td>わらふ → わらう (modern Japanese orthography)</td></tr>
