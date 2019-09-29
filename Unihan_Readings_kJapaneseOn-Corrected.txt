@@ -214,6 +214,8 @@ U+61E4	kJapaneseOn	CHUU JUU TOU
 U+61EC	kJapaneseOn	KOU
 U+639A	kJapaneseOn	RYOU
 U+6463	kJapaneseOn	SA SHA GA NA SAI SE
+U+650A	kJapaneseOn	REKI RYAKU
+U+665C	kJapaneseOn	KON
 U+6FF9	kJapaneseOn	BOKU
 U+7119	kJapaneseOn	HOU HAI
 U+715C	kJapaneseOn	IKU YUU OU

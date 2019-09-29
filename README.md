@@ -288,6 +288,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+657A</td><td>敺</td><td>KAAKERU KAARU</td><td>KAKERU KARU</td><td><a href="https://tangorin.com/kanji?search=%E6%95%BA">敺 - Kanji - Japanese Dictionary Tangorin</a>:<br>かける・かる</td></tr>
 <tr><td>U+65C9</td><td>旉</td><td>HU</td><td></td><td>Variant of U+6577 敷<br>HU → FU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+6635</td><td>昵</td><td>CHIKAZUKU</td><td>CHIKADZUKU</td><td><a href="https://tangorin.com/kanji?search=%E6%98%B5">昵 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちかづく</td></tr>
+<tr><td>U+665C</td><td>晜</td><td></td><td>ANI</td><td>ANI: kJapaneseKun, not kJapaneseOn<br><a href="https://tangorin.com/kanji?search=%E6%99%9C">晜 - Kanji - Japanese Dictionary Tangorin</a>:<br>コン・あに</td></tr>
 <tr><td>U+6680</td><td>暀</td><td>KAGAYAKIUTSUKUSHII</td><td>KAGAYAKI UTSUKUSHII</td><td><a href="https://tangorin.com/kanji?search=%E6%9A%80">暀 - Kanji - Japanese Dictionary Tangorin</a>:<br>かがやき・うつくしい・さかん</td></tr>
 <tr><td>U+668F</td><td>暏</td><td>ATSUI ATSUA</td><td>ATSUI ATSUSA</td><td>Consistent with:<br>• U+6691 暑 ATSUSA</td></tr>
 <tr><td>U+66B1</td><td>暱</td><td>CHIKAZUKU CHIKAZUKI</td><td>CHIKADZUKU CHIKADZUKI</td><td><a href="https://tangorin.com/kanji?search=%E6%9A%B1">暱 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちかづく</td></tr>
@@ -447,9 +448,12 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+7D9C</td><td>綜</td><td>SUBERU OSA</td><td>SUBERU OSAMERU</td><td><a href="https://en.wiktionary.org/wiki/%E7%B6%9C">綜 - Wiktionary</a>:<br>Kun: おさめる (osameru, 綜める); すべる (suberu, 綜べる)</td></tr>
 <tr><td>U+7DB4</td><td>綴</td><td>TSUZURU TOJIRU TSUZURI</td><td>TSUDZURU TOJIRU TSUDZURI</td><td><a href="https://tangorin.com/kanji?search=%E7%B6%B4">綴 - Kanji - Japanese Dictionary Tangorin</a>:<br>とじる・つづる・つづり・すみやか</td></tr>
 <tr><td>U+7DCA</td><td>緊</td><td>CHIJIMU KIBISHII</td><td>CHIDJIMU KIBISHII</td><td><a href="https://en.wiktionary.org/wiki/%E7%B7%8A">緊 - Wiktionary</a>:<br>Kun: ちぢむ (chijimu, 緊む); きびしい (kibishii, 緊しい)</td></tr>
+<tr><td>U+7DCE</td><td>緎</td><td>NUIKAGIRI</td><td>NUIKAGARI</td><td><a href="https://tangorin.com/kanji?search=%E7%B7%8E">緎 - Kanji - Japanese Dictionary Tangorin</a>:<br>ぬいかがり</td></tr>
+<tr><td>U+7DEB</td><td>緫</td><td>SUBITE</td><td>SUBETE</td><td><a href="https://tangorin.com/kanji?search=%E7%B7%AB">緫 - Kanji - Japanese Dictionary Tangorin</a>:<br>すべる・すべて・ふさ</td></tr>
 <tr><td>U+7DFC</td><td>緼</td><td>HURUI</td><td>FURUI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7E10</td><td>縐</td><td>CHIJIMI</td><td>CHIDJIMI</td><td><a href="https://tangorin.com/kanji?search=%E7%B8%90">縐 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちぢみ</td></tr>
 <tr><td>U+7E15</td><td>縕</td><td>HURUI</td><td>FURUI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
+<tr><td>U+7E20</td><td>縠</td><td>MOJIRI CHIRINUN</td><td>MOJIRI CHIRIMEN</td><td>Typo: possible confusion between め and ぬ, or メ and ヌ?<br><a href="https://tangorin.com/kanji?search=%E7%B8%A0">縠 - Kanji - Japanese Dictionary Tangorin</a>:<br>もじり・ちりめん</td></tr>
 <tr><td>U+7E2C</td><td>縬</td><td>CHIJIMU CHIJIMIAYA KINUNOAYA</td><td>CHIDJIMU CHIDJIMIAYA KINUNOAYA</td><td><a href="https://tangorin.com/kanji?search=%E7%B8%AC">縬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちぢむ・ちぢみあや・きぬのあや</td></tr>
 <tr><td>U+7E2E</td><td>縮</td><td>CHIJIMU CHIJIMARU NAOI</td><td>CHIDJIMU CHIDJIMARU NAOI</td><td><a href="https://tangorin.com/kanji?search=%E7%B8%AE">縮 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちぢむ・ちぢまる・ちぢめる・ちぢれる・ちぢらす</td></tr>
 <tr><td>U+7E44</td><td>繄</td><td>HOKOBAKURO</td><td>HOKOBUKURO</td><td><a href="https://tangorin.com/kanji?search=%E7%B9%84">繄 - Kanji - Japanese Dictionary Tangorin</a>:<br>ほこぶくろ</td></tr>
@@ -655,7 +659,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+9638</td><td>阸</td><td>FUSAGARU KAGIRU SAMATOGERU SEMARU AYAFUI KURUSHIMI NAYAMI KEHASHII HEDATEFUSAGU SEEMAI</td><td>FUSAGARU KAGIRU SAMATOGERU SEMARU AYAUI KURUSHIMI NAYAMI KEWASHII HEDATEFUSAGU SEMAI</td><td><a href="https://en.wiktionary.org/wiki/%E9%98%B8">阸 - Wiktionary</a>:<br>Kun: ふさがる (fusagaru, 阸がる); かぎる (kagiru, 阸る); せまる (semaru, 阸る); あやうい (ayaui, 阸い)←あやふい (ayafui, historical); くるしみ (kurushimi, 阸しみ); なやみ (nayami, 阸み); けわしい (kewashii, 阸しい)←けはしい (kefasii, historical); せまい (semai, 阸い)</td></tr>
 <tr><td>U+9652</td><td>陒</td><td>YABURETAKAKI YABURERU KEHASHII</td><td>YABURETAKAKI YABURERU KEWASHII</td><td><a href="https://en.wiktionary.org/wiki/%E9%99%92">陒 - Wiktionary</a>:<br>Kun: やぶれたかき (yaburetakaki), やぶれる (yabureru), けわしい (kewashii)</td></tr>
 <tr><td>U+9657</td><td>陗</td><td>KEHASHIKUTAKAI MATSUSUGUDETAKAI KEHASHII TAKAI KIBISHII SEEMARU KAKURERU SETSUKACHI KEHASHIISAKA</td><td>KEWASHIKUTAKAI MASSUGUDETAKAI KEWASHII TAKAI KIBISHII SEMARU KAKURERU SEKKACHI KEWASHIISAKA</td><td><a href="https://en.wiktionary.org/wiki/%E9%99%97">陗 - Wiktionary</a>:<br>Kun: けわしくたかい (kewashikutakai), まっすぐでたかい (massugudetakai), けわしい (kewashii), たかい (takai), きびしい (kibishii), せまる (semaru), かくれる (kakureru), せっかち (sekkachi), けわしいさか (kewashiisaka)</td></tr>
-<tr><td>U+9662</td><td>院</td><td>IN</td><td></td><td>IN: kJapaneseOn, not kJapaneseKun<a href="https://tangorin.com/kanji?search=%E9%99%A2">院 - Kanji - Japanese Dictionary Tangorin</a>:<br>イン</td></tr>
+<tr><td>U+9662</td><td>院</td><td>IN</td><td></td><td>IN: kJapaneseOn, not kJapaneseKun<br><a href="https://tangorin.com/kanji?search=%E9%99%A2">院 - Kanji - Japanese Dictionary Tangorin</a>:<br>イン</td></tr>
 <tr><td>U+966E</td><td>陮</td><td>TAKAI AYAFUI</td><td>TAKAI AYAUI</td><td>あやふい → あやうい (modern Japanese orthography)</td></tr>
 <tr><td>U+967B</td><td>陻</td><td>HUSAGU</td><td>FUSAGU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+9682</td><td>隂</td><td>KAGE KAGEERU</td><td>KAGE KAGERU</td><td><a href="https://tangorin.com/kanji?search=%E9%9A%82">隂 - Kanji - Japanese Dictionary Tangorin</a>:<br>かげ・かげる</td></tr>
@@ -913,6 +917,8 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+61EC</td><td>懬</td><td>KOU KAU</td><td>KOU</td><td>Modern Japanese orthography: KAU → KOU<br>+ remove duplicates</td></tr>
 <tr><td>U+639A</td><td>掚</td><td>RYOU KAZARU</td><td>RYOU</td><td>KAZARU: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+6463</td><td>摣</td><td>SA SHIA GA NA SAI SE</td><td>SA SHA GA NA SAI SE</td><td>Irregular reading: SHIA → SHA</td></tr>
+<tr><td>U+650A</td><td>攊</td><td>FUKI RYAKU</td><td>REKI RYAKU</td><td>Irregular reading: FUKI → REKI<br>Consistent with:<br>• U+58E2 壢 REKI RYAKU<br>• U+85F6 藶 REKI RYAKU<br>• ...</td></tr>
+<tr><td>U+665C</td><td>晜</td><td>KON ANI</td><td>KON</td><td>ANI: kJapaneseKun, not kJapaneseOn<br><a href="https://tangorin.com/kanji?search=%E6%99%9C">晜 - Kanji - Japanese Dictionary Tangorin</a>:<br>コン・あに</td></tr>
 <tr><td>U+6FF9</td><td>濹</td><td></td><td>BOKU</td><td>BOKU: kJapaneseOn, not kJapaneseKun</td></tr>
 <tr><td>U+7119</td><td>焙</td><td>HOU HAI HOI</td><td>HOU HAI</td><td>Remove irregular reading: HOI</td></tr>
 <tr><td>U+715C</td><td>煜</td><td>IKU IU OU</td><td>IKU YUU OU</td><td>Modern Japanese orthography: IU → YUU</td></tr>
