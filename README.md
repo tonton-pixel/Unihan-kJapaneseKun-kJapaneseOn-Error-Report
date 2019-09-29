@@ -279,9 +279,11 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+63BD</td><td>掽</td><td>TSUKU HAEZUMI</td><td>TSUKU HAEDZUMI</td><td><a href="https://en.wiktionary.org/wiki/%E6%8E%BD">掽 - Wiktionary</a>:<br>Derived terms:【掽積み】はえづみ (haezumi)</td></tr>
 <tr><td>U+63E0</td><td>揠</td><td>NUKU HUDA</td><td>NUKU FUDA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+645D</td><td>摝</td><td>NAGOKASU</td><td>UGOKASU</td><td><a href="https://tangorin.com/kanji?search=%E6%91%9D">摝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うごかす</td></tr>
+<tr><td>U+64C4</td><td>擄</td><td>TORIKU</td><td>TORIKO</td><td>Consistent with U+865C 虜 TORIKO</td></tr>
 <tr><td>U+64D1</td><td>擑</td><td>TSUUGU</td><td>TSUGU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%91">擑 - Kanji - Japanese Dictionary Tangorin</a>:<br>つぐ</td></tr>
 <tr><td>U+64D5</td><td>擕</td><td>TAZUSAAERU TAZUSAAWARU</td><td>TAZUSAERU TAZUSAWARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%93%95">擕 - Wiktionary</a>:<br>Kun: たずさえる (tazusaeru), たずさわる (tazusawaru)</td></tr>
 <tr><td>U+64D7</td><td>擗</td><td>MUNEOUTSU</td><td>MUNEWOUTSU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%97">擗 - Kanji - Japanese Dictionary Tangorin</a>:<br>むねをうつ</td></tr>
+<tr><td>U+64E4</td><td>擤</td><td>HANAOKAMU</td><td>HANAWOKAMU KAMU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%A4">擤 - Kanji - Japanese Dictionary Tangorin</a>:<br>かむ<br>Related to【鼻を擤む】はなをかむ</td></tr>
 <tr><td>U+64ED</td><td>擭</td><td>AAGERU AAGARU</td><td>AGERU AGARU</td><td><a href="https://tangorin.com/kanji?search=%E6%93%AD">擭 - Kanji - Japanese Dictionary Tangorin</a>:<br>あげる・あがる</td></tr>
 <tr><td>U+657A</td><td>敺</td><td>KAAKERU KAARU</td><td>KAKERU KARU</td><td><a href="https://tangorin.com/kanji?search=%E6%95%BA">敺 - Kanji - Japanese Dictionary Tangorin</a>:<br>かける・かる</td></tr>
 <tr><td>U+65C9</td><td>旉</td><td>HU</td><td></td><td>Variant of U+6577 敷<br>HU → FU: kJapaneseOn, not kJapaneseKun</td></tr>
@@ -450,6 +452,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+7E15</td><td>縕</td><td>HURUI</td><td>FURUI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+7E2C</td><td>縬</td><td>CHIJIMU CHIJIMIAYA KINUNOAYA</td><td>CHIDJIMU CHIDJIMIAYA KINUNOAYA</td><td><a href="https://tangorin.com/kanji?search=%E7%B8%AC">縬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちぢむ・ちぢみあや・きぬのあや</td></tr>
 <tr><td>U+7E2E</td><td>縮</td><td>CHIJIMU CHIJIMARU NAOI</td><td>CHIDJIMU CHIDJIMARU NAOI</td><td><a href="https://tangorin.com/kanji?search=%E7%B8%AE">縮 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちぢむ・ちぢまる・ちぢめる・ちぢれる・ちぢらす</td></tr>
+<tr><td>U+7E44</td><td>繄</td><td>HOKOBAKURO</td><td>HOKOBUKURO</td><td><a href="https://tangorin.com/kanji?search=%E7%B9%84">繄 - Kanji - Japanese Dictionary Tangorin</a>:<br>ほこぶくろ</td></tr>
 <tr><td>U+7E65</td><td>繥</td><td>WARAFU TANOSHIMU</td><td>WARAU TANOSHIMU</td><td>わらふ → わらう (modern Japanese orthography)</td></tr>
 <tr><td>U+7E6E</td><td>繮</td><td>TAZUNA</td><td>TADZUNA</td><td><a href="https://tangorin.com/kanji?search=%E7%B9%AE">繮 - Kanji - Japanese Dictionary Tangorin</a>:<br>たづな</td></tr>
 <tr><td>U+7E87</td><td>纇</td><td>HUSHIITO</td><td>FUSHIITO</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
