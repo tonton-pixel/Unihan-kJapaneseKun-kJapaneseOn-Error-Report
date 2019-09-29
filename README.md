@@ -22,9 +22,9 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 
 ## Proposed Modifications
 
-The attached files [kJapaneseKun-Corrections.tsv](kJapaneseKun-Corrections.tsv) and [kJapaneseOn-Corrections.tsv](kJapaneseOn-Corrections.tsv) list all the suggested changes in tab-separated values (tsv) format.
+The attached files **kJapaneseKun-Corrections.tsv** and **kJapaneseOn-Corrections.tsv** list all the suggested changes in tab-separated values (tsv) format.
 
-The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_kJapaneseKun-Corrected.txt) and [Unihan_Readings_kJapaneseOn-Corrected.txt](Unihan_Readings_kJapaneseOn-Corrected.txt) list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
+The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_Readings_kJapaneseOn-Corrected.txt** list all the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
 
 **Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to desambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) would have to be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
 
@@ -252,6 +252,7 @@ The attached files [Unihan_Readings_kJapaneseKun-Corrected.txt](Unihan_Readings_
 <tr><td>U+5F29</td><td>弩</td><td>ISHUMI</td><td>ISHIYUMI</td><td>Related to【石弓・弩】いしゆみ<br><a href="https://en.wiktionary.org/wiki/%E5%BC%A9">弩 - Wiktionary</a>:<br>Kun: いしゆみ (ishiyumi, 弩); おおゆみ (ōyumi, 弩)←おほゆみ (ofoyumi, historical)</td></tr>
 <tr><td>U+5F36</td><td>弶</td><td>AMIOHARU WANAOKAKERU</td><td>AMIWOHARU WANAWOKAKERU</td><td><a href="https://en.wiktionary.org/wiki/%E5%BC%B6">弶 - Wiktionary</a>:<br>Kun: あみをはる (amioharu), わなをかける (wanaokakeru)</td></tr>
 <tr><td>U+5F43</td><td>彃</td><td>IRU YUMIZURU</td><td>IRU YUMIDZURU</td><td>Related to【弓弦】ゆみづる?</td></tr>
+<tr><td>U+5F47</td><td>彇</td><td>YUWAZU</td><td>YUHAZU</td><td><a href="https://tangorin.com/kanji?search=%E5%BD%87">彇 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆはず<br>Related to【弓筈・弓弭・弓彇】ゆはず</td></tr>
 <tr><td>U+5F4B</td><td>彋</td><td>TOBARINOHIRUGAHERUKOE</td><td>TOBARINOHIRUGAERUKOE</td><td>とばりのひるがへるこえ → とばりのひるがえるこえ (modern Japanese orthography)</td></tr>
 <tr><td>U+5F7D</td><td>彽</td><td>TACHIMOTOHORU</td><td>TACHIMOTOORU</td><td>たちもとほる → たちもとおる<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5FC4</td><td>忄</td><td>RITSUSHINBEN</td><td>RISSHINBEN</td><td>【立心偏】りっしんべん</td></tr>
