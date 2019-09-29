@@ -15,7 +15,7 @@ This error report intends to correct issues found in the `kJapaneseKun` and `kJa
 - Fix typos, omissions and duplicates; split accidentally joined readings; join accidentally split readings.
 - Apply proper romanization to readings using modern (instead of ancient/historical) Japanese orthography.
 - Conversely, restore correct romanization of pronunciations misidentified with historical orthography.
-- Use recent spellings for names of chemical elements.
+- Use recent spellings for names of chemical elements and units of measurement.
 - Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.
 - Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU.
 - Detect and correct misclassified readings, i.e., when a `kJapaneseKun` reading should be `kJapaneseOn` instead, or vice versa.
@@ -261,10 +261,12 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+6056</td><td>恖</td><td>OMOOU OMOERAKU OBOSU</td><td>OMOU OMOERAKU OBOSU</td><td>Consistent with:<br>• U+601D 思 OMOU</td></tr>
 <tr><td>U+6059</td><td>恙</td><td>TSUTSUGA</td><td>TSUTSUGANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%81%99">恙 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつがない</td></tr>
 <tr><td>U+60AA</td><td>悪</td><td>WARUI NIKUMU IZUKUNSO</td><td>WARUI NIKUMU IZUKUNZO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%AA">悪 - Wiktionary</a>:<br>Kun: わるい (warui, 悪い, Jōyō); にくむ (nikumu, 悪む); いずくんぞ (izukunzo, 悪んぞ)</td></tr>
+<tr><td>U+60BE</td><td>悾</td><td>MOKOTO</td><td>MAKOTO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%BE">悾 - Wiktionary</a>:<br>Kun: まこと (makoto, 悾)</td></tr>
 <tr><td>U+60DD</td><td>惝</td><td>UTSUTORISURU</td><td>UTTORISURU</td><td><a href="https://tangorin.com/kanji?search=%E6%83%9D">惝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うっとりする</td></tr>
 <tr><td>U+618B</td><td>憋</td><td>SETSUKACHI</td><td>SEKKACHI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%8B">憋 - Kanji - Japanese Dictionary Tangorin</a>:<br>せっかち</td></tr>
 <tr><td>U+619C</td><td>憜</td><td>TSUTSUMANAI</td><td>TSUTSUSHIMANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%9C">憜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつしまない</td></tr>
 <tr><td>U+61E4</td><td>懤</td><td>HOGARAKA UREHERU</td><td>HOGARAKA UREERU</td><td>うれへる → うれえる (modern Japanese orthography)</td></tr>
+<tr><td>U+61EC</td><td>懬</td><td>HIROI OOKII MUNASHI TSUYOI</td><td>HIROI OOKII MUNASHII TSUYOI</td><td><a href="https://en.wiktionary.org/wiki/%E6%87%AC">懬 - Wiktionary</a>:<br>Kun: ひろい (hiroi, 懬い); おおきい (ōkii, 懬きい); むなしい (munashii, 懬しい); つよい (tsuyoi, 懬い)</td></tr>
 <tr><td>U+623B</td><td>戻</td><td>MODOSU MOTORU ITARU</td><td>MODOSU MODORU ITARU</td><td><a href="https://tangorin.com/kanji?search=%E6%88%BB">戻 - Kanji - Japanese Dictionary Tangorin</a>:<br>もどす・もどる</td></tr>
 <tr><td>U+6254</td><td>扔</td><td>YORU HURERU SUTERU</td><td>YORU FURERU SUTERU</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+628D</td><td>抍</td><td>AGERU NUKU ZUKUU TORU</td><td>AGERU NUKU SUKUU TORU</td><td><a href="https://tangorin.com/kanji?search=%E6%8A%8D">抍 - Kanji - Japanese Dictionary Tangorin</a>:<br>あげる・ぬく・すくう・とる</td></tr>
@@ -298,6 +300,8 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+6793</td><td>枓</td><td>HISHIYAKU</td><td>HISHAKU</td><td><a href="https://tangorin.com/kanji?search=%E6%9E%93">枓 - Kanji - Japanese Dictionary Tangorin</a>:<br>ひしゃく</td></tr>
 <tr><td>U+6799</td><td>枙</td><td>HUSHI</td><td>FUSHI</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+682B</td><td>栫</td><td>FUSHIZUKE KAKOMI MAGAKI</td><td>FUSHIDZUKE KAKOMI MAGAKI</td><td>Consistent with etymology?:<br>ふしずけ → ふしづけ</td></tr>
+<tr><td>U+682C</td><td>栬</td><td>CHISANAKUI</td><td>CHIISANAKUI</td><td><a href="https://tangorin.com/kanji?search=%E6%A0%AC">栬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちいさなくい</td></tr>
+<tr><td>U+685B</td><td>桛</td><td>KASEI</td><td>KASE</td><td><a href="https://tangorin.com/kanji?search=%E6%A1%9B">桛 - Kanji - Japanese Dictionary Tangorin</a>:<br>かせ</td></tr>
 <tr><td>U+687F</td><td>桿</td><td>TEKO POURU</td><td>TEKO POORU</td><td>Usually in katakana: ポール</td></tr>
 <tr><td>U+6888</td><td>梈</td><td>KIDETSUKUTSUTAOOYUMI</td><td>KIDETSUKUTTAOOYUMI</td><td>【木で作った大弓】きでつくったおおゆみ</td></tr>
 <tr><td>U+68D3</td><td>棓</td><td>TSUE HUMIITA</td><td>TSUE FUMIITA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
