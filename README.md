@@ -308,7 +308,7 @@ The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_R
 <tr><td>U+682B</td><td>栫</td><td>FUSHIZUKE KAKOMI MAGAKI</td><td>FUSHIDZUKE KAKOMI MAGAKI</td><td>Consistent with etymology?:<br>ふしずけ → ふしづけ</td></tr>
 <tr><td>U+682C</td><td>栬</td><td>CHISANAKUI</td><td>CHIISANAKUI</td><td><a href="https://tangorin.com/kanji?search=%E6%A0%AC">栬 - Kanji - Japanese Dictionary Tangorin</a>:<br>ちいさなくい</td></tr>
 <tr><td>U+685B</td><td>桛</td><td>KASEI</td><td>KASE</td><td><a href="https://tangorin.com/kanji?search=%E6%A1%9B">桛 - Kanji - Japanese Dictionary Tangorin</a>:<br>かせ</td></tr>
-<tr><td>U+687F</td><td>桿</td><td>TEKO POURU</td><td>TEKO POORU</td><td>Usually in katakana: ポール</td></tr>
+<tr><td>U+687F</td><td>桿</td><td>TEKO POURU</td><td>TEKO POORU</td><td>POORU: usually in katakana: ポール</td></tr>
 <tr><td>U+6888</td><td>梈</td><td>KIDETSUKUTSUTAOOYUMI</td><td>KIDETSUKUTTAOOYUMI</td><td>【木で作った大弓】きでつくったおおゆみ</td></tr>
 <tr><td>U+68D3</td><td>棓</td><td>TSUE HUMIITA</td><td>TSUE FUMIITA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+68D9</td><td>棙</td><td>KARAKURI NEJIRU NEJIKI</td><td>KARAKURI NEJIRU NEJIKIRU</td><td><a href="https://tangorin.com/kanji?search=%E6%A3%99">棙 - Kanji - Japanese Dictionary Tangorin</a>:<br>からくり・ねじる・ねじきる</td></tr>
