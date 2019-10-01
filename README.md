@@ -1,4 +1,4 @@
-# Unihan kJapaneseKun & kJapaneseOn Error Report \[Draft\]
+# Unihan kJapaneseKun & kJapaneseOn Error Report
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report**
 - **Date: 2019-09-29**
