@@ -53,7 +53,7 @@ function createTagFile (unihanTag, isKana)
 {
     let start = new Date ();
     //
-    let convert = isKana ? romajiToKana : (dummy) => dummy;
+    let convert = isKana ? romajiToKana : romaji => romaji;
     // Create from the single data structure a tab-separated file with new tag and converted values
     const outFile = `Unihan_Readings_${unihanTag}-Experimental.txt`;
     let lines = [ ];
