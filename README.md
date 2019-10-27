@@ -279,7 +279,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+60AA</td><td>悪</td><td>WARUI NIKUMU IZUKUNSO</td><td>WARUI NIKUMU IZUKUNZO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%AA">悪 - Wiktionary</a>:<br>Kun: わるい (warui, 悪い, Jōyō); にくむ (nikumu, 悪む); いずくんぞ (izukunzo, 悪んぞ)</td></tr>
 <tr><td>U+60BE</td><td>悾</td><td>MOKOTO</td><td>MAKOTO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%BE">悾 - Wiktionary</a>:<br>Kun: まこと (makoto, 悾)</td></tr>
 <tr><td>U+60DD</td><td>惝</td><td>UTSUTORISURU</td><td>UTTORISURU</td><td><a href="https://tangorin.com/kanji?search=%E6%83%9D">惝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うっとりする</td></tr>
-<tr class="revised"><td>U+616E</td><td>慮</td><td>OMONPAKA</td><td>OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%85%AE">慮 - Wiktionary</a>:<br>Kun: おもんぱかる (omonpakaru, 慮る)</td></tr>
+<tr class="changed"><td>U+616E</td><td>慮</td><td>OMONPAKA</td><td>OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%85%AE">慮 - Wiktionary</a>:<br>Kun: おもんぱかる (omonpakaru, 慮る)</td></tr>
 <tr><td>U+618B</td><td>憋</td><td>SETSUKACHI</td><td>SEKKACHI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%8B">憋 - Kanji - Japanese Dictionary Tangorin</a>:<br>せっかち</td></tr>
 <tr><td>U+619C</td><td>憜</td><td>TSUTSUMANAI</td><td>TSUTSUSHIMANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%9C">憜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつしまない</td></tr>
 <tr><td>U+61E4</td><td>懤</td><td>HOGARAKA UREHERU</td><td>HOGARAKA UREERU</td><td>うれへる → うれえる (modern Japanese orthography)</td></tr>
@@ -540,7 +540,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+8618</td><td>蘘</td><td>MIYOUGA</td><td>MYOUGA</td><td><a href="https://en.wiktionary.org/wiki/%E8%98%98">蘘 - Wiktionary</a>:<br>Kun: みょうが (myōga)</td></tr>
 <tr><td>U+8622</td><td>蘢</td><td>OUKETADE</td><td>OOKETADE</td><td>Related to【大毛蓼・〈葒草〉】おおけたで</td></tr>
 <tr><td>U+862D</td><td>蘭</td><td>FUJIBAKA</td><td>FUJIBAKAMA</td><td>Consistent with:<br>• U+8551 蕑 FUJIBAKAMA<br>• U+8573 蕳 FUJIBAKAMA<br><a href="https://en.wiktionary.org/wiki/%E8%98%AD">蘭 - Wiktionary</a>:<br>Kun: あららぎ (araragi, 蘭); ふじばかま (fujibakama, 蘭)←ふぢばかま (fudibakama, historical)</td></tr>
-<tr class="revised"><td>U+865E</td><td>虞</td><td>OSORE UREERU OMONPAKA</td><td>OSORE UREERU OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E8%99%9E">虞 - Wiktionary</a>:<br>Kun: おそれ (osore, 虞, Jōyō); うれえる (ureeru, 虞える); おもんぱかる (omonpakaru, 虞る)</td></tr>
+<tr class="changed"><td>U+865E</td><td>虞</td><td>OSORE UREERU OMONPAKA</td><td>OSORE UREERU OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E8%99%9E">虞 - Wiktionary</a>:<br>Kun: おそれ (osore, 虞, Jōyō); うれえる (ureeru, 虞える); おもんぱかる (omonpakaru, 虞る)</td></tr>
 <tr><td>U+8677</td><td>虷</td><td>BOUHURA</td><td>BOUFURA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+868C</td><td>蚌</td><td>DOBUGA</td><td>DOBUGAI</td><td>Consistent with:<br>• U+872F 蜯 DOBUGAI<br>• U+8819 蠙 DOBUGAI<br><a href="https://tangorin.com/kanji?search=%E8%9A%8C">蚌 - Kanji - Japanese Dictionary Tangorin</a>:<br>はまぐり・どぶがい</td></tr>
 <tr><td>U+8698</td><td>蚘</td><td>KAICHIYUU HARANOMUSHI</td><td>KAICHUU HARANOMUSHI</td><td><a href="https://en.wiktionary.org/wiki/%E8%9A%98">蚘 - Wiktionary</a>:<br>Kun: かいちゅう (kaichū), はらのむし (haranomushi)</td></tr>
