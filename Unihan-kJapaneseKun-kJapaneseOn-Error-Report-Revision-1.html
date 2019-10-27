@@ -1,51 +1,106 @@
-# Unihan kJapaneseKun & kJapaneseOn Error Report (Revision 1)
-
-- **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report (Revision 1)**
-- **Date: 2019-10-27**
-- **Author: Michel MARIANI**
-
-This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the **Unihan_Readings.txt** data file.
-
-    # Unihan_Readings.txt
-    # Date: 2018-11-09 21:36:19 GMT [JHJ]
-    # Unicode version: 12.0.0
-
-## Aims and Objectives
-
-- Fix typos, omissions and duplicates; split accidentally joined readings; join accidentally split readings.
-- Apply proper romanization to readings using modern (instead of ancient/historical) Japanese orthography.
-- Conversely, restore correct romanization of pronunciations misidentified with historical orthography.
-- Use recent spellings for names of chemical elements and units of measurement.
-- Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.
-- Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU.
-- Detect and correct misclassified readings, i.e., when a `kJapaneseKun` reading should be `kJapaneseOn` instead, or vice versa.
-
-## Proposed Modifications
-
-The attached files **kJapaneseKun-Corrections.tsv** and **kJapaneseOn-Corrections.tsv** list the suggested changes in tab-separated values (tsv) format.
-
-The attached files **Unihan_Readings_kJapaneseKun-Corrected.txt** and **Unihan_Readings_kJapaneseOn-Corrected.txt** list the suggested changes in the same format than the original data file **Unihan_Readings.txt**, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
-
-**Note**: In order to accommodate for corrections of readings making use of a single quote, e.g., to disambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for `kJapaneseKun` (and possibly `kJapaneseOn` for the sake of consistency) would have to be updated: `[A-Z]+` → `[A-Z']+`, in the document [Unicode® Standard Annex #38 - Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr18/).
-
-## Future Improvements
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unihan kJapaneseKun &amp; kJapaneseOn Error Report (Revision 1)</title>
+    <style type="text/css">
+        body
+        {
+            font-family: sans-serif;
+            font-size: 12px;
+            line-height: 1.333em;
+        }
+        .page-break
+        {
+            break-before: page;
+        }
+        .changed
+        {
+            background-color: yellow;
+            border-width: 1px;
+            border-style: dotted;
+        }
+        code, pre
+        {
+            font-size: 1.1em;
+            padding: 0.1em;
+            background-color: #F7F7F7;
+        }
+        table
+        {
+            border-collapse: collapse;
+            border: 1px solid gray;
+        }
+        tr
+        {
+            border: 1px solid gray;
+        }
+        th
+        {
+            text-align: left;
+        }
+        th, td
+        {
+            font-size: 11px;
+            border: 1px solid gray;
+            padding: 0.2em 0.5em;
+        }
+    </style>
+</head>
+<body>
+<h3>
+Subject: Unihan kJapaneseKun &amp; kJapaneseOn Error Report <span class="changed">(Revision 1)</span>
+<br>
+Date: <span class="changed">2019-10-27</span>
+<br>
+Author: Michel MARIANI
+</h3>
+<p>
+This error report intends to correct issues found in the <code>kJapaneseKun</code> and <code>kJapaneseOn</code> fields of the <strong>Unihan_Readings.txt</strong> data file.
+</p>
+<pre>
+# Unihan_Readings.txt
+# Date: 2018-11-09 21:36:19 GMT [JHJ]
+# Unicode version: 12.0.0
+</pre>
+<h3>Aims and Objectives</h3>
+<ul>
+    <li>Fix typos, omissions and duplicates; split accidentally joined readings; join accidentally split readings.</li>
+    <li>Apply proper romanization to readings using modern (instead of ancient/historical) Japanese orthography.</li>
+    <li>Conversely, restore correct romanization of pronunciations misidentified with historical orthography.</li>
+    <li>Use recent spellings for names of chemical elements and units of measurement.</li>
+    <li>Adopt a unique, consistent romanization style based on Hepburn (ヘボン式), not Kunrei (訓令式): ふ → always FU, not HU.</li>
+    <li>Allow for lossless, round-trip conversion between rōmaji and kana, by extending the Hepburn system for the two syllables ぢ → DJI and づ → DZU.</li>
+    <li>Detect and correct misclassified readings, i.e., when a <code>kJapaneseKun</code> reading should be <code>kJapaneseOn</code> instead, or vice versa.</li>
+</ul>
+<h3>Proposed Modifications</h3>
+<p>
+The attached files <strong>kJapaneseKun-Corrections.tsv</strong> and <strong>kJapaneseOn-Corrections.tsv</strong> list the suggested changes in tab-separated values (tsv) format.
+</p>
+<p>
+The attached files <strong>Unihan_Readings_kJapaneseKun-Corrected.txt</strong> and <strong>Unihan_Readings_kJapaneseOn-Corrected.txt</strong> list the suggested changes in the same format than the original data file <strong>Unihan_Readings.txt</strong>, but containing only the modified lines. Any line whose third tab-separated field value is empty (no readings) is meant to be deleted in the original file.
+</p>
+<p>
+<strong>Note</strong>: In order to accommodate for corrections of readings making use of a single quote, e.g., to disambiguate between IWANYA (いわにゃ) and IWAN'YA (いわんや), the current syntax (regular expression) for <code>kJapaneseKun</code> (and possibly <code>kJapaneseOn</code> for the sake of consistency) would have to be updated: <code>[A-Z]+</code> → <code>[A-Z']+</code>, in the document <a href="https://www.unicode.org/reports/tr18/">Unicode® Standard Annex #38 - Unicode Han Database (Unihan)</a>.
+</p>
+<h3>Future Improvements</h3>
+<p>
 Many issues are probably caused by the fact that the original data in kana was coming from different sources and had to be transliterated to rōmaji with varying levels of success.
-
+</p>
+<p>
 Having Japanese readings been searchable in rōmaji is a good thing for people not familiar with the Japanese language and its writing system, and besides, it doesn't require any specific IME (Input Method Editor). However, from a maintenance point of view, it would be far better to have all readings in kana in the Unihan database, and provide a way to automatically produce a "synchronized" rōmaji version, if need be.
-
-As an experimental feature, the attached files **Unihan_Readings_kJapanese-Experimental.txt** and **Unihan_Readings_kJapaneseOnKun-Experimental.txt** represent the on-yomi and kun-yomi corrected fields concatenated under a common Unihan tag, in kana and rōmaji respectively. They are following the usual conventions of using katakana or rōmaji capital letters for on-yomi, then hiragana or rōmaji small letters for kun-yomi.
-
-## Revision 1
-
-- Fixed character corresponding to code point U+91B6: 醶, not 酫.
-
-- Fixed referenced reading for U+97BC 鞼: ぬいとりをしたなめしがわ, not ぬいとりをしたなめしがわこ.
-
-- Added 4 missing corrections for U+616E 慮, U+865E 虞, U+9D30 鴰, U+9DAC 鶬, thanks to the list of Wiktionary contributions: <br>[https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500](https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500)
-
-## kJapaneseKun
-
+</p>
+<p>
+As an experimental feature, the attached files <strong>Unihan_Readings_kJapanese-Experimental.txt</strong> and <strong>Unihan_Readings_kJapaneseOnKun-Experimental.txt</strong> represent the on-yomi and kun-yomi corrected fields concatenated under a common Unihan tag, in kana and rōmaji respectively. They are following the usual conventions of using katakana or rōmaji capital letters for on-yomi, then hiragana or rōmaji small letters for kun-yomi.
+</p>
+<h3><span class="changed">Revision 1</span></h3>
+<ul class="changed">
+<li>Fixed character corresponding to code point U+91B6: 醶, not 酫.</li>
+<li>Fixed referenced reading for U+97BC 鞼: ぬいとりをしたなめしがわ, not ぬいとりをしたなめしがわこ.</li>
+<li>Added 4 missing corrections for U+616E 慮, U+865E 虞, U+9D30 鴰, U+9DAC 鶬, thanks to the list of Wiktionary contributions: <br>
+<a href="https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500">https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500</a></li>
+</ul>
+<h3 class="page-break">kJapaneseKun</h3>
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+4E00</td><td>一</td><td>HITOTSU HITOTABI HAJIME</td><td>HITO HITOTSU HITOTABI HAJIME</td><td><a href="https://en.wiktionary.org/wiki/%E4%B8%80">一 - Wiktionary</a>:<br>Kun: ひと (hito, 一, Jōyō); ひとつ (hitotsu, 一つ, Jōyō)</td></tr>
@@ -279,7 +334,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+60AA</td><td>悪</td><td>WARUI NIKUMU IZUKUNSO</td><td>WARUI NIKUMU IZUKUNZO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%AA">悪 - Wiktionary</a>:<br>Kun: わるい (warui, 悪い, Jōyō); にくむ (nikumu, 悪む); いずくんぞ (izukunzo, 悪んぞ)</td></tr>
 <tr><td>U+60BE</td><td>悾</td><td>MOKOTO</td><td>MAKOTO</td><td><a href="https://en.wiktionary.org/wiki/%E6%82%BE">悾 - Wiktionary</a>:<br>Kun: まこと (makoto, 悾)</td></tr>
 <tr><td>U+60DD</td><td>惝</td><td>UTSUTORISURU</td><td>UTTORISURU</td><td><a href="https://tangorin.com/kanji?search=%E6%83%9D">惝 - Kanji - Japanese Dictionary Tangorin</a>:<br>うっとりする</td></tr>
-<tr class="revised"><td>U+616E</td><td>慮</td><td>OMONPAKA</td><td>OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%85%AE">慮 - Wiktionary</a>:<br>Kun: おもんぱかる (omonpakaru, 慮る)</td></tr>
+<tr class="changed"><td>U+616E</td><td>慮</td><td>OMONPAKA</td><td>OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E6%85%AE">慮 - Wiktionary</a>:<br>Kun: おもんぱかる (omonpakaru, 慮る)</td></tr>
 <tr><td>U+618B</td><td>憋</td><td>SETSUKACHI</td><td>SEKKACHI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%8B">憋 - Kanji - Japanese Dictionary Tangorin</a>:<br>せっかち</td></tr>
 <tr><td>U+619C</td><td>憜</td><td>TSUTSUMANAI</td><td>TSUTSUSHIMANAI</td><td><a href="https://tangorin.com/kanji?search=%E6%86%9C">憜 - Kanji - Japanese Dictionary Tangorin</a>:<br>つつしまない</td></tr>
 <tr><td>U+61E4</td><td>懤</td><td>HOGARAKA UREHERU</td><td>HOGARAKA UREERU</td><td>うれへる → うれえる (modern Japanese orthography)</td></tr>
@@ -540,7 +595,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+8618</td><td>蘘</td><td>MIYOUGA</td><td>MYOUGA</td><td><a href="https://en.wiktionary.org/wiki/%E8%98%98">蘘 - Wiktionary</a>:<br>Kun: みょうが (myōga)</td></tr>
 <tr><td>U+8622</td><td>蘢</td><td>OUKETADE</td><td>OOKETADE</td><td>Related to【大毛蓼・〈葒草〉】おおけたで</td></tr>
 <tr><td>U+862D</td><td>蘭</td><td>FUJIBAKA</td><td>FUJIBAKAMA</td><td>Consistent with:<br>• U+8551 蕑 FUJIBAKAMA<br>• U+8573 蕳 FUJIBAKAMA<br><a href="https://en.wiktionary.org/wiki/%E8%98%AD">蘭 - Wiktionary</a>:<br>Kun: あららぎ (araragi, 蘭); ふじばかま (fujibakama, 蘭)←ふぢばかま (fudibakama, historical)</td></tr>
-<tr class="revised"><td>U+865E</td><td>虞</td><td>OSORE UREERU OMONPAKA</td><td>OSORE UREERU OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E8%99%9E">虞 - Wiktionary</a>:<br>Kun: おそれ (osore, 虞, Jōyō); うれえる (ureeru, 虞える); おもんぱかる (omonpakaru, 虞る)</td></tr>
+<tr class="changed"><td>U+865E</td><td>虞</td><td>OSORE UREERU OMONPAKA</td><td>OSORE UREERU OMONPAKARU</td><td><a href="https://en.wiktionary.org/wiki/%E8%99%9E">虞 - Wiktionary</a>:<br>Kun: おそれ (osore, 虞, Jōyō); うれえる (ureeru, 虞える); おもんぱかる (omonpakaru, 虞る)</td></tr>
 <tr><td>U+8677</td><td>虷</td><td>BOUHURA</td><td>BOUFURA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+868C</td><td>蚌</td><td>DOBUGA</td><td>DOBUGAI</td><td>Consistent with:<br>• U+872F 蜯 DOBUGAI<br>• U+8819 蠙 DOBUGAI<br><a href="https://tangorin.com/kanji?search=%E8%9A%8C">蚌 - Kanji - Japanese Dictionary Tangorin</a>:<br>はまぐり・どぶがい</td></tr>
 <tr><td>U+8698</td><td>蚘</td><td>KAICHIYUU HARANOMUSHI</td><td>KAICHUU HARANOMUSHI</td><td><a href="https://en.wiktionary.org/wiki/%E8%9A%98">蚘 - Wiktionary</a>:<br>Kun: かいちゅう (kaichū), はらのむし (haranomushi)</td></tr>
@@ -716,9 +771,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+9F8F</td><td>龏</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOHOHI</td><td>TSUTSUSHIMU NOBORU TOMOSHIBIOOI</td><td>ともしびおほひ → ともしびおおい (modern Japanese orthography)</td></tr>
 <tr><td>U+275D7</td><td>𧗗</td><td>HANAJI</td><td>HANADJI</td><td>Consistent with【鼻血】はなぢ</td></tr>
 </table>
-
-## kJapaneseOn
-
+<h3 class="page-break">kJapaneseOn</h3>
 <table>
 <tr><th>Code</th><th>Char</th><th>Issue</th><th>Correction</th><th>Rationale&nbsp;/&nbsp;References</th><tr>
 <tr><td>U+3861</td><td>㡡</td><td>CHU JIU</td><td>CHU JUU</td><td>Modern Japanese orthography: JIU → JUU</td></tr>
@@ -983,3 +1036,5 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+9BB1</td><td>鮱</td><td>BORA</td><td></td><td>BORA: kJapaneseKun, not kJapaneseOn</td></tr>
 <tr><td>U+9BBE</td><td>鮾</td><td>DAI NAI KUSARU</td><td>DAI NAI</td><td>KUSARU: kJapaneseKun, not kJapaneseOn</td></tr>
 </table>
+</body>
+</html>

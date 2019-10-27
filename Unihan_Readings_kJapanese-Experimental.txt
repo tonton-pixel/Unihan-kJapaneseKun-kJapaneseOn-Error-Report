@@ -3999,7 +3999,7 @@ U+6168	kJapanese	ガイ カイ なげく
 U+616B	kJapanese	ショウ すすめる
 U+616C	kJapanese	キン ゴン コン かなしむ
 U+616D	kJapanese	ギン キン なまじいに
-U+616E	kJapanese	リョ ロク おもんぱか
+U+616E	kJapanese	リョ ロク おもんぱかる
 U+616F	kJapanese	ショウ いたむ
 U+6170	kJapanese	イ なぐさめる なぐさむ なぐさみ
 U+6171	kJapanese	タン ダン セン うれえる
@@ -9733,7 +9733,7 @@ U+865A	kJapanese	キョ コ むなしい
 U+865B	kJapanese	キョ コ むなしい
 U+865C	kJapanese	リョ とりこ
 U+865D	kJapanese	コ とる
-U+865E	kJapanese	グ おそれ うれえる おもんぱか
+U+865E	kJapanese	グ おそれ うれえる おもんぱかる
 U+865F	kJapanese	ゴウ コウ さけぶ よびな
 U+8660	kJapanese	コウ
 U+8661	kJapanese	キョ ゴ はしる
@@ -13009,7 +13009,7 @@ U+9D2A	kJapanese	イツ
 U+9D2B	kJapanese	しぎ
 U+9D2C	kJapanese	オウ ヨウ うぐいす
 U+9D2F	kJapanese	ジ ニ
-U+9D30	kJapanese	カツ カチ ケチ まなずる
+U+9D30	kJapanese	カツ カチ ケチ まなづる
 U+9D32	kJapanese	シ しめ
 U+9D33	kJapanese	アン エン うずら
 U+9D34	kJapanese	コウ ギョウ すずめ ちどり
@@ -13078,7 +13078,7 @@ U+9DA4	kJapanese	コン
 U+9DA9	kJapanese	ボク ブ あひる
 U+9DAA	kJapanese	ケキ キャク もず
 U+9DAB	kJapanese	つぐみ
-U+9DAC	kJapanese	ソウ ショウ まなずる
+U+9DAC	kJapanese	ソウ ショウ まなづる
 U+9DAE	kJapanese	コク ゴク カク つる
 U+9DAF	kJapanese	オウ うぐいす
 U+9DB1	kJapanese	ケン コン とぶ

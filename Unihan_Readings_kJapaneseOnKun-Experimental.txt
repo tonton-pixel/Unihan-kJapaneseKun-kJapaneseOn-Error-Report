@@ -3999,7 +3999,7 @@ U+6168	kJapaneseOnKun	GAI KAI nageku
 U+616B	kJapaneseOnKun	SHOU susumeru
 U+616C	kJapaneseOnKun	KIN GON KON kanashimu
 U+616D	kJapaneseOnKun	GIN KIN namajiini
-U+616E	kJapaneseOnKun	RYO ROKU omonpaka
+U+616E	kJapaneseOnKun	RYO ROKU omonpakaru
 U+616F	kJapaneseOnKun	SHOU itamu
 U+6170	kJapaneseOnKun	I nagusameru nagusamu nagusami
 U+6171	kJapaneseOnKun	TAN DAN SEN ureeru
@@ -9733,7 +9733,7 @@ U+865A	kJapaneseOnKun	KYO KO munashii
 U+865B	kJapaneseOnKun	KYO KO munashii
 U+865C	kJapaneseOnKun	RYO toriko
 U+865D	kJapaneseOnKun	KO toru
-U+865E	kJapaneseOnKun	GU osore ureeru omonpaka
+U+865E	kJapaneseOnKun	GU osore ureeru omonpakaru
 U+865F	kJapaneseOnKun	GOU KOU sakebu yobina
 U+8660	kJapaneseOnKun	KOU
 U+8661	kJapaneseOnKun	KYO GO hashiru
@@ -13009,7 +13009,7 @@ U+9D2A	kJapaneseOnKun	ITSU
 U+9D2B	kJapaneseOnKun	shigi
 U+9D2C	kJapaneseOnKun	OU YOU uguisu
 U+9D2F	kJapaneseOnKun	JI NI
-U+9D30	kJapaneseOnKun	KATSU KACHI KECHI manazuru
+U+9D30	kJapaneseOnKun	KATSU KACHI KECHI manadzuru
 U+9D32	kJapaneseOnKun	SHI shime
 U+9D33	kJapaneseOnKun	AN EN uzura
 U+9D34	kJapaneseOnKun	KOU GYOU suzume chidori
@@ -13078,7 +13078,7 @@ U+9DA4	kJapaneseOnKun	KON
 U+9DA9	kJapaneseOnKun	BOKU BU ahiru
 U+9DAA	kJapaneseOnKun	KEKI KYAKU mozu
 U+9DAB	kJapaneseOnKun	tsugumi
-U+9DAC	kJapaneseOnKun	SOU SHOU manazuru
+U+9DAC	kJapaneseOnKun	SOU SHOU manadzuru
 U+9DAE	kJapaneseOnKun	KOKU GOKU KAKU tsuru
 U+9DAF	kJapaneseOnKun	OU uguisu
 U+9DB1	kJapaneseOnKun	KEN KON tobu
