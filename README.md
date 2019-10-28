@@ -38,11 +38,11 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 
 ## Revision 1
 
-- Fixed character corresponding to code point U+91B6: 醶, not 酫.
+- Fixed characters inconsistent with code points: U+5EDC 廜 (not 塼); U+8555 蕕 (not 蘋); U+91B6 醶 (not 酫).
 
 - Fixed referenced reading for U+97BC 鞼: ぬいとりをしたなめしがわ, not ぬいとりをしたなめしがわこ.
 
-- Added 4 missing corrections for U+616E 慮, U+865E 虞, U+9D30 鴰, U+9DAC 鶬, thanks to the list of Wiktionary contributions: <br>[https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500](https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500)
+- Added 4 missing corrections for U+616E 慮, U+865E 虞, U+9D30 鴰, U+9DAC 鶬, thanks to the list of Wiktionary contributions <br>[https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500](https://en.wiktionary.org/w/index.php?title=Special:Contributions/Nanshu&limit=1500)
 
 ## kJapaneseKun
 
@@ -258,7 +258,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+5ED5</td><td>廕</td><td>OHOHU KABAHU KAGE</td><td>OOU KABAU KAGE</td><td>おほふ → おおう<br>かばふ → かばう<br>(modern Japanese orthography)</td></tr>
 <tr><td>U+5ED7</td><td>廗</td><td>IHEGAYUGAMU</td><td>IEGAYUGAMU</td><td>いへがゆがむ → いえがゆがむ (modern Japanese orthography)</td></tr>
 <tr><td>U+5EDA</td><td>廚</td><td>KURYA</td><td>KURIYA</td><td>Consistent with:<br>• U+53A8 厨 KURIYA<br>• U+2228D 𢊍 KURIYA</td></tr>
-<tr><td>U+5EDC</td><td>塼</td><td>IHORI</td><td>IORI</td><td>いほり → いおり (modern Japanese orthography)</td></tr>
+<tr><td>U+5EDC</td><td class="changed">廜</td><td>IHORI</td><td>IORI</td><td>いほり → いおり (modern Japanese orthography)</td></tr>
 <tr><td>U+5EDE</td><td>廞</td><td>TSURANERU OKOSU KEHASHIISAMA</td><td>TSURANERU OKOSU KEWASHIISAMA</td><td><a href="https://tangorin.com/kanji?search=%E5%BB%9E">廞 - Kanji - Japanese Dictionary Tangorin</a>:<br>つらねる・おこす・けわしい</td></tr>
 <tr><td>U+5F0E</td><td>弎</td><td>MI MIITSU MIITTSU</td><td>MI MITSU MITTSU</td><td>Consistent with:<br>• U+4E09 三 MITSU</td></tr>
 <tr><td>U+5F19</td><td>弙</td><td>OHATSUTENERAFU MOTSU</td><td>YUMIWOHATTENERAU MOTSU</td><td><a href="https://tangorin.com/kanji?search=%E5%BC%99">弙 - Kanji - Japanese Dictionary Tangorin</a>:<br>ゆみをはってねらう・もつ</td></tr>
@@ -529,7 +529,7 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+8536</td><td>蔶</td><td>SONOKO</td><td>SUNOKO</td><td><a href="https://tangorin.com/kanji?search=%E8%94%B6">蔶 - Kanji - Japanese Dictionary Tangorin</a>:<br>す・すのこ</td></tr>
 <tr><td>U+8551</td><td>蕑</td><td>HUJIBAKAMA</td><td>FUJIBAKAMA</td><td>Use consistent Hepburn romanization for ふ: FU, not HU</td></tr>
 <tr><td>U+8552</td><td>蕒</td><td>NOKESHI</td><td>NOGESHI</td><td><a href="https://tangorin.com/kanji?search=%E8%95%92">蕒 - Kanji - Japanese Dictionary Tangorin</a>:<br>のげし</td></tr>
-<tr><td>U+8555</td><td>蘋</td><td>KARIGANESO KUSAMI</td><td>KARIGANESOU KUSAMI</td><td>KARIGANESOU: related to【雁金草】かりがねそう</td></tr>
+<tr><td>U+8555</td><td class="changed">蕕</td><td>KARIGANESO KUSAMI</td><td>KARIGANESOU KUSAMI</td><td>KARIGANESOU: related to【雁金草】かりがねそう</td></tr>
 <tr><td>U+8585</td><td>薅</td><td>KUKIOTORU</td><td>KUKIWOTORU</td><td><a href="https://tangorin.com/kanji?search=%E8%96%85">薅 - Kanji - Japanese Dictionary Tangorin</a>:<br>くきをとる</td></tr>
 <tr><td>U+85BF</td><td>薿</td><td>SHIGIRU</td><td>SHIGERU</td><td><a href="https://tangorin.com/kanji?search=%E8%96%BF">薿 - Kanji - Japanese Dictionary Tangorin</a>:<br>しげる</td></tr>
 <tr><td>U+85E0</td><td>藠</td><td>RATSUKIYOU</td><td>RAKKYOU</td><td><a href="https://en.wiktionary.org/wiki/%E8%97%A0">藠 - Wiktionary</a>:<br>Kun: らっきょう (rakkyō)</td></tr>
