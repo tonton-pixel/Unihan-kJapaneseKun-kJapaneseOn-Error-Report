@@ -35,7 +35,7 @@ U+4E24	kJapanese	リョウ ふたつ
 U+4E26	kJapanese	ヘイ なみ ならべる ならびに
 U+4E28	kJapanese	コン シ ジョ ニョ すすむ しりぞく
 U+4E29	kJapanese	キュウ まつわる
-U+4E2A	kJapanese	カ コ こ ひ
+U+4E2A	kJapanese	カ コ ひ
 U+4E2B	kJapanese	ア ふたまた あげまき
 U+4E2D	kJapanese	チュウ なか うち あたる
 U+4E2E	kJapanese	ケキ キャク もつ とる
@@ -416,7 +416,7 @@ U+5007	kJapanese	エン オン たのしむ よろこぶ すすめる
 U+5008	kJapanese	ライ
 U+5009	kJapanese	ソウ くら
 U+500A	kJapanese	ソウ ス くるしむ
-U+500B	kJapanese	コ カ こ
+U+500B	kJapanese	コ カ
 U+500C	kJapanese	カン とねり
 U+500D	kJapanese	バイ そむく ます
 U+500E	kJapanese	テン あつい
@@ -462,7 +462,7 @@ U+5035	kJapanese	ブ ム
 U+5036	kJapanese	ク ともに
 U+5037	kJapanese	ダイ ナイ なんじ
 U+5039	kJapanese	ケン つづまやか
-U+503B	kJapanese	ヤ や
+U+503B	kJapanese	ヤ
 U+503C	kJapanese	チ チョク ね あたい あう
 U+5040	kJapanese	エイ はなぶさ
 U+5041	kJapanese	ショウ あげる
@@ -867,7 +867,7 @@ U+5211	kJapanese	ケイ ギョウ のり しおき
 U+5212	kJapanese	カ ゲ さおさす かま さく
 U+5213	kJapanese	グン けずる たつ える すりへる
 U+5214	kJapanese	ケツ ケチ えぐる
-U+5215	kJapanese	リ レイ ライ サク さく
+U+5215	kJapanese	リ レイ ライ さく
 U+5216	kJapanese	ゲツ グチ ゴツ ゴチ カツ きる あやうい
 U+5217	kJapanese	レツ レイ つらねる
 U+5218	kJapanese	リュウ ころす
@@ -976,7 +976,7 @@ U+5291	kJapanese	ザイ セイ スイ そろえる
 U+5292	kJapanese	ケン つるぎ
 U+5293	kJapanese	ギ ゲイ はなきる はなきり さく
 U+5294	kJapanese	ケン つるぎ
-U+5295	kJapanese	シツ シチ チ わりふ しち
+U+5295	kJapanese	シツ シチ チ わりふ
 U+5296	kJapanese	サン ザン たつ けずる
 U+5297	kJapanese	サン ザン セン へらす きる
 U+5298	kJapanese	バ マ ビ ミ けずる する わける
@@ -1069,7 +1069,7 @@ U+52F6	kJapanese	ケツ デチ はなつ とりさる
 U+52F7	kJapanese	ジョウ ニョウ はしる
 U+52F8	kJapanese	カン ケン すすめる
 U+52F9	kJapanese	ホウ つつむ
-U+52FA	kJapanese	シャク しゃく
+U+52FA	kJapanese	シャク
 U+52FB	kJapanese	イン すくない ひとしい
 U+52FC	kJapanese	キュウ ク あつめる あつまる
 U+52FD	kJapanese	ブン モン ホウ ボウ ヒョウ つつむ
@@ -1809,7 +1809,7 @@ U+5674	kJapanese	フン ふく はく
 U+5675	kJapanese	ドウ トウ みち
 U+5676	kJapanese	カツ カチ
 U+5677	kJapanese	キン
-U+5678	kJapanese	トン とん
+U+5678	kJapanese	トン
 U+5679	kJapanese	トウ
 U+567A	kJapanese	はなし
 U+567E	kJapanese	イン
@@ -2374,7 +2374,7 @@ U+5946	kJapanese	ケン ガン おおきい
 U+5947	kJapanese	キ くし めずらしい あやしい
 U+5948	kJapanese	ナ ダイ からなし
 U+5949	kJapanese	ホウ ブ たてまつる
-U+594C	kJapanese	テン ぼち ちょぼ てん
+U+594C	kJapanese	テン ぼち ちょぼ
 U+594E	kJapanese	ケイ キ また
 U+594F	kJapanese	ソウ かなでる すすめる
 U+5950	kJapanese	カン とりかえる おおきい さかん
@@ -3359,7 +3359,7 @@ U+5E28	kJapanese	セイ サイ エツ エチ スイ ゼイ てふき
 U+5E29	kJapanese	ショウ はちまき ずきん
 U+5E2B	kJapanese	シ みやこ いくさ おさ
 U+5E2C	kJapanese	クン グン えりあて はかま
-U+5E2D	kJapanese	セキ むしろ せき
+U+5E2D	kJapanese	セキ むしろ
 U+5E2E	kJapanese	ホウ たすける
 U+5E2F	kJapanese	タイ おび おびる
 U+5E30	kJapanese	キ かえる とつぐ おくる
@@ -3867,7 +3867,7 @@ U+60AA	kJapanese	アク オ わるい にくむ いずくんぞ
 U+60B0	kJapanese	ソウ ズ たのしむ
 U+60B1	kJapanese	ヒ いいなやむ
 U+60B2	kJapanese	ヒ かなしい かなしむ かなしみ
-U+60B3	kJapanese	トク とく おしえ
+U+60B3	kJapanese	トク おしえ
 U+60B4	kJapanese	スイ やつれる せがれ
 U+60B5	kJapanese	チョウ いたむ うらむ
 U+60B6	kJapanese	モン もだえる もだえ
@@ -3908,7 +3908,7 @@ U+60E3	kJapanese	ソウ いそがしい そうじて
 U+60E5	kJapanese	ヨウ すすめる
 U+60E7	kJapanese	ク グ おそれる
 U+60E8	kJapanese	サン ザン みじめ いたむ
-U+60EA	kJapanese	トク とく おしえ
+U+60EA	kJapanese	トク おしえ
 U+60F0	kJapanese	ダ おこたる
 U+60F1	kJapanese	ノウ なやむ
 U+60F2	kJapanese	ウン キン ギン あつい
@@ -5163,7 +5163,7 @@ U+6852	kJapanese	ソウ くわ
 U+6853	kJapanese	カン ガン たけしい めぐる うれえる
 U+6854	kJapanese	キツ ケツ はねつるべ
 U+6855	kJapanese	キュウ ぶな
-U+6857	kJapanese	タ ネ ね
+U+6857	kJapanese	タ ネ
 U+6858	kJapanese	ツイ スイ しい
 U+6859	kJapanese	ウ ボウ ほこ
 U+685B	kJapanese	かせ
@@ -5700,7 +5700,7 @@ U+6BB3	kJapanese	シュ ほこ
 U+6BB4	kJapanese	オウ なぐる うつ たたく
 U+6BB5	kJapanese	ダン タン きたえる わかち
 U+6BB7	kJapanese	イン アン さかん
-U+6BB8	kJapanese	ケイ キョウ コウ セイ ショウ けい てき こえ
+U+6BB8	kJapanese	ケイ キョウ コウ セイ ショウ てき こえ
 U+6BB9	kJapanese	エイ うちあたるこえ みにくいすがた
 U+6BBA	kJapanese	サツ セツ サイ ころす そぐ けずる
 U+6BBB	kJapanese	カク コク から
@@ -6653,7 +6653,7 @@ U+727C	kJapanese	コウ キョウ カン ケン
 U+727D	kJapanese	ケン ひく
 U+727E	kJapanese	ゴ さからう
 U+727F	kJapanese	コク おり
-U+7280	kJapanese	セイ サイ さい かたい するどい
+U+7280	kJapanese	セイ サイ かたい するどい
 U+7281	kJapanese	リ レイ すき
 U+7282	kJapanese	リ レイ リュウ すき
 U+7284	kJapanese	イ キ
@@ -6762,7 +6762,7 @@ U+7345	kJapanese	シ しし
 U+734A	kJapanese	ソウ
 U+734D	kJapanese	キョウ かがみ
 U+734E	kJapanese	ショウ ソウ すすめる
-U+734F	kJapanese	バク ミャク ばく
+U+734F	kJapanese	バク ミャク
 U+7350	kJapanese	ショウ のろ
 U+7352	kJapanese	ゴウ いぬ
 U+7356	kJapanese	フン ブン ホン ボン
@@ -7100,7 +7100,7 @@ U+7566	kJapanese	ケイ うね
 U+7567	kJapanese	リャク おさめる はかる ほぼ
 U+7569	kJapanese	けさ
 U+756A	kJapanese	バン ハン つがい つがう つがえる
-U+756B	kJapanese	カク ガ カイ かぎる はかる はかりごと かく
+U+756B	kJapanese	カク ガ カイ かぎる はかる はかりごと かくする えがく
 U+756C	kJapanese	ヨ あらた
 U+756D	kJapanese	ヨ あらた やわらぐ やきた
 U+756F	kJapanese	シュン
@@ -7109,7 +7109,7 @@ U+7571	kJapanese	リュウ ル とめる とまる
 U+7572	kJapanese	ヨ シャ あらた やきた
 U+7573	kJapanese	ジョウ チョウ たたむ たたみ かさねる
 U+7574	kJapanese	チュウ うね たぐい はたけ
-U+7575	kJapanese	カク ガ カイ かぎる はかる はかりごと かく
+U+7575	kJapanese	カク ガ カイ かぎる はかる はかりごと かくする えがく
 U+7576	kJapanese	トウ あたる
 U+7577	kJapanese	テツ なわて
 U+7578	kJapanese	キ はした めずらしい かたわ
@@ -7146,7 +7146,7 @@ U+75A5	kJapanese	カイ ひぜん よごす おこり
 U+75AB	kJapanese	エキ ヤク えやみ
 U+75B1	kJapanese	ホウ もがさ
 U+75B2	kJapanese	ヒ つかれる つかれ
-U+75B3	kJapanese	カン かん
+U+75B3	kJapanese	カン
 U+75B4	kJapanese	ア やまい
 U+75B5	kJapanese	シ きず
 U+75B8	kJapanese	タン おうだん
@@ -7189,7 +7189,7 @@ U+75E9	kJapanese	ソウ シュウ やせる
 U+75EC	kJapanese	エキ ヤク セキ シャク おろか うつる
 U+75EE	kJapanese	チョウ ふくれる
 U+75EF	kJapanese	カン やむ
-U+75F0	kJapanese	タン たん
+U+75F0	kJapanese	タン
 U+75F1	kJapanese	ヒ ビ ハイ バイ
 U+75F2	kJapanese	マ バ しびれる
 U+75F3	kJapanese	リン せんき りんびょう
@@ -7250,7 +7250,7 @@ U+7643	kJapanese	リュウ リュ つかれる
 U+7644	kJapanese	ショウ ジョウ ソウ やせる
 U+7645	kJapanese	リュウ こぶ
 U+7646	kJapanese	ロウ いたむ
-U+7647	kJapanese	カン ひきつけ かん
+U+7647	kJapanese	カン ひきつけ
 U+7648	kJapanese	ハイ かたわ すたれる
 U+7649	kJapanese	タン タ やす
 U+764A	kJapanese	イン オン
@@ -7270,7 +7270,7 @@ U+7665	kJapanese	チョウ しこり
 U+7667	kJapanese	レキ リャク るいれき
 U+7668	kJapanese	カク
 U+7669	kJapanese	ライ かったい
-U+766A	kJapanese	シャク しゃく さしこみ
+U+766A	kJapanese	シャク さしこみ
 U+766C	kJapanese	セン たむし
 U+766D	kJapanese	エイ ヨウ こぶ
 U+766E	kJapanese	イン オン はれもの
@@ -7869,7 +7869,7 @@ U+7A56	kJapanese	キ ケ
 U+7A57	kJapanese	スイ ほ
 U+7A59	kJapanese	ホク ボク しげる
 U+7A5C	kJapanese	トウ ズ ショウ シュ おくて
-U+7A5D	kJapanese	サイ さい
+U+7A5D	kJapanese	サイ
 U+7A5F	kJapanese	スイ ズイ ほ
 U+7A60	kJapanese	ジョウ ニュ しげる
 U+7A61	kJapanese	ショク とりいれ
@@ -8054,7 +8054,7 @@ U+7B7A	kJapanese	キョウ かご はこ
 U+7B7F	kJapanese	ショウ しの
 U+7B84	kJapanese	ハイ バイ ヒ ヘキ ヘイ ビャク かご
 U+7B86	kJapanese	ヘイ へら の
-U+7B87	kJapanese	カ コ こ か
+U+7B87	kJapanese	カ コ
 U+7B89	kJapanese	カイ ゲ
 U+7B8B	kJapanese	セン ふだ
 U+7B8D	kJapanese	コ たが
@@ -8184,14 +8184,14 @@ U+7C4A	kJapanese	テキ チャク
 U+7C4C	kJapanese	チュウ かずとり はかりごと
 U+7C4D	kJapanese	セキ シャク ふみ
 U+7C4F	kJapanese	はた
-U+7C50	kJapanese	トウ とう
+U+7C50	kJapanese	トウ
 U+7C51	kJapanese	セン
 U+7C52	kJapanese	シュウ ジュ よむ
 U+7C53	kJapanese	ハン ホン
 U+7C54	kJapanese	ス ソウ シュ こめあげさ
 U+7C55	kJapanese	リュウ
 U+7C56	kJapanese	セン くじ かずとり
-U+7C58	kJapanese	トウ とう
+U+7C58	kJapanese	トウ
 U+7C59	kJapanese	リョク ロク ほんばこ
 U+7C5A	kJapanese	ロ ル え かご
 U+7C5B	kJapanese	セン サン たけ
@@ -8253,7 +8253,7 @@ U+7CB3	kJapanese	コウ うるち ぬか
 U+7CB5	kJapanese	エツ オチ ここに
 U+7CB6	kJapanese	ロク はぜこめ
 U+7CB7	kJapanese	キク コク こな
-U+7CB9	kJapanese	スイ サイ いき すい
+U+7CB9	kJapanese	スイ サイ いき
 U+7CBA	kJapanese	ハイ ハ バ ベ しらげよね
 U+7CBB	kJapanese	チョウ トウ ジョウ かて
 U+7CBC	kJapanese	リン せせらぎ
@@ -8390,13 +8390,13 @@ U+7D70	kJapanese	テツ デチ
 U+7D71	kJapanese	トウ すべる すじ おさめる
 U+7D72	kJapanese	シ ベキ いと
 U+7D73	kJapanese	コウ あか
-U+7D75	kJapanese	カイ エ え
+U+7D75	kJapanese	カイ エ
 U+7D76	kJapanese	ゼツ たえる たつ たやす
 U+7D78	kJapanese	ケン きぬ
 U+7D79	kJapanese	ケン きぬ
 U+7D7A	kJapanese	チ ほそぬの
 U+7D7B	kJapanese	ブン モン ベン メン バン マン もふく
-U+7D7D	kJapanese	リョ ロ ろ
+U+7D7D	kJapanese	リョ ロ
 U+7D7F	kJapanese	キュウ ク きびしい
 U+7D81	kJapanese	ホウ しばる
 U+7D82	kJapanese	トウ ほびる
@@ -8626,7 +8626,7 @@ U+7F4C	kJapanese	オウ エイ もたい
 U+7F4D	kJapanese	ライ さかだる
 U+7F4E	kJapanese	タン ドン びん
 U+7F4F	kJapanese	ロ ル さかだる
-U+7F50	kJapanese	カン かん ほとぎ
+U+7F50	kJapanese	カン ほとぎ
 U+7F51	kJapanese	ボウ モウ あみ
 U+7F52	kJapanese	モウ ボウ よんかしら よこめ
 U+7F53	kJapanese	モウ よんかしら よこめ
@@ -8647,7 +8647,7 @@ U+7F67	kJapanese	シン リン ふしづけ
 U+7F68	kJapanese	アン エン あみ
 U+7F69	kJapanese	トウ こめる
 U+7F6A	kJapanese	ザイ サイ つみ つみする
-U+7F6B	kJapanese	ケイ カイ けい
+U+7F6B	kJapanese	ケイ カイ
 U+7F6D	kJapanese	ヨク イキ キョク
 U+7F6E	kJapanese	チ おく
 U+7F70	kJapanese	バツ バチ ハツ つみ とがめ しおき
@@ -8779,7 +8779,7 @@ U+8030	kJapanese	ユウ ウ ならす
 U+8033	kJapanese	ジ ジョウ みみ のみ
 U+8034	kJapanese	チョウ ジョウ ニョウ
 U+8035	kJapanese	テイ チョウ みみくそ
-U+8036	kJapanese	ヤ ジャ や か
+U+8036	kJapanese	ヤ ジャ か
 U+8037	kJapanese	トウ チョウ
 U+8039	kJapanese	キン ゴン ケン ゲン おと
 U+803A	kJapanese	ウン ヨウ みみなり
@@ -8855,7 +8855,7 @@ U+80B2	kJapanese	イク そだてる はぐくむ そだつ
 U+80B4	kJapanese	コウ さかな
 U+80B8	kJapanese	キツ キチ コチ ケツ ケチ ひろがる
 U+80B9	kJapanese	ヒ キツ
-U+80BA	kJapanese	ハイ はい まごころ
+U+80BA	kJapanese	ハイ まごころ
 U+80C3	kJapanese	イ いぶくろ いのふ
 U+80C4	kJapanese	チュウ よつぎ ちすじ
 U+80C6	kJapanese	タン ダン きも
@@ -8947,7 +8947,7 @@ U+815F	kJapanese	チツ
 U+8160	kJapanese	ソウ ス きめ
 U+8161	kJapanese	ラ カ ケ カイ
 U+8165	kJapanese	セイ ショウ なまぐさい
-U+8166	kJapanese	ノウ ドウ のう のうみそ あたま
+U+8166	kJapanese	ノウ ドウ のうみそ あたま
 U+8167	kJapanese	シュ ユ
 U+8168	kJapanese	セン ゼン こむら
 U+8169	kJapanese	ダン ナン タン ドン
@@ -8956,12 +8956,12 @@ U+816D	kJapanese	ガク はぐき
 U+816E	kJapanese	サイ あご えら
 U+816F	kJapanese	トツ トチ ドチ トン ドン こえる
 U+8170	kJapanese	ヨウ こし
-U+8171	kJapanese	ケン キン けん
+U+8171	kJapanese	ケン キン
 U+8174	kJapanese	ユ こえる あぶら
 U+8177	kJapanese	ヒョク ビキ こもる
 U+8178	kJapanese	チョウ はらわた
 U+8179	kJapanese	フク はら いだく
-U+817A	kJapanese	セン せん
+U+817A	kJapanese	セン
 U+817D	kJapanese	オツ
 U+817F	kJapanese	タイ もも
 U+8180	kJapanese	ホウ ボウ わきばら ふくれる
@@ -8984,7 +8984,7 @@ U+8196	kJapanese	ホウ チョウ チュ はれる
 U+8198	kJapanese	ヒョウ ショウ あばら
 U+819A	kJapanese	フ はだ
 U+819B	kJapanese	トウ
-U+819C	kJapanese	マク バク まく うすかわ
+U+819C	kJapanese	マク バク うすかわ
 U+819D	kJapanese	シツ ひざ
 U+819E	kJapanese	セン ゼン シュン きりみ
 U+81A0	kJapanese	コウ にかわ
@@ -9122,7 +9122,7 @@ U+8264	kJapanese	ギ ふなよそおい
 U+8266	kJapanese	カン いくさぶね
 U+8267	kJapanese	ワク ふね
 U+8268	kJapanese	モウ ボウ いくさぶね
-U+826A	kJapanese	ロ かい ろ
+U+826A	kJapanese	ロ かい
 U+826B	kJapanese	ロ へさき とも
 U+826D	kJapanese	ソウ
 U+826E	kJapanese	コン うしとら
@@ -9262,7 +9262,7 @@ U+8332	kJapanese	ジ シ しげる ます むしろ
 U+8333	kJapanese	コウ
 U+8334	kJapanese	カイ ウイ
 U+8335	kJapanese	イン しとね
-U+8336	kJapanese	チャ サ タ ちゃ
+U+8336	kJapanese	チャ サ タ
 U+8337	kJapanese	ハイ バイ ヒツ ホチ しげる
 U+8338	kJapanese	ジョウ しげる たけ きのこ
 U+8339	kJapanese	ジョ ニョ くう ゆでる
@@ -9498,7 +9498,7 @@ U+84D3	kJapanese	ハイ バイ つぼみ
 U+84D6	kJapanese	ヒ ヘイ
 U+84D9	kJapanese	ざ ござ
 U+84DA	kJapanese	チョウ しぶくさ よろこぶ
-U+84DC	kJapanese	ハイ はい
+U+84DC	kJapanese	ハイ
 U+84E7	kJapanese	ショウ しの
 U+84EA	kJapanese	トウ ツ あけび
 U+84EC	kJapanese	ホウ よもぎ
@@ -9849,7 +9849,7 @@ U+8716	kJapanese	カイ はらのむし
 U+8718	kJapanese	チ くも
 U+8719	kJapanese	ショウ シュ ソウ ス
 U+871A	kJapanese	ヒ あぶらむし とぶ
-U+871C	kJapanese	ミツ ビツ みつ はちみつ
+U+871C	kJapanese	ミツ ビツ はちみつ
 U+871E	kJapanese	キ ギ ひる
 U+871F	kJapanese	イク
 U+8721	kJapanese	ショ ワ ジャ セキ シャク うじむし
@@ -10148,7 +10148,7 @@ U+890C	kJapanese	コン ふんどし
 U+890D	kJapanese	タン タ トン ドン みごろ
 U+890E	kJapanese	シュウ ジュ ユウ ユ そで たもと
 U+890F	kJapanese	ユウ シュウ ジュウ ユ そで たもと
-U+8910	kJapanese	カツ カチ ぬのこ かち
+U+8910	kJapanese	カツ カチ ぬのこ
 U+8912	kJapanese	ホウ ほめる
 U+8913	kJapanese	ホ ホウ おしめ おむつ
 U+8915	kJapanese	ユ ヨウ トウ ズ はねかざり
@@ -10496,7 +10496,7 @@ U+8B16	kJapanese	ショク シュク たつ
 U+8B17	kJapanese	ボウ ホウ そしる
 U+8B19	kJapanese	ケン へりくだる
 U+8B1A	kJapanese	シ おくりな
-U+8B1B	kJapanese	コウ こう はかる はなしあう
+U+8B1B	kJapanese	コウ はかる はなしあう
 U+8B1C	kJapanese	ゲン ガン セン
 U+8B1D	kJapanese	シャ ジャ あやまる わび ことわる
 U+8B1E	kJapanese	カク コウ キョウ
@@ -10642,7 +10642,7 @@ U+8C90	kJapanese	ユ イ けもの
 U+8C92	kJapanese	タン まみ
 U+8C93	kJapanese	ビョウ ねこ
 U+8C94	kJapanese	ヒ
-U+8C98	kJapanese	バク ミャク ばく
+U+8C98	kJapanese	バク ミャク
 U+8C99	kJapanese	チュ チョ けもの
 U+8C9B	kJapanese	カン ケン ゲン まみだぬき
 U+8C9C	kJapanese	キャク カク ケキ ク おおざる
@@ -11265,7 +11265,7 @@ U+90A3	kJapanese	ダ ナ なんぞ なに
 U+90A5	kJapanese	シン
 U+90A6	kJapanese	ホウ くに
 U+90A8	kJapanese	ソン むら むらざと
-U+90AA	kJapanese	ヤ ジャ シャ や か よこしま
+U+90AA	kJapanese	ヤ ジャ シャ か よこしま
 U+90AF	kJapanese	カン
 U+90B0	kJapanese	タイ
 U+90B1	kJapanese	キュウ おか
@@ -11558,7 +11558,7 @@ U+925D	kJapanese	リュウ
 U+925E	kJapanese	エツ まさかり
 U+9260	kJapanese	エイ ヨウ
 U+9261	kJapanese	ハン バン すき
-U+9262	kJapanese	ハチ ハツ はち
+U+9262	kJapanese	ハチ ハツ
 U+9264	kJapanese	コウ ク かぎ かける
 U+9265	kJapanese	シュツ ジュチ シュチ ながいばり
 U+9266	kJapanese	セイ ショウ かね
@@ -11682,7 +11682,7 @@ U+931E	kJapanese	シュン ジュン トン タイ ズイ
 U+931F	kJapanese	タン ダン セン ゼン
 U+9320	kJapanese	ジョウ テイ じょうまえ
 U+9321	kJapanese	キ ギ のこぎり かま
-U+9322	kJapanese	セン ぜに せん
+U+9322	kJapanese	セン ぜに
 U+9323	kJapanese	テイ テツ しころ
 U+9324	kJapanese	キ ギ すき
 U+9325	kJapanese	イク なべ
@@ -11881,7 +11881,7 @@ U+946F	kJapanese	セン シン きざむ
 U+9470	kJapanese	ヤク かぎ
 U+9471	kJapanese	サン ゼン するどい
 U+9472	kJapanese	ジョウ ショウ ニョウ ソウ いがた
-U+9475	kJapanese	カン つるべ かん
+U+9475	kJapanese	カン つるべ
 U+9477	kJapanese	ジョウ けぬき くぎぬき
 U+947C	kJapanese	ラ どら
 U+947D	kJapanese	サン きり きる
@@ -12452,7 +12452,7 @@ U+991D	kJapanese	ショク チョク かざる かざり
 U+991E	kJapanese	セン ゼン はなむけ
 U+991F	kJapanese	テツ テチ テイ まつる
 U+9920	kJapanese	ヘイ ヒョウ もち くらう
-U+9921	kJapanese	カン アン あん あんこ
+U+9921	kJapanese	カン アン あんこ
 U+9922	kJapanese	ホウ ブ
 U+9924	kJapanese	タン すすむ くう
 U+9926	kJapanese	チョウ あめ もち
@@ -12717,7 +12717,7 @@ U+9B1B	kJapanese	リョウ たてがみ
 U+9B1C	kJapanese	カン ケン サン ゼン はげる
 U+9B1F	kJapanese	カン わげ みずら
 U+9B20	kJapanese	カツ ガチ カイ ケ たばねる もとゆい
-U+9B22	kJapanese	ヒン ビン びん
+U+9B22	kJapanese	ヒン ビン
 U+9B23	kJapanese	リョウ たてがみ
 U+9B25	kJapanese	トウ ツ カク たたかう あらそう
 U+9B26	kJapanese	トウ たたかう

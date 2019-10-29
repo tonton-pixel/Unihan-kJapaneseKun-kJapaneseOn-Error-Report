@@ -35,7 +35,7 @@ U+4E24	kJapaneseOnKun	RYOU futatsu
 U+4E26	kJapaneseOnKun	HEI nami naraberu narabini
 U+4E28	kJapaneseOnKun	KON SHI JO NYO susumu shirizoku
 U+4E29	kJapaneseOnKun	KYUU matsuwaru
-U+4E2A	kJapaneseOnKun	KA KO ko hi
+U+4E2A	kJapaneseOnKun	KA KO hi
 U+4E2B	kJapaneseOnKun	A futamata agemaki
 U+4E2D	kJapaneseOnKun	CHUU naka uchi ataru
 U+4E2E	kJapaneseOnKun	KEKI KYAKU motsu toru
@@ -416,7 +416,7 @@ U+5007	kJapaneseOnKun	EN ON tanoshimu yorokobu susumeru
 U+5008	kJapaneseOnKun	RAI
 U+5009	kJapaneseOnKun	SOU kura
 U+500A	kJapaneseOnKun	SOU SU kurushimu
-U+500B	kJapaneseOnKun	KO KA ko
+U+500B	kJapaneseOnKun	KO KA
 U+500C	kJapaneseOnKun	KAN toneri
 U+500D	kJapaneseOnKun	BAI somuku masu
 U+500E	kJapaneseOnKun	TEN atsui
@@ -462,7 +462,7 @@ U+5035	kJapaneseOnKun	BU MU
 U+5036	kJapaneseOnKun	KU tomoni
 U+5037	kJapaneseOnKun	DAI NAI nanji
 U+5039	kJapaneseOnKun	KEN tsudzumayaka
-U+503B	kJapaneseOnKun	YA ya
+U+503B	kJapaneseOnKun	YA
 U+503C	kJapaneseOnKun	CHI CHOKU ne atai au
 U+5040	kJapaneseOnKun	EI hanabusa
 U+5041	kJapaneseOnKun	SHOU ageru
@@ -867,7 +867,7 @@ U+5211	kJapaneseOnKun	KEI GYOU nori shioki
 U+5212	kJapaneseOnKun	KA GE saosasu kama saku
 U+5213	kJapaneseOnKun	GUN kezuru tatsu eru suriheru
 U+5214	kJapaneseOnKun	KETSU KECHI eguru
-U+5215	kJapaneseOnKun	RI REI RAI SAKU saku
+U+5215	kJapaneseOnKun	RI REI RAI saku
 U+5216	kJapaneseOnKun	GETSU GUCHI GOTSU GOCHI KATSU kiru ayaui
 U+5217	kJapaneseOnKun	RETSU REI tsuraneru
 U+5218	kJapaneseOnKun	RYUU korosu
@@ -976,7 +976,7 @@ U+5291	kJapaneseOnKun	ZAI SEI SUI soroeru
 U+5292	kJapaneseOnKun	KEN tsurugi
 U+5293	kJapaneseOnKun	GI GEI hanakiru hanakiri saku
 U+5294	kJapaneseOnKun	KEN tsurugi
-U+5295	kJapaneseOnKun	SHITSU SHICHI CHI warifu shichi
+U+5295	kJapaneseOnKun	SHITSU SHICHI CHI warifu
 U+5296	kJapaneseOnKun	SAN ZAN tatsu kezuru
 U+5297	kJapaneseOnKun	SAN ZAN SEN herasu kiru
 U+5298	kJapaneseOnKun	BA MA BI MI kezuru suru wakeru
@@ -1069,7 +1069,7 @@ U+52F6	kJapaneseOnKun	KETSU DECHI hanatsu torisaru
 U+52F7	kJapaneseOnKun	JOU NYOU hashiru
 U+52F8	kJapaneseOnKun	KAN KEN susumeru
 U+52F9	kJapaneseOnKun	HOU tsutsumu
-U+52FA	kJapaneseOnKun	SHAKU shaku
+U+52FA	kJapaneseOnKun	SHAKU
 U+52FB	kJapaneseOnKun	IN sukunai hitoshii
 U+52FC	kJapaneseOnKun	KYUU KU atsumeru atsumaru
 U+52FD	kJapaneseOnKun	BUN MON HOU BOU HYOU tsutsumu
@@ -1809,7 +1809,7 @@ U+5674	kJapaneseOnKun	FUN fuku haku
 U+5675	kJapaneseOnKun	DOU TOU michi
 U+5676	kJapaneseOnKun	KATSU KACHI
 U+5677	kJapaneseOnKun	KIN
-U+5678	kJapaneseOnKun	TON ton
+U+5678	kJapaneseOnKun	TON
 U+5679	kJapaneseOnKun	TOU
 U+567A	kJapaneseOnKun	hanashi
 U+567E	kJapaneseOnKun	IN
@@ -2374,7 +2374,7 @@ U+5946	kJapaneseOnKun	KEN GAN ookii
 U+5947	kJapaneseOnKun	KI kushi mezurashii ayashii
 U+5948	kJapaneseOnKun	NA DAI karanashi
 U+5949	kJapaneseOnKun	HOU BU tatematsuru
-U+594C	kJapaneseOnKun	TEN bochi chobo ten
+U+594C	kJapaneseOnKun	TEN bochi chobo
 U+594E	kJapaneseOnKun	KEI KI mata
 U+594F	kJapaneseOnKun	SOU kanaderu susumeru
 U+5950	kJapaneseOnKun	KAN torikaeru ookii sakan
@@ -3359,7 +3359,7 @@ U+5E28	kJapaneseOnKun	SEI SAI ETSU ECHI SUI ZEI tefuki
 U+5E29	kJapaneseOnKun	SHOU hachimaki zukin
 U+5E2B	kJapaneseOnKun	SHI miyako ikusa osa
 U+5E2C	kJapaneseOnKun	KUN GUN eriate hakama
-U+5E2D	kJapaneseOnKun	SEKI mushiro seki
+U+5E2D	kJapaneseOnKun	SEKI mushiro
 U+5E2E	kJapaneseOnKun	HOU tasukeru
 U+5E2F	kJapaneseOnKun	TAI obi obiru
 U+5E30	kJapaneseOnKun	KI kaeru totsugu okuru
@@ -3867,7 +3867,7 @@ U+60AA	kJapaneseOnKun	AKU O warui nikumu izukunzo
 U+60B0	kJapaneseOnKun	SOU ZU tanoshimu
 U+60B1	kJapaneseOnKun	HI iinayamu
 U+60B2	kJapaneseOnKun	HI kanashii kanashimu kanashimi
-U+60B3	kJapaneseOnKun	TOKU toku oshie
+U+60B3	kJapaneseOnKun	TOKU oshie
 U+60B4	kJapaneseOnKun	SUI yatsureru segare
 U+60B5	kJapaneseOnKun	CHOU itamu uramu
 U+60B6	kJapaneseOnKun	MON modaeru modae
@@ -3908,7 +3908,7 @@ U+60E3	kJapaneseOnKun	SOU isogashii soujite
 U+60E5	kJapaneseOnKun	YOU susumeru
 U+60E7	kJapaneseOnKun	KU GU osoreru
 U+60E8	kJapaneseOnKun	SAN ZAN mijime itamu
-U+60EA	kJapaneseOnKun	TOKU toku oshie
+U+60EA	kJapaneseOnKun	TOKU oshie
 U+60F0	kJapaneseOnKun	DA okotaru
 U+60F1	kJapaneseOnKun	NOU nayamu
 U+60F2	kJapaneseOnKun	UN KIN GIN atsui
@@ -5163,7 +5163,7 @@ U+6852	kJapaneseOnKun	SOU kuwa
 U+6853	kJapaneseOnKun	KAN GAN takeshii meguru ureeru
 U+6854	kJapaneseOnKun	KITSU KETSU hanetsurube
 U+6855	kJapaneseOnKun	KYUU buna
-U+6857	kJapaneseOnKun	TA NE ne
+U+6857	kJapaneseOnKun	TA NE
 U+6858	kJapaneseOnKun	TSUI SUI shii
 U+6859	kJapaneseOnKun	U BOU hoko
 U+685B	kJapaneseOnKun	kase
@@ -5700,7 +5700,7 @@ U+6BB3	kJapaneseOnKun	SHU hoko
 U+6BB4	kJapaneseOnKun	OU naguru utsu tataku
 U+6BB5	kJapaneseOnKun	DAN TAN kitaeru wakachi
 U+6BB7	kJapaneseOnKun	IN AN sakan
-U+6BB8	kJapaneseOnKun	KEI KYOU KOU SEI SHOU kei teki koe
+U+6BB8	kJapaneseOnKun	KEI KYOU KOU SEI SHOU teki koe
 U+6BB9	kJapaneseOnKun	EI uchiatarukoe minikuisugata
 U+6BBA	kJapaneseOnKun	SATSU SETSU SAI korosu sogu kezuru
 U+6BBB	kJapaneseOnKun	KAKU KOKU kara
@@ -6653,7 +6653,7 @@ U+727C	kJapaneseOnKun	KOU KYOU KAN KEN
 U+727D	kJapaneseOnKun	KEN hiku
 U+727E	kJapaneseOnKun	GO sakarau
 U+727F	kJapaneseOnKun	KOKU ori
-U+7280	kJapaneseOnKun	SEI SAI sai katai surudoi
+U+7280	kJapaneseOnKun	SEI SAI katai surudoi
 U+7281	kJapaneseOnKun	RI REI suki
 U+7282	kJapaneseOnKun	RI REI RYUU suki
 U+7284	kJapaneseOnKun	I KI
@@ -6762,7 +6762,7 @@ U+7345	kJapaneseOnKun	SHI shishi
 U+734A	kJapaneseOnKun	SOU
 U+734D	kJapaneseOnKun	KYOU kagami
 U+734E	kJapaneseOnKun	SHOU SOU susumeru
-U+734F	kJapaneseOnKun	BAKU MYAKU baku
+U+734F	kJapaneseOnKun	BAKU MYAKU
 U+7350	kJapaneseOnKun	SHOU noro
 U+7352	kJapaneseOnKun	GOU inu
 U+7356	kJapaneseOnKun	FUN BUN HON BON
@@ -7100,7 +7100,7 @@ U+7566	kJapaneseOnKun	KEI une
 U+7567	kJapaneseOnKun	RYAKU osameru hakaru hobo
 U+7569	kJapaneseOnKun	kesa
 U+756A	kJapaneseOnKun	BAN HAN tsugai tsugau tsugaeru
-U+756B	kJapaneseOnKun	KAKU GA KAI kagiru hakaru hakarigoto kaku
+U+756B	kJapaneseOnKun	KAKU GA KAI kagiru hakaru hakarigoto kakusuru egaku
 U+756C	kJapaneseOnKun	YO arata
 U+756D	kJapaneseOnKun	YO arata yawaragu yakita
 U+756F	kJapaneseOnKun	SHUN
@@ -7109,7 +7109,7 @@ U+7571	kJapaneseOnKun	RYUU RU tomeru tomaru
 U+7572	kJapaneseOnKun	YO SHA arata yakita
 U+7573	kJapaneseOnKun	JOU CHOU tatamu tatami kasaneru
 U+7574	kJapaneseOnKun	CHUU une tagui hatake
-U+7575	kJapaneseOnKun	KAKU GA KAI kagiru hakaru hakarigoto kaku
+U+7575	kJapaneseOnKun	KAKU GA KAI kagiru hakaru hakarigoto kakusuru egaku
 U+7576	kJapaneseOnKun	TOU ataru
 U+7577	kJapaneseOnKun	TETSU nawate
 U+7578	kJapaneseOnKun	KI hashita mezurashii katawa
@@ -7146,7 +7146,7 @@ U+75A5	kJapaneseOnKun	KAI hizen yogosu okori
 U+75AB	kJapaneseOnKun	EKI YAKU eyami
 U+75B1	kJapaneseOnKun	HOU mogasa
 U+75B2	kJapaneseOnKun	HI tsukareru tsukare
-U+75B3	kJapaneseOnKun	KAN kan
+U+75B3	kJapaneseOnKun	KAN
 U+75B4	kJapaneseOnKun	A yamai
 U+75B5	kJapaneseOnKun	SHI kizu
 U+75B8	kJapaneseOnKun	TAN oudan
@@ -7189,7 +7189,7 @@ U+75E9	kJapaneseOnKun	SOU SHUU yaseru
 U+75EC	kJapaneseOnKun	EKI YAKU SEKI SHAKU oroka utsuru
 U+75EE	kJapaneseOnKun	CHOU fukureru
 U+75EF	kJapaneseOnKun	KAN yamu
-U+75F0	kJapaneseOnKun	TAN tan
+U+75F0	kJapaneseOnKun	TAN
 U+75F1	kJapaneseOnKun	HI BI HAI BAI
 U+75F2	kJapaneseOnKun	MA BA shibireru
 U+75F3	kJapaneseOnKun	RIN senki rinbyou
@@ -7250,7 +7250,7 @@ U+7643	kJapaneseOnKun	RYUU RYU tsukareru
 U+7644	kJapaneseOnKun	SHOU JOU SOU yaseru
 U+7645	kJapaneseOnKun	RYUU kobu
 U+7646	kJapaneseOnKun	ROU itamu
-U+7647	kJapaneseOnKun	KAN hikitsuke kan
+U+7647	kJapaneseOnKun	KAN hikitsuke
 U+7648	kJapaneseOnKun	HAI katawa sutareru
 U+7649	kJapaneseOnKun	TAN TA yasu
 U+764A	kJapaneseOnKun	IN ON
@@ -7270,7 +7270,7 @@ U+7665	kJapaneseOnKun	CHOU shikori
 U+7667	kJapaneseOnKun	REKI RYAKU ruireki
 U+7668	kJapaneseOnKun	KAKU
 U+7669	kJapaneseOnKun	RAI kattai
-U+766A	kJapaneseOnKun	SHAKU shaku sashikomi
+U+766A	kJapaneseOnKun	SHAKU sashikomi
 U+766C	kJapaneseOnKun	SEN tamushi
 U+766D	kJapaneseOnKun	EI YOU kobu
 U+766E	kJapaneseOnKun	IN ON haremono
@@ -7869,7 +7869,7 @@ U+7A56	kJapaneseOnKun	KI KE
 U+7A57	kJapaneseOnKun	SUI ho
 U+7A59	kJapaneseOnKun	HOKU BOKU shigeru
 U+7A5C	kJapaneseOnKun	TOU ZU SHOU SHU okute
-U+7A5D	kJapaneseOnKun	SAI sai
+U+7A5D	kJapaneseOnKun	SAI
 U+7A5F	kJapaneseOnKun	SUI ZUI ho
 U+7A60	kJapaneseOnKun	JOU NYU shigeru
 U+7A61	kJapaneseOnKun	SHOKU toriire
@@ -8054,7 +8054,7 @@ U+7B7A	kJapaneseOnKun	KYOU kago hako
 U+7B7F	kJapaneseOnKun	SHOU shino
 U+7B84	kJapaneseOnKun	HAI BAI HI HEKI HEI BYAKU kago
 U+7B86	kJapaneseOnKun	HEI hera no
-U+7B87	kJapaneseOnKun	KA KO ko ka
+U+7B87	kJapaneseOnKun	KA KO
 U+7B89	kJapaneseOnKun	KAI GE
 U+7B8B	kJapaneseOnKun	SEN fuda
 U+7B8D	kJapaneseOnKun	KO taga
@@ -8184,14 +8184,14 @@ U+7C4A	kJapaneseOnKun	TEKI CHAKU
 U+7C4C	kJapaneseOnKun	CHUU kazutori hakarigoto
 U+7C4D	kJapaneseOnKun	SEKI SHAKU fumi
 U+7C4F	kJapaneseOnKun	hata
-U+7C50	kJapaneseOnKun	TOU tou
+U+7C50	kJapaneseOnKun	TOU
 U+7C51	kJapaneseOnKun	SEN
 U+7C52	kJapaneseOnKun	SHUU JU yomu
 U+7C53	kJapaneseOnKun	HAN HON
 U+7C54	kJapaneseOnKun	SU SOU SHU komeagesa
 U+7C55	kJapaneseOnKun	RYUU
 U+7C56	kJapaneseOnKun	SEN kuji kazutori
-U+7C58	kJapaneseOnKun	TOU tou
+U+7C58	kJapaneseOnKun	TOU
 U+7C59	kJapaneseOnKun	RYOKU ROKU honbako
 U+7C5A	kJapaneseOnKun	RO RU e kago
 U+7C5B	kJapaneseOnKun	SEN SAN take
@@ -8253,7 +8253,7 @@ U+7CB3	kJapaneseOnKun	KOU uruchi nuka
 U+7CB5	kJapaneseOnKun	ETSU OCHI kokoni
 U+7CB6	kJapaneseOnKun	ROKU hazekome
 U+7CB7	kJapaneseOnKun	KIKU KOKU kona
-U+7CB9	kJapaneseOnKun	SUI SAI iki sui
+U+7CB9	kJapaneseOnKun	SUI SAI iki
 U+7CBA	kJapaneseOnKun	HAI HA BA BE shirageyone
 U+7CBB	kJapaneseOnKun	CHOU TOU JOU kate
 U+7CBC	kJapaneseOnKun	RIN seseragi
@@ -8390,13 +8390,13 @@ U+7D70	kJapaneseOnKun	TETSU DECHI
 U+7D71	kJapaneseOnKun	TOU suberu suji osameru
 U+7D72	kJapaneseOnKun	SHI BEKI ito
 U+7D73	kJapaneseOnKun	KOU aka
-U+7D75	kJapaneseOnKun	KAI E e
+U+7D75	kJapaneseOnKun	KAI E
 U+7D76	kJapaneseOnKun	ZETSU taeru tatsu tayasu
 U+7D78	kJapaneseOnKun	KEN kinu
 U+7D79	kJapaneseOnKun	KEN kinu
 U+7D7A	kJapaneseOnKun	CHI hosonuno
 U+7D7B	kJapaneseOnKun	BUN MON BEN MEN BAN MAN mofuku
-U+7D7D	kJapaneseOnKun	RYO RO ro
+U+7D7D	kJapaneseOnKun	RYO RO
 U+7D7F	kJapaneseOnKun	KYUU KU kibishii
 U+7D81	kJapaneseOnKun	HOU shibaru
 U+7D82	kJapaneseOnKun	TOU hobiru
@@ -8626,7 +8626,7 @@ U+7F4C	kJapaneseOnKun	OU EI motai
 U+7F4D	kJapaneseOnKun	RAI sakadaru
 U+7F4E	kJapaneseOnKun	TAN DON bin
 U+7F4F	kJapaneseOnKun	RO RU sakadaru
-U+7F50	kJapaneseOnKun	KAN kan hotogi
+U+7F50	kJapaneseOnKun	KAN hotogi
 U+7F51	kJapaneseOnKun	BOU MOU ami
 U+7F52	kJapaneseOnKun	MOU BOU yonkashira yokome
 U+7F53	kJapaneseOnKun	MOU yonkashira yokome
@@ -8647,7 +8647,7 @@ U+7F67	kJapaneseOnKun	SHIN RIN fushidzuke
 U+7F68	kJapaneseOnKun	AN EN ami
 U+7F69	kJapaneseOnKun	TOU komeru
 U+7F6A	kJapaneseOnKun	ZAI SAI tsumi tsumisuru
-U+7F6B	kJapaneseOnKun	KEI KAI kei
+U+7F6B	kJapaneseOnKun	KEI KAI
 U+7F6D	kJapaneseOnKun	YOKU IKI KYOKU
 U+7F6E	kJapaneseOnKun	CHI oku
 U+7F70	kJapaneseOnKun	BATSU BACHI HATSU tsumi togame shioki
@@ -8779,7 +8779,7 @@ U+8030	kJapaneseOnKun	YUU U narasu
 U+8033	kJapaneseOnKun	JI JOU mimi nomi
 U+8034	kJapaneseOnKun	CHOU JOU NYOU
 U+8035	kJapaneseOnKun	TEI CHOU mimikuso
-U+8036	kJapaneseOnKun	YA JA ya ka
+U+8036	kJapaneseOnKun	YA JA ka
 U+8037	kJapaneseOnKun	TOU CHOU
 U+8039	kJapaneseOnKun	KIN GON KEN GEN oto
 U+803A	kJapaneseOnKun	UN YOU miminari
@@ -8855,7 +8855,7 @@ U+80B2	kJapaneseOnKun	IKU sodateru hagukumu sodatsu
 U+80B4	kJapaneseOnKun	KOU sakana
 U+80B8	kJapaneseOnKun	KITSU KICHI KOCHI KETSU KECHI hirogaru
 U+80B9	kJapaneseOnKun	HI KITSU
-U+80BA	kJapaneseOnKun	HAI hai magokoro
+U+80BA	kJapaneseOnKun	HAI magokoro
 U+80C3	kJapaneseOnKun	I ibukuro inofu
 U+80C4	kJapaneseOnKun	CHUU yotsugi chisuji
 U+80C6	kJapaneseOnKun	TAN DAN kimo
@@ -8947,7 +8947,7 @@ U+815F	kJapaneseOnKun	CHITSU
 U+8160	kJapaneseOnKun	SOU SU kime
 U+8161	kJapaneseOnKun	RA KA KE KAI
 U+8165	kJapaneseOnKun	SEI SHOU namagusai
-U+8166	kJapaneseOnKun	NOU DOU nou noumiso atama
+U+8166	kJapaneseOnKun	NOU DOU noumiso atama
 U+8167	kJapaneseOnKun	SHU YU
 U+8168	kJapaneseOnKun	SEN ZEN komura
 U+8169	kJapaneseOnKun	DAN NAN TAN DON
@@ -8956,12 +8956,12 @@ U+816D	kJapaneseOnKun	GAKU haguki
 U+816E	kJapaneseOnKun	SAI ago era
 U+816F	kJapaneseOnKun	TOTSU TOCHI DOCHI TON DON koeru
 U+8170	kJapaneseOnKun	YOU koshi
-U+8171	kJapaneseOnKun	KEN KIN ken
+U+8171	kJapaneseOnKun	KEN KIN
 U+8174	kJapaneseOnKun	YU koeru abura
 U+8177	kJapaneseOnKun	HYOKU BIKI komoru
 U+8178	kJapaneseOnKun	CHOU harawata
 U+8179	kJapaneseOnKun	FUKU hara idaku
-U+817A	kJapaneseOnKun	SEN sen
+U+817A	kJapaneseOnKun	SEN
 U+817D	kJapaneseOnKun	OTSU
 U+817F	kJapaneseOnKun	TAI momo
 U+8180	kJapaneseOnKun	HOU BOU wakibara fukureru
@@ -8984,7 +8984,7 @@ U+8196	kJapaneseOnKun	HOU CHOU CHU hareru
 U+8198	kJapaneseOnKun	HYOU SHOU abara
 U+819A	kJapaneseOnKun	FU hada
 U+819B	kJapaneseOnKun	TOU
-U+819C	kJapaneseOnKun	MAKU BAKU maku usukawa
+U+819C	kJapaneseOnKun	MAKU BAKU usukawa
 U+819D	kJapaneseOnKun	SHITSU hiza
 U+819E	kJapaneseOnKun	SEN ZEN SHUN kirimi
 U+81A0	kJapaneseOnKun	KOU nikawa
@@ -9122,7 +9122,7 @@ U+8264	kJapaneseOnKun	GI funayosooi
 U+8266	kJapaneseOnKun	KAN ikusabune
 U+8267	kJapaneseOnKun	WAKU fune
 U+8268	kJapaneseOnKun	MOU BOU ikusabune
-U+826A	kJapaneseOnKun	RO kai ro
+U+826A	kJapaneseOnKun	RO kai
 U+826B	kJapaneseOnKun	RO hesaki tomo
 U+826D	kJapaneseOnKun	SOU
 U+826E	kJapaneseOnKun	KON ushitora
@@ -9262,7 +9262,7 @@ U+8332	kJapaneseOnKun	JI SHI shigeru masu mushiro
 U+8333	kJapaneseOnKun	KOU
 U+8334	kJapaneseOnKun	KAI UI
 U+8335	kJapaneseOnKun	IN shitone
-U+8336	kJapaneseOnKun	CHA SA TA cha
+U+8336	kJapaneseOnKun	CHA SA TA
 U+8337	kJapaneseOnKun	HAI BAI HITSU HOCHI shigeru
 U+8338	kJapaneseOnKun	JOU shigeru take kinoko
 U+8339	kJapaneseOnKun	JO NYO kuu yuderu
@@ -9498,7 +9498,7 @@ U+84D3	kJapaneseOnKun	HAI BAI tsubomi
 U+84D6	kJapaneseOnKun	HI HEI
 U+84D9	kJapaneseOnKun	za goza
 U+84DA	kJapaneseOnKun	CHOU shibukusa yorokobu
-U+84DC	kJapaneseOnKun	HAI hai
+U+84DC	kJapaneseOnKun	HAI
 U+84E7	kJapaneseOnKun	SHOU shino
 U+84EA	kJapaneseOnKun	TOU TSU akebi
 U+84EC	kJapaneseOnKun	HOU yomogi
@@ -9849,7 +9849,7 @@ U+8716	kJapaneseOnKun	KAI haranomushi
 U+8718	kJapaneseOnKun	CHI kumo
 U+8719	kJapaneseOnKun	SHOU SHU SOU SU
 U+871A	kJapaneseOnKun	HI aburamushi tobu
-U+871C	kJapaneseOnKun	MITSU BITSU mitsu hachimitsu
+U+871C	kJapaneseOnKun	MITSU BITSU hachimitsu
 U+871E	kJapaneseOnKun	KI GI hiru
 U+871F	kJapaneseOnKun	IKU
 U+8721	kJapaneseOnKun	SHO WA JA SEKI SHAKU ujimushi
@@ -10148,7 +10148,7 @@ U+890C	kJapaneseOnKun	KON fundoshi
 U+890D	kJapaneseOnKun	TAN TA TON DON migoro
 U+890E	kJapaneseOnKun	SHUU JU YUU YU sode tamoto
 U+890F	kJapaneseOnKun	YUU SHUU JUU YU sode tamoto
-U+8910	kJapaneseOnKun	KATSU KACHI nunoko kachi
+U+8910	kJapaneseOnKun	KATSU KACHI nunoko
 U+8912	kJapaneseOnKun	HOU homeru
 U+8913	kJapaneseOnKun	HO HOU oshime omutsu
 U+8915	kJapaneseOnKun	YU YOU TOU ZU hanekazari
@@ -10496,7 +10496,7 @@ U+8B16	kJapaneseOnKun	SHOKU SHUKU tatsu
 U+8B17	kJapaneseOnKun	BOU HOU soshiru
 U+8B19	kJapaneseOnKun	KEN herikudaru
 U+8B1A	kJapaneseOnKun	SHI okurina
-U+8B1B	kJapaneseOnKun	KOU kou hakaru hanashiau
+U+8B1B	kJapaneseOnKun	KOU hakaru hanashiau
 U+8B1C	kJapaneseOnKun	GEN GAN SEN
 U+8B1D	kJapaneseOnKun	SHA JA ayamaru wabi kotowaru
 U+8B1E	kJapaneseOnKun	KAKU KOU KYOU
@@ -10642,7 +10642,7 @@ U+8C90	kJapaneseOnKun	YU I kemono
 U+8C92	kJapaneseOnKun	TAN mami
 U+8C93	kJapaneseOnKun	BYOU neko
 U+8C94	kJapaneseOnKun	HI
-U+8C98	kJapaneseOnKun	BAKU MYAKU baku
+U+8C98	kJapaneseOnKun	BAKU MYAKU
 U+8C99	kJapaneseOnKun	CHU CHO kemono
 U+8C9B	kJapaneseOnKun	KAN KEN GEN mamidanuki
 U+8C9C	kJapaneseOnKun	KYAKU KAKU KEKI KU oozaru
@@ -11265,7 +11265,7 @@ U+90A3	kJapaneseOnKun	DA NA nanzo nani
 U+90A5	kJapaneseOnKun	SHIN
 U+90A6	kJapaneseOnKun	HOU kuni
 U+90A8	kJapaneseOnKun	SON mura murazato
-U+90AA	kJapaneseOnKun	YA JA SHA ya ka yokoshima
+U+90AA	kJapaneseOnKun	YA JA SHA ka yokoshima
 U+90AF	kJapaneseOnKun	KAN
 U+90B0	kJapaneseOnKun	TAI
 U+90B1	kJapaneseOnKun	KYUU oka
@@ -11558,7 +11558,7 @@ U+925D	kJapaneseOnKun	RYUU
 U+925E	kJapaneseOnKun	ETSU masakari
 U+9260	kJapaneseOnKun	EI YOU
 U+9261	kJapaneseOnKun	HAN BAN suki
-U+9262	kJapaneseOnKun	HACHI HATSU hachi
+U+9262	kJapaneseOnKun	HACHI HATSU
 U+9264	kJapaneseOnKun	KOU KU kagi kakeru
 U+9265	kJapaneseOnKun	SHUTSU JUCHI SHUCHI nagaibari
 U+9266	kJapaneseOnKun	SEI SHOU kane
@@ -11682,7 +11682,7 @@ U+931E	kJapaneseOnKun	SHUN JUN TON TAI ZUI
 U+931F	kJapaneseOnKun	TAN DAN SEN ZEN
 U+9320	kJapaneseOnKun	JOU TEI joumae
 U+9321	kJapaneseOnKun	KI GI nokogiri kama
-U+9322	kJapaneseOnKun	SEN zeni sen
+U+9322	kJapaneseOnKun	SEN zeni
 U+9323	kJapaneseOnKun	TEI TETSU shikoro
 U+9324	kJapaneseOnKun	KI GI suki
 U+9325	kJapaneseOnKun	IKU nabe
@@ -11881,7 +11881,7 @@ U+946F	kJapaneseOnKun	SEN SHIN kizamu
 U+9470	kJapaneseOnKun	YAKU kagi
 U+9471	kJapaneseOnKun	SAN ZEN surudoi
 U+9472	kJapaneseOnKun	JOU SHOU NYOU SOU igata
-U+9475	kJapaneseOnKun	KAN tsurube kan
+U+9475	kJapaneseOnKun	KAN tsurube
 U+9477	kJapaneseOnKun	JOU kenuki kuginuki
 U+947C	kJapaneseOnKun	RA dora
 U+947D	kJapaneseOnKun	SAN kiri kiru
@@ -12452,7 +12452,7 @@ U+991D	kJapaneseOnKun	SHOKU CHOKU kazaru kazari
 U+991E	kJapaneseOnKun	SEN ZEN hanamuke
 U+991F	kJapaneseOnKun	TETSU TECHI TEI matsuru
 U+9920	kJapaneseOnKun	HEI HYOU mochi kurau
-U+9921	kJapaneseOnKun	KAN AN an anko
+U+9921	kJapaneseOnKun	KAN AN anko
 U+9922	kJapaneseOnKun	HOU BU
 U+9924	kJapaneseOnKun	TAN susumu kuu
 U+9926	kJapaneseOnKun	CHOU ame mochi
@@ -12717,7 +12717,7 @@ U+9B1B	kJapaneseOnKun	RYOU tategami
 U+9B1C	kJapaneseOnKun	KAN KEN SAN ZEN hageru
 U+9B1F	kJapaneseOnKun	KAN wage mizura
 U+9B20	kJapaneseOnKun	KATSU GACHI KAI KE tabaneru motoyui
-U+9B22	kJapaneseOnKun	HIN BIN bin
+U+9B22	kJapaneseOnKun	HIN BIN
 U+9B23	kJapaneseOnKun	RYOU tategami
 U+9B25	kJapaneseOnKun	TOU TSU KAKU tatakau arasou
 U+9B26	kJapaneseOnKun	TOU tatakau

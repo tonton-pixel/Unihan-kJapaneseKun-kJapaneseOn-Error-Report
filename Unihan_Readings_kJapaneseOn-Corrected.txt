@@ -36,6 +36,7 @@ U+51CA	kJapaneseOn	SEI SHOU
 U+51D4	kJapaneseOn	SOU SHOU
 U+5201	kJapaneseOn	CHOU
 U+5202	kJapaneseOn	TOU
+U+5215	kJapaneseOn	RI REI RAI
 U+5260	kJapaneseOn	KEI SHOU RYOU
 U+527C	kJapaneseOn	SAN SHOU
 U+5282	kJapaneseOn	KETSU KUCHI KEI KE
