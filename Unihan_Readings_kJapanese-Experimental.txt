@@ -2729,7 +2729,7 @@ U+5B02	kJapanese	ショク シキ
 U+5B03	kJapanese	シュ あね
 U+5B05	kJapanese	カ ゲ
 U+5B07	kJapanese	カイ エ ケ
-U+5B08	kJapanese	ヂョウ ニョウ ジョウ ドウ ヨウ キョウ わずるわしい なやむ
+U+5B08	kJapanese	ヂョウ ニョウ ジョウ ドウ ヨウ キョウ わずらわしい なやむ
 U+5B09	kJapanese	キ たのしむ うれしい
 U+5B0B	kJapanese	セン ゼン ひきつなが みうち
 U+5B0C	kJapanese	キョウ なまめかしい

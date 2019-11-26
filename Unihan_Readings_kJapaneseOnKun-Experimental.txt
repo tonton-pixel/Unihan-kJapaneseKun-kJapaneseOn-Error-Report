@@ -2729,7 +2729,7 @@ U+5B02	kJapaneseOnKun	SHOKU SHIKI
 U+5B03	kJapaneseOnKun	SHU ane
 U+5B05	kJapaneseOnKun	KA GE
 U+5B07	kJapaneseOnKun	KAI E KE
-U+5B08	kJapaneseOnKun	DJOU NYOU JOU DOU YOU KYOU wazuruwashii nayamu
+U+5B08	kJapaneseOnKun	DJOU NYOU JOU DOU YOU KYOU wazurawashii nayamu
 U+5B09	kJapaneseOnKun	KI tanoshimu ureshii
 U+5B0B	kJapaneseOnKun	SEN ZEN hikitsunaga miuchi
 U+5B0C	kJapaneseOnKun	KYOU namamekashii
