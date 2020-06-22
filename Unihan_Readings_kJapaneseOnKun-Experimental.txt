@@ -13369,6 +13369,7 @@ U+FA2B	kJapaneseOnKun	SHI JI kau yashinau
 U+FA2C	kJapaneseOnKun	KAN yakata tate
 U+FA2D	kJapaneseOnKun	KAKU tsuru
 U+20BEE	kJapaneseOnKun	HIN HON shina
+U+21C56	kJapaneseOnKun	tsubi kubo
 U+22165	kJapaneseOnKun	JU CHU
 U+22218	kJapaneseOnKun	ROKU shika ka
 U+2228D	kJapaneseOnKun	ZU CHUU kuriya

@@ -1,14 +1,14 @@
 # Unihan kJapaneseKun & kJapaneseOn Error Report (Revision 2)
 
 - **Subject: Unihan kJapaneseKun & kJapaneseOn Error Report (Revision 2)**
-- **Date: 2019-11-26**
+- **Date: 2020-06-22**
 - **Author: Michel MARIANI**
 
 This error report intends to correct issues found in the `kJapaneseKun` and `kJapaneseOn` fields of the **Unihan_Readings.txt** data file.
 
     # Unihan_Readings.txt
-    # Date: 2018-11-09 21:36:19 GMT [JHJ]
-    # Unicode version: 12.0.0
+    # Date: 2020-02-18 18:27:33 GMT [JHJ]
+    # Unicode version: 13.0.0
 
 ## Aims and Objectives
 
@@ -563,7 +563,6 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 <tr><td>U+8555</td><td>蕕</td><td>KARIGANESO KUSAMI</td><td>KARIGANESOU KUSAMI</td><td>KARIGANESOU: related to【雁金草】かりがねそう</td></tr>
 <tr><td>U+8585</td><td>薅</td><td>KUKIOTORU</td><td>KUKIWOTORU</td><td><a href="https://tangorin.com/kanji?search=%E8%96%85">薅 - Kanji - Japanese Dictionary Tangorin</a>:<br>くきをとる</td></tr>
 <tr><td>U+85BF</td><td>薿</td><td>SHIGIRU</td><td>SHIGERU</td><td><a href="https://tangorin.com/kanji?search=%E8%96%BF">薿 - Kanji - Japanese Dictionary Tangorin</a>:<br>しげる</td></tr>
-<tr><td>U+85E0</td><td>藠</td><td>RATSUKIYOU</td><td>RAKKYOU</td><td><a href="https://en.wiktionary.org/wiki/%E8%97%A0">藠 - Wiktionary</a>:<br>Kun: らっきょう (rakkyō)</td></tr>
 <tr><td>U+85ED</td><td>藭</td><td>SENKIYUU</td><td>SENKYUU</td><td><a href="https://en.wiktionary.org/wiki/%E8%97%AD">藭 - Wiktionary</a>;<br>Kun: せんきゅう (senkyū)</td></tr>
 <tr><td>U+860B</td><td>蘋</td><td>UKIKUSA DENJISO</td><td>UKIKUSA DENJISOU</td><td>Related to【田字草】でんじそう</td></tr>
 <tr><td>U+860D</td><td>蘍</td><td>KAOORU</td><td>KAORU</td><td><a href="https://en.wiktionary.org/wiki/%E8%98%8D">蘍 - Wiktionary</a>:<br>Kun: かおる (kaoru)</td></tr>
@@ -1040,5 +1039,10 @@ As an experimental feature, the attached files **Unihan_Readings_kJapanese-Exper
 
 ### Revision 2
 
-- Added 1 missing correction for U+5B08 嬈
+- Updated Unihan_Readings.txt to Unicode version 13.0.0.
+- Removed correction of kJapaneseKun for U+85E0 藠 (fixed in Unicode 13.0.0).
+- Added 1 missing correction for U+5B08 嬈.
 
+## Addenda
+
+以上です。

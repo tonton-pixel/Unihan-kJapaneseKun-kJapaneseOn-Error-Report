@@ -13369,6 +13369,7 @@ U+FA2B	kJapanese	シ ジ かう やしなう
 U+FA2C	kJapanese	カン やかた たて
 U+FA2D	kJapanese	カク つる
 U+20BEE	kJapanese	ヒン ホン しな
+U+21C56	kJapanese	つび くぼ
 U+22165	kJapanese	ジュ チュ
 U+22218	kJapanese	ロク しか か
 U+2228D	kJapanese	ズ チュウ くりや
